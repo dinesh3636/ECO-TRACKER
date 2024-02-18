@@ -14,6 +14,7 @@ import Logout from "../../assests/icons/Logout.png";
 import Badge from "@mui/material/Badge";
 import Sidebar from "../Sidebar/Sidebar";
 
+
 const Navbar = () => {
   const [anchorEl, setAnchorEl] = React.useState(null);
   const open = Boolean(anchorEl);
@@ -29,7 +30,7 @@ const Navbar = () => {
         <div>
           <Sidebar />
         </div>
-        <span className={styles.navLink}>Dashboard</span>
+        <span className={styles.navLink}>Eco-Friendly Journey Planner</span>
       </div>
 
       <div style={{ display: "flex", alignItems: "center" }}>
