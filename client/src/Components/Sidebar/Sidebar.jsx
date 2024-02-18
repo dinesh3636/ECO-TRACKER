@@ -1,4 +1,5 @@
 import * as React from 'react';
+import { Link } from 'react-router-dom';
 import Box from '@mui/material/Box';
 import SwipeableDrawer from '@mui/material/SwipeableDrawer';
 import Button from '@mui/material/Button';
@@ -45,7 +46,7 @@ function SwipeableTemporaryDrawer() {
   <img src={Logo} alt='logo' className={styles.logo}/>
  
    <List className={styles.menuItems}>
-    <ListItemButton className={styles.menuList}>
+    <ListItemButton to="/dashboard"  component={Link} className={styles.menuList}>
       <ListItemIcon>
         <DashboardIcon className={styles.icon}/>
       </ListItemIcon>

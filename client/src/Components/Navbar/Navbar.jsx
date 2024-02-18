@@ -80,7 +80,7 @@ const Navbar = () => {
         anchorOrigin={{ horizontal: "right", vertical: "bottom" }}
         style={{ marginTop: "10px", borderRadius: "10px" }}
       >
-        <MenuItem onClick={handleClose} to="/profile" component={Link} className={styles.MenuItems}>
+        <MenuItem onClick={handleClose} to="/profile" className={styles.MenuItems}>
 
           <div className={styles.Profile}>
             <Badge
@@ -116,13 +116,13 @@ const Navbar = () => {
           </div>
         </MenuItem>
 
-        <MenuItem onClick={handleClose} to="/dashboard"  component={Link} className={styles.MenuItems}>
+        {/* <MenuItem onClick={handleClose} to="/dashboard"  component={Link} className={styles.MenuItems}>
           <ListItemIcon >
           <img src={Dashborad} alt="dashboard" width={20} height={20}/>
             
           </ListItemIcon>
           Dash Board
-        </MenuItem>
+        </MenuItem> */}
         <MenuItem onClick={handleClose} to="/settings" className={styles.MenuItems}>
           <ListItemIcon >
             <img src={Settings} alt="Setting" width={26} height={26}/>
