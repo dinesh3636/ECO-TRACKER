@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from 'react';
-import config from '../../../config';
+import config from '../../../../config';
 import ReactApexChart from 'react-apexcharts';
 import styles from './topic.module.css';
 import Skeleton from '@mui/material/Skeleton';

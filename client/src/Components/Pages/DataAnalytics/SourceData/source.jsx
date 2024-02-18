@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import ReactApexChart from 'react-apexcharts';
-import config from '../../../config';
+import config from '../../../../config';
 import styles from './source.module.css';
 import Skeleton from '@mui/material/Skeleton';
 import Stack from '@mui/material/Stack';

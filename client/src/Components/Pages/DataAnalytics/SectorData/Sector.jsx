@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import config from '../../../config';
+import config from '../../../../config';
 import Chart from 'react-apexcharts';
 import InputLabel from '@mui/material/InputLabel';
 import MenuItem from '@mui/material/MenuItem';

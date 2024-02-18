@@ -1,6 +1,6 @@
 import React from 'react';
 import styles from './Dashboard.module.css';
-import Sector from '../DataAnalytics/SectorData/Sector'; 
+import Sector from '../DataAnalytics/SectorData/Sector';
 import PESTLE from '../DataAnalytics/PestleData/PESTLE';
 import Country from '../DataAnalytics/CountryData/country';
 import Topic from '../DataAnalytics/TopicsData/topic';
