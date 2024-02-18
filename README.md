@@ -1,42 +1,34 @@
+# Interactive Map Interface for Route Planning and Fuel Type Optimization
 
-# Dynamic Data Visualization Dashboard
+## Overview
 
-This repository contains a dynamic data visualization dashboard built using the MERN stack (MongoDB, Express, React, Node.js) along with ApexCharts and Material-UI. Interactive and visually appealing charts and visuals based on the data.
-
-## Table of Contents
-
-- [Introduction](#introduction)
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Preview](#Preview)
-
-## Introduction
-
-Data visualization is an essential part of data analysis, and this project aims to simplify the process of creating dynamic and informative data visualizations. It uses ApexCharts, a highly customizable charting library, along with a MongoDB database to store and retrieve data.
+This project aims to facilitate user interaction through a map interface, providing a seamless experience for location entry, route planning, and optimization of fuel type for transportation vehicles. Leveraging machine learning algorithms, the application predicts optimal routes based on emission rates, cost, and distances. Users can compare routes, select preferred transportation modes, and receive navigation instructions.
 
 ## Features
 
-- Dynamic data visualization using ApexCharts.
-- Data stored and retrieved from a MongoDB database.
-- Interactive dashboard built with Material-UI.
-- Scalable and modular MERN stack architecture.
-- Easily extensible for custom data sources and chart types.
+1. **Map Interface:**
+   - Users can interact with the map interface to input locations via a search bar or marker.
 
-## Technologies Used
+2. **Route Planning:**
+   - Input source, destination, and optional waypoints for comprehensive journey planning.
 
-- Node.js
-- MongoDB
-- React.js
-- Material-UI
-- Express.js
-- ApexCharts
+3. **Fuel Type Optimization:**
+   - Integrated machine learning suggests optimal fuel types for transportation vehicles based on factors like efficiency, cost, and environmental impact.
 
-## Preview
+4. **Optimal Route Prediction:**
+   - Utilizes machine learning to identify the top 3 optimal routes considering emission rate, cost, and distance from NREL API and dataset.
 
-![Image 1](./images/1.png)
-![Image 2](./images/2.png)
-![Image 3](./images/3.png)
-![Image 4](./images/4.png)
+5. **Route Comparison:**
+   - Displays optimal routes, highlighting differences in emission rates, costs, and distances, facilitating user selection based on preferences.
 
+6. **Transportation Options:**
+   - Presents various transportation modes (e.g., walking, cycling, auto-rickshaw, carpooling, bus, train, metro, airplane) for each route with estimated time, cost, and environmental impact.
 
+7. **Route Selection:**
+   - Enables users to choose preferred routes and transportation modes, providing navigation instructions for a seamless journey.
 
+## Getting Started
+
+1. **Clone the Repository:**
+   ```bash
+   git clone https://github.com/your-username/your-repository.git
