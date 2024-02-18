@@ -52,7 +52,7 @@ function SwipeableTemporaryDrawer() {
       </ListItemIcon>
       <ListItemText primary="Dashboard" />
     </ListItemButton>
-    <ListItemButton className={styles.menuList}>
+    <ListItemButton to="/analytics"  component={Link}className={styles.menuList}>
       <ListItemIcon>
         <BarChartIcon className={styles.icon}/>
       </ListItemIcon>
@@ -62,13 +62,13 @@ function SwipeableTemporaryDrawer() {
       <ListItemIcon>
         <AccountCircleIcon className={styles.icon}/>
       </ListItemIcon>
-      <ListItemText primary="Profile" />
+      <ListItemText to="/profile"  component={Link} primary="Profile" />
     </ListItemButton>
     <ListItemButton className={styles.menuList}>
       <ListItemIcon>
         <SettingsIcon className={styles.icon}/>
       </ListItemIcon>
-      <ListItemText primary="Settings" />
+      <ListItemText to="/settings"  component={Link}primary="Settings" />
     </ListItemButton>
 
       <ListItemButton className={styles.lastItem}>
