@@ -2,13 +2,13 @@ import React from "react";
 import styles from "./Navbar.module.css"; 
 import Avatar from "react-avatar";
 import Menu from "@mui/material/Menu";
-import Notify from "../../assests/icons/Notification.png";
+import Dashborad from '../../assests/icons/dashboard.png'
+import { Link } from "react-router-dom";
 import MenuItem from "@mui/material/MenuItem";
 import ListItemIcon from "@mui/material/ListItemIcon";
 import Divider from "@mui/material/Divider";
 import Person from '../../assests/icons/Person.png'
 import Help from "../../assests/icons/Help.png";
-import Billing from "../../assests/icons/Billing.png";
 import Settings from "../../assests/icons/Setting.png";
 import Logout from "../../assests/icons/Logout.png";
 import Badge from "@mui/material/Badge";
@@ -80,7 +80,7 @@ const Navbar = () => {
         anchorOrigin={{ horizontal: "right", vertical: "bottom" }}
         style={{ marginTop: "10px", borderRadius: "10px" }}
       >
-        <MenuItem onClick={handleClose} className={styles.MenuItems}>
+        <MenuItem onClick={handleClose} to="/profile" className={styles.MenuItems}>
 
           <div className={styles.Profile}>
             <Badge
@@ -116,38 +116,28 @@ const Navbar = () => {
           </div>
         </MenuItem>
 
-        <MenuItem onClick={handleClose} className={styles.MenuItems}>
+        <MenuItem onClick={handleClose} to="/dashboard"  component={Link} className={styles.MenuItems}>
           <ListItemIcon >
-            <img src={Person} alt="Person" width={30} height={30}/>
+          <img src={Dashborad} alt="dashboard" width={20} height={20}/>
+            
           </ListItemIcon>
-          Profile - new
+          Dash Board
         </MenuItem>
-        <MenuItem onClick={handleClose} className={styles.MenuItems}>
-          <ListItemIcon >
-            <img src={Notify} alt="Notification" width={26} height={26}/>
-          </ListItemIcon>
-          Notification
-        </MenuItem>
-        <MenuItem onClick={handleClose} className={styles.MenuItems}>
+        <MenuItem onClick={handleClose} to="/settings" className={styles.MenuItems}>
           <ListItemIcon >
             <img src={Settings} alt="Setting" width={26} height={26}/>
           </ListItemIcon>
           Settings
         </MenuItem>
-        <MenuItem onClick={handleClose} className={styles.MenuItems}>
-          <ListItemIcon >
-            <img src={Billing} alt="Billing" width={26} height={26}/>
-          </ListItemIcon>
-          Billing
-        </MenuItem>
+        
         <Divider />
-        <MenuItem onClick={handleClose} className={styles.MenuItems}>
+        <MenuItem onClick={handleClose} to="/help" className={styles.MenuItems}>
           <ListItemIcon >
              <img src={Help} alt="Help" width={26} height={26}/>
           </ListItemIcon>
           Help
         </MenuItem>
-        <MenuItem onClick={handleClose} className={styles.MenuItems}>
+        <MenuItem onClick={handleClose}  className={styles.MenuItems}>
           <ListItemIcon >
             <img src={Logout} alt="Logout" width={25} height={25}/>
           </ListItemIcon>

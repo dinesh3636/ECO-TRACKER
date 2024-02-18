@@ -1,8 +1,8 @@
 import React, { useState, useEffect, useRef } from 'react';
-import config from '../../../config';
-import piechart from '../../../assests/img/piechart_3d.png';
-import barchart from '../../../assests/img/barchart_3d.png';
-import network from '../../../assests/img/network_3d.png';
+import config from '../../../../config';
+import piechart from '../../../../assests/img/piechart_3d.png';
+import barchart from '../../../../assests/img/barchart_3d.png';
+import network from '../../../../assests/img/network_3d.png';
 import styles from './PESTLE.module.css';
 import Skeleton from '@mui/material/Skeleton';
 import Grid from '@mui/material/Grid';

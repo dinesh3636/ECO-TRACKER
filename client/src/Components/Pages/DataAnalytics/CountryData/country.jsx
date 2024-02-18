@@ -1,16 +1,15 @@
 import React, { useState, useEffect } from 'react';
-import config from '../../../config';
+import config from '../../../../config';
 import styles from './country.module.css';
-import usaFlag from '../../../assests/flags/usa.svg';
-import russiaFlag from '../../../assests/flags/russia.svg';
-import chinaFlag from '../../../assests/flags/china.svg';
-import iranFlag from '../../../assests/flags/iran.svg';
-import indiaFlag from '../../../assests/flags/india.svg';
-import saudiArabiaFlag from '../../../assests/flags/saudiarabia.svg';
-import iraqFlag from '../../../assests/flags/iraq.svg';
-import libyaFlag from '../../../assests/flags/libya.svg';
-import indonesiaFlag from '../../../assests/flags/indonesia.svg';
-import japanFlag from '../../../assests/flags/japan.svg';
+import usaFlag from '../../../../assests/flags/usa.svg';
+import russiaFlag from '../../../../assests/flags/russia.svg';
+import chinaFlag from '../../../../assests/flags/china.svg';
+import iranFlag from '../../../../assests/flags/iran.svg';
+import indiaFlag from '../../../../assests/flags/india.svg';
+import iraqFlag from '../../../../assests/flags/iraq.svg';
+import libyaFlag from '../../../../assests/flags/libya.svg';
+import indonesiaFlag from '../../../../assests/flags/indonesia.svg';
+import japanFlag from '../../../../assests/flags/japan.svg';
 import Skeleton from '@mui/material/Skeleton';
 import Stack from '@mui/material/Stack';
 
@@ -20,7 +19,7 @@ const flagImages = {
   'China': chinaFlag,
   'Iran': iranFlag,
   'India': indiaFlag,
-  'Saudi Arabia': saudiArabiaFlag,
+
   'Iraq': iraqFlag,
   'Libya': libyaFlag,
   'Indonesia': indonesiaFlag,
