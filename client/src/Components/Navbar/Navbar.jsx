@@ -80,7 +80,7 @@ const Navbar = () => {
         anchorOrigin={{ horizontal: "right", vertical: "bottom" }}
         style={{ marginTop: "10px", borderRadius: "10px" }}
       >
-        <MenuItem onClick={handleClose} to="/profile" className={styles.MenuItems}>
+        <MenuItem onClick={handleClose} to="/profile" component={Link} className={styles.MenuItems}>
 
           <div className={styles.Profile}>
             <Badge
