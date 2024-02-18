@@ -119,7 +119,7 @@ const Navbar = () => {
           <ListItemIcon >
             <img src={Person} alt="Person" width={30} height={30}/>
           </ListItemIcon>
-          Profile
+          Profile - new
         </MenuItem>
         <MenuItem onClick={handleClose} className={styles.MenuItems}>
           <ListItemIcon >
