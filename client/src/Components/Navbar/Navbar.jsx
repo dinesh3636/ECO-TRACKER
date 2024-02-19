@@ -2,19 +2,18 @@ import React from "react";
 import styles from "./Navbar.module.css"; 
 import Avatar from "react-avatar";
 import Menu from "@mui/material/Menu";
-import Dashborad from '../../assests/icons/dashboard.png'
 import { Link } from "react-router-dom";
 import MenuItem from "@mui/material/MenuItem";
 import ListItemIcon from "@mui/material/ListItemIcon";
 import Divider from "@mui/material/Divider";
-import Person from '../../assests/icons/Person.png'
 import Help from "../../assests/icons/Help.png";
 import Settings from "../../assests/icons/Setting.png";
 import Logout from "../../assests/icons/Logout.png";
 import Badge from "@mui/material/Badge";
 import Sidebar from "../Sidebar/Sidebar";
-
-
+import aboutus from "../../assests/icons/aboutus.png"
+import logoicon from '../../assests/icons/eco-journey-logo-icon-bg.png'
+import logotext from '../../assests/icons/eco-journey-logo-text-bg.png'
 const Navbar = () => {
   const [anchorEl, setAnchorEl] = React.useState(null);
   const open = Boolean(anchorEl);
@@ -30,7 +29,7 @@ const Navbar = () => {
         <div>
           <Sidebar />
         </div>
-        <span className={styles.navLink}>Eco-Friendly Journey Planner</span>
+        <span className={styles.navLink}><img src={logoicon} style={{height:'30px'}} alt="" /><img style={{height:'30px'}} src={logotext} alt="" /></span>
       </div>
 
       <div style={{ display: "flex", alignItems: "center" }}>
@@ -115,15 +114,13 @@ const Navbar = () => {
             </div>
           </div>
         </MenuItem>
-
-        {/* <MenuItem onClick={handleClose} to="/dashboard"  component={Link} className={styles.MenuItems}>
+        <MenuItem onClick={handleClose} to="/aboutus" component={Link} className={styles.MenuItems}>
           <ListItemIcon >
-          <img src={Dashborad} alt="dashboard" width={20} height={20}/>
-            
+             <img src={aboutus} alt="Help" width={26} height={26}/>
           </ListItemIcon>
-          Dash Board
-        </MenuItem> */}
-        <MenuItem onClick={handleClose} to="/settings" className={styles.MenuItems}>
+          About Us
+        </MenuItem>
+        <MenuItem onClick={handleClose} to="/settings" component={Link} className={styles.MenuItems}>
           <ListItemIcon >
             <img src={Settings} alt="Setting" width={26} height={26}/>
           </ListItemIcon>
@@ -131,12 +128,13 @@ const Navbar = () => {
         </MenuItem>
         
         <Divider />
-        <MenuItem onClick={handleClose} to="/help" className={styles.MenuItems}>
+        <MenuItem onClick={handleClose} to="/help" component={Link} className={styles.MenuItems}>
           <ListItemIcon >
              <img src={Help} alt="Help" width={26} height={26}/>
           </ListItemIcon>
           Help
         </MenuItem>
+        
         <MenuItem onClick={handleClose}  className={styles.MenuItems}>
           <ListItemIcon >
             <img src={Logout} alt="Logout" width={25} height={25}/>
