@@ -59,7 +59,7 @@ function SwipeableTemporaryDrawer() {
       </ListItemIcon>
       <ListItemText primary="Dashboard" />
     </ListItemButton>
-    <ListItemButton to="/analytics"  component={Link}className={styles.menuList}>
+    <ListItemButton to="/analytics"  component={Link} className={styles.menuList}>
       <ListItemIcon>
         <BarChartIcon className={styles.icon}/>
       </ListItemIcon>
