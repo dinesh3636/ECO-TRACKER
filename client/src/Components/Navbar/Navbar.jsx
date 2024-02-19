@@ -14,6 +14,9 @@ import Sidebar from "../Sidebar/Sidebar";
 import aboutus from "../../assests/icons/aboutus.png"
 import logoicon from '../../assests/icons/eco-journey-logo-icon-bg.png'
 import logotext from '../../assests/icons/eco-journey-logo-text-bg.png'
+import Login from "../Pages/Login/Login";
+import Register from "../Pages/Register/Register";
+
 const Navbar = () => {
   const [anchorEl, setAnchorEl] = React.useState(null);
   const open = Boolean(anchorEl);
@@ -29,8 +32,9 @@ const Navbar = () => {
         <div>
           <Sidebar />
         </div>
-        <span className={styles.navLink}><img src={logoicon} style={{height:'30px'}} alt="" /><img style={{height:'30px'}} src={logotext} alt="" /></span>
-      </div>``
+        <span className={styles.navLink}><img src={logoicon} style={{height:'70px'}} alt="" /><img style={{height:'55px',padding:'20px 120px 0 420px'}} src={logotext} alt="" /></span>
+      </div>
+
       <div style={{ display: "flex", alignItems: "center" }}>
         <div className={styles.containerInput}>
           <input type="text" placeholder="Search" name="text" className={styles.input} />
@@ -134,11 +138,11 @@ const Navbar = () => {
           Help
         </MenuItem>
         
-        <MenuItem onClick={handleClose}  className={styles.MenuItems}>
+        <MenuItem onClick={handleClose} to="/Register" component={Link} className={styles.MenuItems}>
           <ListItemIcon >
-            <img src={Logout} alt="Logout" width={25} height={25}/>
+            <img src={Register} alt="Register" width={25} height={25}/>
           </ListItemIcon>
-          Logout
+          Register
         </MenuItem>
          <Divider />
          <div

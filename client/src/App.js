@@ -7,6 +7,8 @@ import Settings from './Components/Pages/Settings/Settings'
 import Carpooling from './Components/Pages/Carpooling/Carpooling';
 import GoogleMap from './Components/GoogleMap/GoogleMap';
 import './App.css';
+import Register from './Components/Pages/Register/Register';
+import Login from './Components/Pages/Login/Login';
 
 function App() {
   return (
@@ -18,11 +20,8 @@ function App() {
         <Route path="/profile" element={<Profile/>} />
         <Route path="/settings" element={<Settings/>} />
         <Route path="/carpooling" element={<Carpooling/>} />
-        
-        
-
-
-
+        <Route path="/register" element={<Register/>} />
+        <Route path="/login" element={<Login/>} />
 </Routes>
     
     </>
