@@ -17,7 +17,7 @@ import styles from  './Sidebar.module.css'; // Import your CSS file for styling
 import ExitToAppIcon from '@mui/icons-material/ExitToApp'; // Import Logout icon
 import logoicon from '../../assests/icons/eco-journey-logo-icon-bg.png'
 import logotext from '../../assests/icons/eco-journey-logo-text-bg.png'
-// import { makeStyles } from '@material-ui/core/styles';
+
 
 
 function SwipeableTemporaryDrawer() {
@@ -46,12 +46,12 @@ function SwipeableTemporaryDrawer() {
   onClick={toggleDrawer(anchor, false)}
   onKeyDown={toggleDrawer(anchor, false)}
 >
-  {/* R  */}
   {/* Add logo image here */}
-  <div style={{display:'flex', flexDirection:'column',padding:'30px 0px 0px 0px'}}>
-  <img src={logoicon} style={{height:'155px', width:'auto', padding:'2px'}} alt='logo' className={styles.logo}/>
-  <img src={logotext} style={{height:'50px', width:'1100px ',margin:'0 0 0 25px'}} alt='logo' className={styles.logo}/>
+  <div>
+  <img src={logoicon} alt='logo' className={styles.logo}/>
+  <img src={logotext} alt='logo' className={styles.logo}/>
   </div>
+ 
    <List className={styles.menuItems}>
     <ListItemButton to="/dashboard"  component={Link} className={styles.menuList}>
       <ListItemIcon>
@@ -59,7 +59,7 @@ function SwipeableTemporaryDrawer() {
       </ListItemIcon>
       <ListItemText primary="Dashboard" />
     </ListItemButton>
-    <ListItemButton to="/analytics"  component={Link} className={styles.menuList}>
+    <ListItemButton to="/analytics"  component={Link}className={styles.menuList}>
       <ListItemIcon>
         <BarChartIcon className={styles.icon}/>
       </ListItemIcon>
