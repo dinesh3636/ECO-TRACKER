@@ -67,7 +67,7 @@ const Register = () => {
       console.log(user);
       axios.post("http://localhost:9002/signup/", user).then((res) => {
         alert(res.data.message);
-        navigate("/login", { replace: true });
+        navigate("/signin", { replace: true });
       });
     }
   }, [formErrors]);
@@ -125,7 +125,7 @@ const Register = () => {
             Register
           </button>
         </form>
-        <NavLink to="/login">Already registered? Login</NavLink>
+        <NavLink to="/signin">Already registered? Login</NavLink>
       </div>
     </>
   );

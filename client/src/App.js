@@ -20,8 +20,8 @@ function App() {
         <Route path="/profile" element={<Profile/>} />
         <Route path="/settings" element={<Settings/>} />
         <Route path="/carpooling" element={<Carpooling/>} />
-        <Route path="/register" element={<Register/>} />
-        <Route path="/login" element={<Login/>} />
+        <Route path="/signup" element={<Register/>} />
+        <Route path="/signin" element={<Login/>} />
 </Routes>
     
     </>

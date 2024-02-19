@@ -1,4 +1,8 @@
 
+*{
+  margin: 0;
+
+}
 .navbar {
   background: white;
   display: flex;
