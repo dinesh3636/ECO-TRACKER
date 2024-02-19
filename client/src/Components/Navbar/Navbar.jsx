@@ -30,8 +30,7 @@ const Navbar = () => {
           <Sidebar />
         </div>
         <span className={styles.navLink}><img src={logoicon} style={{height:'30px'}} alt="" /><img style={{height:'30px'}} src={logotext} alt="" /></span>
-      </div>
-
+      </div>``
       <div style={{ display: "flex", alignItems: "center" }}>
         <div className={styles.containerInput}>
           <input type="text" placeholder="Search" name="text" className={styles.input} />
