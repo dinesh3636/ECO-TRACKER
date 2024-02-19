@@ -2,13 +2,30 @@ import React, { useEffect } from 'react';
 
 const GoogleMap = () => {
   useEffect(() => {
-    // Load the Google Maps JavaScript API
-    const script = document.createElement('script');
-    script.src = `https://maps.googleapis.com/maps/api/js?key=AIzaSyBIbadEdJGrJDTiFtbsEQ1EW05hkw_OZig&callback=initMap`;
-    script.defer = true;
-    document.head.appendChild(script);
+    const loadGoogleMapsScript = () => {
+      if (!window.google) {
+        const script = document.createElement('script');
+        script.src = `https://maps.googleapis.com/maps/api/js?key=AIzaSyBIbadEdJGrJDTiFtbsEQ1EW05hkw_OZig`;
+        script.defer = true;
+        script.async = true;
 
-    script.onload = () => {
+        script.onload = () => {
+          initializeMap();
+        };
+
+        script.onerror = () => {
+          console.error('Error loading Google Maps script.');
+        };
+
+        document.head.appendChild(script);
+
+        return () => {
+          document.head.removeChild(script);
+        };
+      }
+    };
+
+    const initializeMap = () => {
       // Initialize the map
       const map = new window.google.maps.Map(document.getElementById('map'), {
         center: { lat: -34.397, lng: 150.644 },
@@ -32,10 +49,7 @@ const GoogleMap = () => {
       });
     };
 
-    // Cleanup function to remove the script when the component is unmounted
-    return () => {
-      document.head.removeChild(script);
-    };
+    loadGoogleMapsScript();
   }, []); // Empty dependency array to ensure this effect runs only once
 
   return <div id="map" style={{ height: '400px' }}></div>;

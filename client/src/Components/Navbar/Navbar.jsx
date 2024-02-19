@@ -3,6 +3,7 @@ import styles from "./Navbar.module.css";
 import Avatar from "react-avatar";
 import Menu from "@mui/material/Menu";
 import { Link } from "react-router-dom";
+import { NavLink } from "react-router-dom";
 import MenuItem from "@mui/material/MenuItem";
 import ListItemIcon from "@mui/material/ListItemIcon";
 import Divider from "@mui/material/Divider";
@@ -14,6 +15,8 @@ import Sidebar from "../Sidebar/Sidebar";
 import aboutus from "../../assests/icons/aboutus.png"
 import logoicon from '../../assests/icons/eco-journey-logo-icon-bg.png'
 import logotext from '../../assests/icons/eco-journey-logo-text-bg.png'
+import Register from "../Pages/Register/Register";
+import person from "../../assests/icons/Person.png"
 const Navbar = () => {
   const [anchorEl, setAnchorEl] = React.useState(null);
   const open = Boolean(anchorEl);
@@ -29,11 +32,11 @@ const Navbar = () => {
         <div>
           <Sidebar />
         </div>
-        <span className={styles.navLink}><img src={logoicon} style={{height:'30px'}} alt="" /><img style={{height:'30px'}} src={logotext} alt="" /></span>
+        <NavLink to="/"><span className={styles.navLink} style={{display:'flex',marginLeft:'10px', alignItems:'center'}}><img src={logoicon} style={{height:'70px'}} alt="" /><img style={{height:'55px'}} src={logotext} alt="" /></span></NavLink>
       </div>
 
       <div style={{ display: "flex", alignItems: "center" }}>
-        <div className={styles.containerInput}>
+        {/* <div className={styles.containerInput}>
           <input type="text" placeholder="Search" name="text" className={styles.input} />
           <svg
             fill="#000000"
@@ -47,7 +50,15 @@ const Navbar = () => {
               fill-rule="evenodd"
             ></path>
           </svg>
-        </div>
+        </div> */}
+
+        <MenuItem onClick={handleClose} to="/signup" component={Link} className={styles.MenuItems}>
+          <ListItemIcon >
+            <img src={person} alt="Register" width={25} height={25}/>
+          </ListItemIcon>
+          Register
+        </MenuItem>
+
         <div className={styles.avatar}>
           <Badge
             color="success"
@@ -134,13 +145,14 @@ const Navbar = () => {
           </ListItemIcon>
           Help
         </MenuItem>
-        
-        <MenuItem onClick={handleClose}  className={styles.MenuItems}>
+
+        <MenuItem onClick={handleClose} to="/logout" component={Link} className={styles.MenuItems}>
           <ListItemIcon >
-            <img src={Logout} alt="Logout" width={25} height={25}/>
+            <img src={Logout} alt="logout" width={25} height={25}/>
           </ListItemIcon>
           Logout
         </MenuItem>
+        
          <Divider />
          <div
                
