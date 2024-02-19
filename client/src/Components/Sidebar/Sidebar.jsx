@@ -15,6 +15,10 @@ import Logo from '../../assests/logo/logo.png';
 import MenuIcon from '@mui/icons-material/Menu'; // Import Menu icon
 import styles from  './Sidebar.module.css'; // Import your CSS file for styling
 import ExitToAppIcon from '@mui/icons-material/ExitToApp'; // Import Logout icon
+import logoicon from '../../assests/icons/eco-journey-logo-icon-bg.png'
+import logotext from '../../assests/icons/eco-journey-logo-text-bg.png'
+
+
 
 function SwipeableTemporaryDrawer() {
   const [state, setState] = React.useState({
@@ -43,7 +47,10 @@ function SwipeableTemporaryDrawer() {
   onKeyDown={toggleDrawer(anchor, false)}
 >
   {/* Add logo image here */}
-  <img src={Logo} alt='logo' className={styles.logo}/>
+  <div>
+  <img src={logoicon} alt='logo' className={styles.logo}/>
+  <img src={logotext} alt='logo' className={styles.logo}/>
+  </div>
  
    <List className={styles.menuItems}>
     <ListItemButton to="/dashboard"  component={Link} className={styles.menuList}>
@@ -58,17 +65,23 @@ function SwipeableTemporaryDrawer() {
       </ListItemIcon>
       <ListItemText primary="Analytics" />
     </ListItemButton>
-    <ListItemButton className={styles.menuList}>
+    <ListItemButton to="/carpooling"  component={Link} className={styles.menuList}>
+      <ListItemIcon>
+        <DashboardIcon className={styles.icon}/>
+      </ListItemIcon>
+      <ListItemText primary="Carpooling" />
+    </ListItemButton>
+    <ListItemButton to="/profile"  component={Link} className={styles.menuList}>
       <ListItemIcon>
         <AccountCircleIcon className={styles.icon}/>
       </ListItemIcon>
-      <ListItemText to="/profile"  component={Link} primary="Profile" />
+      <ListItemText primary="Profile" />
     </ListItemButton>
-    <ListItemButton className={styles.menuList}>
+    <ListItemButton to="/settings"  component={Link} className={styles.menuList}>
       <ListItemIcon>
         <SettingsIcon className={styles.icon}/>
       </ListItemIcon>
-      <ListItemText to="/settings"  component={Link}primary="Settings" />
+      <ListItemText  primary="Settings" />
     </ListItemButton>
 
       <ListItemButton className={styles.lastItem}>
@@ -89,7 +102,6 @@ function SwipeableTemporaryDrawer() {
           <MenuIcon className={styles.menuIcon}/> 
         </Button>
         <SwipeableDrawer
-          
           anchor="left"
           open={state.left}
           onClose={toggleDrawer('left', false)}
