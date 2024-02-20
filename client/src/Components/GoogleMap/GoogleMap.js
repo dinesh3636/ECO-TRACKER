@@ -1,5 +1,10 @@
-import React, { useEffect } from 'react';
-
+import "./GoogleMap.css"
+import React, { useEffect, useState } from 'react';import cycle from "../../assests/navicon/bicycle.png"
+import bus from "../../assests/navicon/bus.png"
+import walk from "../../assests/navicon/walk.png"
+import sedan from "../../assests/navicon/sedan.png"
+import train from "../../assests/navicon/train.png"
+import bike from "../../assests/navicon/motorsport.png"
 const GoogleMap = () => {
   useEffect(() => {
     const loadGoogleMapsScript = () => {
@@ -52,7 +57,20 @@ const GoogleMap = () => {
     loadGoogleMapsScript();
   }, []); // Empty dependency array to ensure this effect runs only once
 
-  return <div id="map" style={{ height: '400px' }}></div>;
+  return (<>
+        <div className='input-icon'>
+        <div className='icons'>
+    <img src={walk} />
+    <img src={cycle} />
+    <img src={bike} />
+    <img src={sedan} />
+    <img  src={bus} />
+    <img src={train} />
+    </div>
+    </div>
+    <div id="map" style={{ height: '400px' }}></div>
+  </>
+  );
 };
 
 export default GoogleMap;
