@@ -12,7 +12,7 @@ import cors from "cors";
 import User from "./Schema/User.js";
 
 const app = express();
-const port = 5000;
+const port = 5001;
 
 app.use(express.json());
 app.use(cors());
@@ -24,7 +24,9 @@ let emailRegex = /^\w+([\.-]?\w+)*@\w+([\.-]?\w+)*(\.\w{2,3})+$/; // regex for e
 let passwordRegex = /^(?=.*\d)(?=.*[a-z])(?=.*[A-Z]).{6,20}$/; // regex for password
 
 mongoose.connect(process.env.MONGO_URI, {
-    autoIndex: true
+    autoIndex: true,
+    useNewUrlParser: true, 
+    useUnifiedTopology: true
 });
 // .then(() => {
 //     console.log('Connected to MongoDB Atlas');
