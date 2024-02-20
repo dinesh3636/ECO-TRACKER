@@ -3,7 +3,15 @@ import basestyle from "../Base.module.css";
 import loginstyle from "./Login.module.css";
 import axios from "axios";
 import { useNavigate, NavLink } from "react-router-dom";
+
+import { storeInSession } from "../common/session";
+import { UserContext } from "../App";
+import { useContext, useRef } from "react";
+
 const Login = ({ setUserState }) => {
+
+  let { userAuth: { access_token }, setUserAuth } = useContext(UserContext);
+
   const navigate = useNavigate();
   const [formErrors, setFormErrors] = useState({});
   const [isSubmit, setIsSubmit] = useState(false);
@@ -46,7 +54,7 @@ const Login = ({ setUserState }) => {
   useEffect(() => {
     if (Object.keys(formErrors).length === 0 && isSubmit) {
       console.log(user);
-      axios.post("http://localhost:9002/signin", user).then((res) => {
+      axios.post("http://localhost:5001/signin", user).then((res) => {
         alert(res.data.message);
         setUserState(res.data.user);
         navigate("/", { replace: true });
