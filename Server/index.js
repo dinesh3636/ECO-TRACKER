@@ -26,6 +26,12 @@ let passwordRegex = /^(?=.*\d)(?=.*[a-z])(?=.*[A-Z]).{6,20}$/; // regex for pass
 mongoose.connect(process.env.MONGO_URI, {
     autoIndex: true
 });
+// .then(() => {
+//     console.log('Connected to MongoDB Atlas');
+//   })
+// .catch((error) => {
+// console.error('Error connecting to MongoDB Atlas:', error);
+// });
 
 const formatDataToSend = (user) => {
     const access_token = jwt.sign({ id: user._id }, process.env.SECRET_ACCESS_KEY)
