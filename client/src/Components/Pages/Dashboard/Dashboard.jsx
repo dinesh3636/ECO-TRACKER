@@ -13,7 +13,7 @@ const Dashboard = () => {
        
       <div className={styles.dashboardFirstItem}>
         <div className={styles.topicsComponent}>
-          <PESTLE />
+          {/* <PESTLE /> */}
           </div>
           <div className={styles.topicsComponent}>
           <Topic />

@@ -6,13 +6,13 @@ import Dashboard from "./Components/Pages/Dashboard/Dashboard"
 import Profile from "./Components/Pages/Profile/Profile"
 import Settings from './Components/Pages/Settings/Settings'
 import Carpooling from './Components/Pages/Carpooling/Carpooling';
-import GoogleMap from './Components/GoogleMap/GoogleMap';
 import './App.css';
 // import Register from './Components/Pages/Register/Register';
 // import Login from './Components/Pages/Login/Login';
 import UserAuthForm from './Components/Pages/Login/UserAuthForm';
 
 import { lookInSession } from './Components/common/session';
+import CreateCarpooling from './Components/Pages/Carpooling/CreateCarpooling';
 
 export const UserContext = createContext({});
 
@@ -31,11 +31,12 @@ function App() {
     <UserContext.Provider value={{ userAuth, setUserAuth }}>
       <ComplexNavbar />
       <Routes> 
-          <Route path="/" element={<GoogleMap/>} />
+          <Route path="/" element={<Profile/>} />
           <Route path="/dashboard" element={<Dashboard/>} />
           <Route path="/profile" element={<Profile/>} />
           <Route path="/settings" element={<Settings/>} />
           <Route path="/carpooling" element={<Carpooling/>} />
+          <Route path="/postcarpooling" element={<CreateCarpooling/>} />
           <Route path="/signin" element={<UserAuthForm type="sign-in"/>} />
           <Route path="/signup" element={<UserAuthForm type="sign-up"/>} />
       </Routes>

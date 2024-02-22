@@ -1,7 +1,15 @@
-POST http://localhost:5001/signin
+POST http://localhost:5001/postcarpooling
 Content-Type: application/json
 
 {
-    "email": "john@gmail.com",
-    "password": "John28"
+  "name": "John Doe",
+  "model": "Toyota Camry",
+  "seats": 4,
+  "pay": "Shared cost",
+  "origin": "Chennai, India",
+  "destination": "Bangalore, India",
+  "seatsAvailable": 2,
+  "departureTime": "2024-02-24T08:00:00.000Z",
+  "photo": "[base64-encoded-photo-data]", // Assuming photo is base64 encoded
+  "verify": "[your-verification-data]" // Replace with your specific verification mechanism
 }

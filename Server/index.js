@@ -6,10 +6,14 @@ import bcrypt from "bcrypt"; // encryt password
 import { nanoid } from "nanoid"; // generate random number for username
 import jwt from "jsonwebtoken";
 import cors from "cors";
+import multer from "multer"
+
+
 
 // schema imports
 
 import User from "./Schema/User.js";
+import Carpooling from "./Schema/Carpooling.js";
 
 const app = express();
 const port = 5001;
@@ -120,6 +124,74 @@ app.post("/signin", (req, res) => {
         return res.status(500).json({ "error": err.message })
     })
 })
+
+
+
+app.post('/postcarpooling', async (req, res)=>{
+    try{
+        const {name, model, seats, pay, orgin, destination, seatsAvailable, depatureTime, photo, verify}= req.body;
+        if(!name || !model || !seats || !pay || !orgin || !destination || !seatsAvailable || !depatureTime)
+        {
+            return res.status(400).json({message: 'please fill in required fields'});
+        }
+        if (photo) {
+            // Validate photo data type, size, and content (image verification)
+            const photoBuffer = Buffer.from(photo, 'base64'); // Assuming base64 encoding
+            // Store photo securely using a storage service or file system with access control
+            const photoUrl = await storePhoto(photoBuffer); // Replace with your storage logic
+            newCarpooling.photo = photoUrl;
+          }
+      
+          if (verify) {
+            // Validate verify data type, format, and authenticity (e.g., digital signature)
+            // Process and store verification data securely based on your requirements
+            newCarpooling.verify = processVerifyData(verify); // Replace with your verification logic
+          }
+        const newCarpooling = new Carpooling({
+            name,
+            model,
+            seats,
+            pay,
+            origin,
+            destination,
+            seatsAvailable,
+            depatureTime,
+            photo: newCarpooling.photo, // Assuming you have photo and verify data handling logic implemented
+            verify:newCarpooling.verify,
+        });
+        await newCarpooling.save();
+        res.status(201).json({message:'carpooling post created sucessfully', data: newCarpooling});
+   }
+   catch(err){
+    console.error('Error creating Carpooling post:', err);
+    res.status(500).json({ message: 'Internal server error.' });
+   }
+});
+
+// app.post('/postcarpooling', async(req, res)=>{
+//     try{
+//     const {name, model, seats, pay, orgin, destination,seatsAvailable,depatureTime}= req.body;
+//     const carpooling = new Carpooling({
+//         name,
+//         model,
+//         seats, 
+//         pay, 
+//         orgin,
+//         destination,
+//         seatsAvailable,
+//         depatureTime
+
+//     })
+//     await carpooling.save();
+//     return res.status(200).json({message:' carpooling is sucessfull', carpooling})
+//     }
+//     catch(err){
+//         console.log(err);
+//         return res.status(500).json({message:'error in carpooling createing'})
+//     }
+
+// });
+
 
 /*
 // Import API routes and middleware
