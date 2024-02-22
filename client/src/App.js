@@ -1,3 +1,5 @@
+
+
 import React from 'react';
 import ComplexNavbar from './Components/Navbar/Navbar';
 import {Route, Routes} from "react-router-dom"
@@ -6,13 +8,18 @@ import Dashboard from "./Components/Pages/Dashboard/Dashboard"
 import Profile from "./Components/Pages/Profile/Profile"
 import Settings from './Components/Pages/Settings/Settings'
 import Carpooling from './Components/Pages/Carpooling/Carpooling';
+
 import './App.css';
-// import Register from './Components/Pages/Register/Register';
-// import Login from './Components/Pages/Login/Login';
+
+import { ChakraProvider, theme } from '@chakra-ui/react'
+
+import CustomGoogleMap from './Components/GoogleMap/CustomGoogleMap';
+
 import UserAuthForm from './Components/Pages/Login/UserAuthForm';
 
 import { lookInSession } from './Components/common/session';
 import CreateCarpooling from './Components/Pages/Carpooling/CreateCarpooling';
+
 
 export const UserContext = createContext({});
 
@@ -31,7 +38,7 @@ function App() {
     <UserContext.Provider value={{ userAuth, setUserAuth }}>
       <ComplexNavbar />
       <Routes> 
-          <Route path="/" element={<Profile/>} />
+          <Route path="/" element={<ChakraProvider theme={theme}> <CustomGoogleMap/> </ChakraProvider>} />
           <Route path="/dashboard" element={<Dashboard/>} />
           <Route path="/profile" element={<Profile/>} />
           <Route path="/settings" element={<Settings/>} />
