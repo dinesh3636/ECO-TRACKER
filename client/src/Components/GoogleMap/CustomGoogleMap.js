@@ -1,6 +1,7 @@
 
 import { useRef, useState } from "react";
-
+// this global google is important to make google global
+/* global google */ 
 
 import {
   Box,
@@ -23,7 +24,7 @@ import {
   DirectionsRenderer,
 } from '@react-google-maps/api'
 
-const center = { lat: 48.8584, lng: 2.2945 }
+// const center = { lat: 48.8584, lng: 2.2945 }
 
 
 
@@ -35,6 +36,7 @@ function CustomGoogleMap() {
 
   const [map, setMap] = useState(/** @type google.maps.Map */ (null))
   const [directionsResponse, setDirectionsResponse] = useState(null)
+  const [center, setCenter] = useState({ lat: 12.8699, lng: 80.2184 });
   const [distance, setDistance] = useState('')
   const [duration, setDuration] = useState('')
   const [routeIndex, setRouteIndex] = useState(0) // initially select first route
@@ -75,7 +77,25 @@ function CustomGoogleMap() {
     
     // eslint-disable-next-line no-undef
     const directionsService = new google.maps.DirectionsService()
-
+    const departureTime = new Date();
+    const results = await directionsService.route({
+      origin: originRef.current.value,
+      destination: destiantionRef.current.value,
+      // eslint-disable-next-line no-undef
+      travelMode: routeType,
+      provideRouteAlternatives: true,
+      drivingOptions: {
+        trafficModel: google.maps.TrafficModel.BEST_GUESS, // Specify the traffic model
+        departureTime: departureTime
+      }
+    })
+    console.log(results);
+    setCenter({lat: results.routes[0].legs[0].start_location.lat(), lng: results.routes[0].legs[0].start_location.lng()})
+    setDirectionsResponse(results)
+    setDistance(results.routes[0].legs[0].distance.text)
+    setDuration(results.routes[0].legs[0].duration.text)
+    setRouteIndex(0);
+    /*
     if (routeType == "car") { 
 
       const results = await directionsService.route({
@@ -85,7 +105,8 @@ function CustomGoogleMap() {
         travelMode: google.maps.TravelMode.DRIVING,
         provideRouteAlternatives: true
       })
-      //console.log(results);
+      console.log(results);
+      setCenter({lat: results.routes[0].legs[0].start_location.lat(), lng: results.routes[0].legs[0].start_location.lng()})
       setDirectionsResponse(results)
       setDistance(results.routes[0].legs[0].distance.text)
       setDuration(results.routes[0].legs[0].duration.text)
@@ -100,7 +121,8 @@ function CustomGoogleMap() {
           travelMode: google.maps.TravelMode.TRANSIT,
           provideRouteAlternatives: true
         })
-        //console.log(results);
+        console.log(results);
+        setCenter({lat: results.routes[0].legs[0].start_location.lat(), lng: results.routes[0].legs[0].start_location.lng()})
         setDirectionsResponse(results)
         setDistance(results.routes[0].legs[0].distance.text)
         setDuration(results.routes[0].legs[0].duration.text)
@@ -115,7 +137,8 @@ function CustomGoogleMap() {
           travelMode: google.maps.TravelMode.BICYCLING,
           provideRouteAlternatives: true
         })
-        //console.log(results);
+        console.log(results);
+        setCenter({lat: results.routes[0].legs[0].start_location.lat(), lng: results.routes[0].legs[0].start_location.lng()})
         setDirectionsResponse(results)
         setDistance(results.routes[0].legs[0].distance.text)
         setDuration(results.routes[0].legs[0].duration.text)
@@ -130,12 +153,14 @@ function CustomGoogleMap() {
           travelMode: google.maps.TravelMode.WALKING,
           provideRouteAlternatives: true
         })
-        //console.log(results);
+        console.log(results);
+        setCenter({lat: results.routes[0].legs[0].start_location.lat(), lng: results.routes[0].legs[0].start_location.lng()})
         setDirectionsResponse(results)
         setDistance(results.routes[0].legs[0].distance.text)
         setDuration(results.routes[0].legs[0].duration.text)
         setRouteIndex(0);
     }
+    */
 
   }
 
@@ -154,7 +179,16 @@ function CustomGoogleMap() {
     setDuration(directionsResponse.routes[index].legs[0].duration.text);
     setRouteIndex(index);
   }
+  /*
+  const extractRoadTypes = (directions) => {
+    if (!directions || !directions.routes || !directions.routes[0]) return [];
 
+    const routeLegs = directions.routes[0].legs;
+    const roadTypes = routeLegs.flatMap(leg => leg.steps.map(step => step.travel_mode));
+
+    return roadTypes;
+  };
+  */
   return (
     <Flex
       position='relative'
@@ -212,16 +246,16 @@ function CustomGoogleMap() {
 
         <HStack spacing={2} mt={4} justifyContent='space-between'>
           <ButtonGroup>
-            <Button colorScheme='pink' type='submit' onClick={() => calculateRoute("car")}>
+            <Button colorScheme='pink' type='submit' onClick={() => calculateRoute("DRIVING")}>
               Car
             </Button>
-            <Button colorScheme='pink' type='submit' onClick={() => calculateRoute("Transit")}>
+            <Button colorScheme='pink' type='submit' onClick={() => calculateRoute("TRANSIT")}>
               Bus
             </Button>
-            <Button colorScheme='pink' type='submit' onClick={() => calculateRoute("cycle")}>
+            <Button colorScheme='pink' type='submit' onClick={() => calculateRoute("BICYCLING")}>
               Cycle
             </Button>
-            <Button colorScheme='pink' type='submit' onClick={() => calculateRoute("walking")}>
+            <Button colorScheme='pink' type='submit' onClick={() => calculateRoute("WALKING")}>
               Walking
             </Button>
             <IconButton
@@ -229,6 +263,7 @@ function CustomGoogleMap() {
               icon={<FaTimes />}
               onClick={clearRoute}
             />
+            {/* <Button onClick={fetchElevationData}>Fetch Elevation Data</Button> */}
           </ButtonGroup>
         </HStack>
         {directionsResponse && <Text mt={4}>Available Routes: </Text>}
@@ -249,6 +284,16 @@ function CustomGoogleMap() {
               map.setZoom(15)
             }}
           />
+          {/* {directionsResponse && (
+            <div>
+              <h2>Road Types:</h2>
+              <ul>
+                {extractRoadTypes(directionsResponse).map((roadType, index) => (
+                  <li key={index}>{roadType}</li>
+                ))}
+              </ul>
+            </div>
+          )} */}
         </HStack>
       </Box>
     </Flex>
