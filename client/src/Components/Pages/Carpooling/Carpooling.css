@@ -1,5 +1,27 @@
-.carpooling{
-    display: flex;
+/* .carpooling{
     align-items: center;
     margin: 20px 40px;
+    width: 100px;
+    display: flex;
+    max-width: 500px;
     }
+    .car-deatils{
+        display: flex;
+        max-width: 500px;
+    }
+    .cont{
+        max-width: 500px
+    } */
+
+    .cont {
+        display: flex;
+     
+  
+      }
+      
+      .car-details {
+        width: 50%; /* Set to 50% to make two elements in a row */
+        box-sizing: border-box;
+        padding: 10px; /* Adjust padding as needed */
+        /* Add any other styling you need for individual car details */
+      }

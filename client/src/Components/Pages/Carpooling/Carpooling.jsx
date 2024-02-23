@@ -42,6 +42,8 @@ const Carpooling = () => {
 					Create Carpooling
 				</MenuItem>
 			</div>
+			<div className="cont">
+			<div className="car-deatils">
 			{/* {console.log(carpoolings)} */}
 			{
 				carpoolings==null ? (
@@ -55,6 +57,8 @@ const Carpooling = () => {
 				: <NoDataMessage message="No Cars Available"/>
 				)
             }
+			</div>
+			</div>
 		</>
 	);
 };

@@ -42,6 +42,8 @@ function CustomGoogleMap() {
   const [traffic, setTraffic] = useState('')
   const [elevation, setElevation] = useState('')
   const [routeIndex, setRouteIndex] = useState(0) // initially select first route
+const [nnew , setNnew]= useState(0)
+  const [newTraffic, setNewTraffic] = useState('');
 
   /** @type React.MutableRefObject<HTMLInputElement> */
   const originRef = useRef()
@@ -107,17 +109,58 @@ function CustomGoogleMap() {
         if (status === 'OK') {
           // Elevation results are in elevationResults[i].elevation
           console.log('Elevation Data:', elevationResults);
-
+          // setElevation(elevationResults);
           let sumOfElevations = 0;
           
-          for (let i = 0; i < elevationResults.length; i++) {
-            sumOfElevations += elevationResults[i].elevation;
+          for (let i = 0; i < elevationResults.length-1; i++) {
+            const elivationDiff= elevationResults[i+1].elevation-elevationResults[i].elevation;
+            if(elivationDiff > 0){
+            sumOfElevations += elivationDiff;
+            }
           }
+          // if(sumOfElevations<0)
+          // sumOfElevations=0;
           setElevation(sumOfElevations);
+
+
+          //data creating to feed model heavy traffic, modratetraffic, lesstraffic
+
   
+
+
           try {
-            if (routeType == "DRIVING") 
+            if (routeType == "DRIVING") {
               setTraffic(results.routes[0].legs[0].duration_in_traffic.text);
+
+              
+              const durationInMinutes = convertToMinutes(duration);
+              const trafficInMinutes = convertToMinutes(traffic);
+              
+              function convertToMinutes(timeString) {
+                if (!timeString) return 0;
+
+                const timeParts = timeString.split(' ');
+              
+                if (timeParts.length === 1) {
+                  // Only minutes provided
+                  return parseInt(timeParts[0]);
+                } else if (timeParts.length === 2) {
+                  // Hours and minutes provided
+                  const hours = parseInt(timeParts[0]);
+                  const mins = parseInt(timeParts[1]);
+                  return hours * 60 + mins;
+                }
+              }
+    
+              setNnew(trafficInMinutes);
+              if (trafficInMinutes > durationInMinutes) {
+                setNewTraffic('Heavy traffic');
+              } else if (trafficInMinutes > durationInMinutes / 2) {
+                setNewTraffic('Moderate traffic');
+              } else {
+                setNewTraffic('Light traffic');
+              }
+            }
             else setTraffic(null);
           } catch (err) {
             console.log(err);
@@ -299,6 +342,14 @@ function CustomGoogleMap() {
           <Text>Distance: {distance} </Text>
           <Text>Duration: {duration} </Text>
           <Text>Elevation: {elevation} </Text>
+          <Text>traffic: {newTraffic} </Text>
+          <Text>traffic: {nnew} </Text>
+          
+          {/* <Text>
+        Elevation: {elevation.map((elevationVal, index) => (
+          <span key={index}>{elevationVal.elevation} </span>
+        ))}
+      </Text> */}
           {
             traffic && 
             <Text>Traffic: {traffic} </Text>
