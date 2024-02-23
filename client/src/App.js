@@ -44,6 +44,7 @@ function App() {
           <Route path="/settings" element={<Settings/>} />
           <Route path="/carpooling" element={<Carpooling/>} />
           <Route path="/postcarpooling" element={<CreateCarpooling/>} />
+          <Route path="/postcarpooling/:carpooling_id" element={<CreateCarpooling/>} />
           <Route path="/signin" element={<UserAuthForm type="sign-in"/>} />
           <Route path="/signup" element={<UserAuthForm type="sign-up"/>} />
       </Routes>

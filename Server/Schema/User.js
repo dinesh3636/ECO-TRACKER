@@ -36,11 +36,21 @@ const userSchema = mongoose.Schema({
             } 
         },
     },
+    account_info:{
+        total_carpooling: {
+            type: Number,
+            default: 0
+        }
+    },
     google_auth: {
         type: Boolean,
         default: false
+    },
+    carpoolings: {
+        type: [ Schema.Types.ObjectId ],
+        ref: 'Carpooling',
+        default: [],
     }
-
 }, 
 {
     timestamps: {

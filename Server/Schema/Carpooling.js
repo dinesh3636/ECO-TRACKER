@@ -1,5 +1,11 @@
-import mongoose from "mongoose";
-const CarpoolingScheema = new mongoose.Schema({
+import mongoose, { Schema } from "mongoose";
+
+const CarpoolingSchema = new mongoose.Schema({
+    carpooling_id: {
+        type: String,
+        required: true,
+        unique: true,
+    },
     name: {
         type: String,
         required: true,
@@ -13,10 +19,15 @@ const CarpoolingScheema = new mongoose.Schema({
         required: true,
     },
     pay:{
-        type: String,
+        type: Number,
         required:true,
     },
-    orgin:{
+    author: {
+        type: Schema.Types.ObjectId,
+        required: true,
+        ref: 'users'
+    },
+    origin:{
         type: String,
         required: true,
 
@@ -29,15 +40,14 @@ const CarpoolingScheema = new mongoose.Schema({
         type: Number,
         required: true,
     },
-    depatureTime: {
-        type: String,
+    departureTime: {
+        type: Date,
         required:true,
     },
-    photo:{
-        type:Buffer,
-        contentType: String,
+    image:{
+        type: String
     },
 },{
-    timestamps:true
+    timestamps: true
 })
-export default mongoose.model("CarpoolingScheema",CarpoolingScheema);
+export default mongoose.model("Carpooling",CarpoolingSchema);

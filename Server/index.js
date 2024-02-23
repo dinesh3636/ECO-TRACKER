@@ -27,6 +27,7 @@ app.use(bodyParser.urlencoded({ limit: '50mb', extended: true }));
 let emailRegex = /^\w+([\.-]?\w+)*@\w+([\.-]?\w+)*(\.\w{2,3})+$/; // regex for email
 let passwordRegex = /^(?=.*\d)(?=.*[a-z])(?=.*[A-Z]).{6,20}$/; // regex for password
 
+
 mongoose.connect(process.env.MONGO_URI, {
     autoIndex: true,
     useNewUrlParser: true, 
@@ -38,6 +39,21 @@ mongoose.connect(process.env.MONGO_URI, {
 .catch((error) => {
 console.error('Error connecting to MongoDB Atlas:', error);
 });
+
+const verifyJWT = (req, res, next) => {
+    const authHeader = req.headers["authorization"];
+    const token = authHeader && authHeader.split(" ")[1]; // ["bearer", "token"]
+    if (token == null) {
+        return res.status(401).json({ "error": "No access Token"});
+    }
+    jwt.verify(token, process.env.SECRET_ACCESS_KEY, (err, user) => {
+        if (err) {
+            return res.status(403).json({ "error": "Access Token is Invalid"});
+        }
+        req.user = user.id;
+        next(); // continue the aprent callback
+    });
+}
 
 const formatDataToSend = (user) => {
     const access_token = jwt.sign({ id: user._id }, process.env.SECRET_ACCESS_KEY)
@@ -125,48 +141,77 @@ app.post("/signin", (req, res) => {
     })
 })
 
+app.post('/post-carpooling', verifyJWT, (req, res)=>{
 
+    let authorId = req.user;
 
-app.post('/postcarpooling', async (req, res)=>{
-    try{
-        const {name, model, seats, pay, orgin, destination, seatsAvailable, depatureTime, photo, verify}= req.body;
-        if(!name || !model || !seats || !pay || !orgin || !destination || !seatsAvailable || !depatureTime)
-        {
-            return res.status(400).json({message: 'please fill in required fields'});
-        }
-        if (photo) {
-            // Validate photo data type, size, and content (image verification)
-            const photoBuffer = Buffer.from(photo, 'base64'); // Assuming base64 encoding
-            // Store photo securely using a storage service or file system with access control
-            const photoUrl = await storePhoto(photoBuffer); // Replace with your storage logic
-            newCarpooling.photo = photoUrl;
-          }
-      
-          if (verify) {
-            // Validate verify data type, format, and authenticity (e.g., digital signature)
-            // Process and store verification data securely based on your requirements
-            newCarpooling.verify = processVerifyData(verify); // Replace with your verification logic
-          }
-        const newCarpooling = new Carpooling({
-            name,
-            model,
-            seats,
-            pay,
-            origin,
-            destination,
-            seatsAvailable,
-            depatureTime,
-            photo: newCarpooling.photo, // Assuming you have photo and verify data handling logic implemented
-            verify:newCarpooling.verify,
-        });
-        await newCarpooling.save();
-        res.status(201).json({message:'carpooling post created sucessfully', data: newCarpooling});
-   }
-   catch(err){
-    console.error('Error creating Carpooling post:', err);
-    res.status(500).json({ message: 'Internal server error.' });
-   }
+    let {name, model, seats, pay, origin, destination, seatsAvailable, departureTime, image, id} = req.body;
+
+    if (!name.length){
+        return res.status(403).json({error: "name should not be empty"});
+    }
+    if (!model.length){
+        return res.status(403).json({error: "model should not be empty"});
+    }
+    if (!seats || seats<=0){
+        return res.status(403).json({error: "seats should not be negative or empty"});
+    }
+    if (!pay || pay<=0){
+        return res.status(403).json({error: "pay should not be negative or empty"});
+    }
+    if (!origin.length){
+        return res.status(403).json({error: "origin should not be empty"});
+    }
+    if (!destination.length){
+        return res.status(403).json({error: "destination should not be empty"});
+    }
+    if (!seatsAvailable || seatsAvailable > seats){
+        return res.status(403).json({error: "available seats should be in bounds"});
+    }
+    if (!departureTime){
+        return res.status(403).json({error: "departureTime should not be empty"});
+    }
+    if (!image.length){
+        return res.status(403).json({error: "name should not be empty"});
+    }
+
+    let carpooling_id = id || (name+origin+destination).replace(/[^a-zA-Z0-9]/g, ' ').replace(/\s+/g, "-").trim() + nanoid();
+
+    let carpooling = new Carpooling({
+        name, model, seats, pay, origin, destination, seatsAvailable, departureTime, image, author: authorId, carpooling_id // Boolean(undefined) = false
+    })
+
+    carpooling.save().then(carpooling => {
+
+        let incrementVal = 1;
+
+        User.findOneAndUpdate({ _id: authorId }, { $inc: { "account_info.total_carpooling": incrementVal }, $push: { "carpoolings": carpooling._id } })
+        .then(user => {
+            return res.status(200).json({ id: carpooling.carpooling_id })
+        })
+        .catch(err => {
+            return res.status(500).json({ error: "Failed to update total posts" })
+        })
+
+    })
+    .catch(err => {
+        return res.status(500).json({ error: err.message })
+    })
 });
+
+app.get("/carpooling", (req, res) => {
+
+    Carpooling.find()
+    .populate("author", "personal_info.profile_img personal_info.username personal_info.fullname -_id")
+    .sort({ "createdAt": -1 })
+    .select("carpooling_id name model seats pay author origin destination seatsAvailable departureTime image createdAt -_id")
+    .then(carpoolings => {
+        return res.status(200).json({ carpoolings })
+    })
+    .catch(err => {
+        res.status(500).json({ error: err.message });
+    })
+})
 
 // app.post('/postcarpooling', async(req, res)=>{
 //     try{
