@@ -39,10 +39,12 @@ function CustomGoogleMap() {
   const [center, setCenter] = useState({ lat: 12.8699, lng: 80.2184 });
   const [distance, setDistance] = useState('')
   const [duration, setDuration] = useState('')
+  const [durationInMins, setDurationInMins] = useState(0);
+  const [trafficInMins, setTrafficInMins] = useState(0);
   const [traffic, setTraffic] = useState('')
   const [elevation, setElevation] = useState('')
   const [routeIndex, setRouteIndex] = useState(0) // initially select first route
-const [nnew , setNnew]= useState(0)
+  const [nnew , setNnew]= useState(0)
   const [newTraffic, setNewTraffic] = useState('');
 
   /** @type React.MutableRefObject<HTMLInputElement> */
@@ -131,35 +133,6 @@ const [nnew , setNnew]= useState(0)
           try {
             if (routeType == "DRIVING") {
               setTraffic(results.routes[0].legs[0].duration_in_traffic.text);
-
-              
-              const durationInMinutes = convertToMinutes(duration);
-              const trafficInMinutes = convertToMinutes(traffic);
-              
-              function convertToMinutes(timeString) {
-                if (!timeString) return 0;
-
-                const timeParts = timeString.split(' ');
-              
-                if (timeParts.length === 1) {
-                  // Only minutes provided
-                  return parseInt(timeParts[0]);
-                } else if (timeParts.length === 2) {
-                  // Hours and minutes provided
-                  const hours = parseInt(timeParts[0]);
-                  const mins = parseInt(timeParts[1]);
-                  return hours * 60 + mins;
-                }
-              }
-    
-              setNnew(trafficInMinutes);
-              if (trafficInMinutes > durationInMinutes) {
-                setNewTraffic('Heavy traffic');
-              } else if (trafficInMinutes > durationInMinutes / 2) {
-                setNewTraffic('Moderate traffic');
-              } else {
-                setNewTraffic('Light traffic');
-              }
             }
             else setTraffic(null);
           } catch (err) {
