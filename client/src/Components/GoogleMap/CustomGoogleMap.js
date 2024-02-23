@@ -39,6 +39,8 @@ function CustomGoogleMap() {
   const [center, setCenter] = useState({ lat: 12.8699, lng: 80.2184 });
   const [distance, setDistance] = useState('')
   const [duration, setDuration] = useState('')
+  const [traffic, setTraffic] = useState('')
+  const [elevation, setElevation] = useState('')
   const [routeIndex, setRouteIndex] = useState(0) // initially select first route
 
   /** @type React.MutableRefObject<HTMLInputElement> */
@@ -89,12 +91,43 @@ function CustomGoogleMap() {
         departureTime: departureTime
       }
     })
-    console.log(results);
     setCenter({lat: results.routes[0].legs[0].start_location.lat(), lng: results.routes[0].legs[0].start_location.lng()})
     setDirectionsResponse(results)
     setDistance(results.routes[0].legs[0].distance.text)
     setDuration(results.routes[0].legs[0].duration.text)
     setRouteIndex(0);
+    const elevator = new google.maps.ElevationService();
+    const path = results.routes[0].overview_path;
+    elevator.getElevationAlongPath(
+      {
+        path: path,
+        samples: path.length,
+      },
+      (elevationResults, status) => {
+        if (status === 'OK') {
+          // Elevation results are in elevationResults[i].elevation
+          console.log('Elevation Data:', elevationResults);
+
+          let sumOfElevations = 0;
+          
+          for (let i = 0; i < elevationResults.length; i++) {
+            sumOfElevations += elevationResults[i].elevation;
+          }
+          setElevation(sumOfElevations);
+  
+          try {
+            if (routeType == "DRIVING") 
+              setTraffic(results.routes[0].legs[0].duration_in_traffic.text);
+            else setTraffic(null);
+          } catch (err) {
+            console.log(err);
+          }
+        } else {
+          console.error('Elevation Service failed:', status);
+          // Handle error as needed
+        }
+      }
+    );
     /*
     if (routeType == "car") { 
 
@@ -179,16 +212,6 @@ function CustomGoogleMap() {
     setDuration(directionsResponse.routes[index].legs[0].duration.text);
     setRouteIndex(index);
   }
-  /*
-  const extractRoadTypes = (directions) => {
-    if (!directions || !directions.routes || !directions.routes[0]) return [];
-
-    const routeLegs = directions.routes[0].legs;
-    const roadTypes = routeLegs.flatMap(leg => leg.steps.map(step => step.travel_mode));
-
-    return roadTypes;
-  };
-  */
   return (
     <Flex
       position='relative'
@@ -249,14 +272,14 @@ function CustomGoogleMap() {
             <Button colorScheme='pink' type='submit' onClick={() => calculateRoute("DRIVING")}>
               Car
             </Button>
+            <Button colorScheme='pink' type='submit' onClick={() =>{ calculateRoute("DRIVING")}}>
+              Bike
+            </Button>
             <Button colorScheme='pink' type='submit' onClick={() => calculateRoute("TRANSIT")}>
               Bus
             </Button>
-            <Button colorScheme='pink' type='submit' onClick={() => calculateRoute("BICYCLING")}>
-              Cycle
-            </Button>
             <Button colorScheme='pink' type='submit' onClick={() => calculateRoute("WALKING")}>
-              Walking
+              Walking 
             </Button>
             <IconButton
               aria-label='center back'
@@ -275,6 +298,11 @@ function CustomGoogleMap() {
         <HStack spacing={4} mt={4} justifyContent='space-between'>
           <Text>Distance: {distance} </Text>
           <Text>Duration: {duration} </Text>
+          <Text>Elevation: {elevation} </Text>
+          {
+            traffic && 
+            <Text>Traffic: {traffic} </Text>
+          }
           <IconButton 
             aria-label='center back'
             icon={<FaLocationArrow />}
@@ -284,16 +312,6 @@ function CustomGoogleMap() {
               map.setZoom(15)
             }}
           />
-          {/* {directionsResponse && (
-            <div>
-              <h2>Road Types:</h2>
-              <ul>
-                {extractRoadTypes(directionsResponse).map((roadType, index) => (
-                  <li key={index}>{roadType}</li>
-                ))}
-              </ul>
-            </div>
-          )} */}
         </HStack>
       </Box>
     </Flex>

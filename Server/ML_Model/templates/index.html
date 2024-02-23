@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CO2 Emissions Prediction</title>
+</head>
+<body>
+    <h1>CO2 Emissions Prediction</h1>
+    <form action="/predict" method="post">
+        <label for="route_distance">Route Distance (km):</label><br>
+        <input type="text" id="route_distance" name="route_distance" required><br><br>
+
+        <label for="route_duration">Route Duration (min):</label><br>
+        <input type="text" id="route_duration" name="route_duration" required><br><br>
+
+        <label for="transportation_mode">Transportation Mode:</label><br>
+        <input type="text" id="transportation_mode" name="transportation_mode" required><br><br>
+
+        <label for="make">Make:</label><br>
+        <input type="text" id="make" name="make" required><br><br>
+
+        <label for="model">Model:</label><br>
+        <input type="text" id="model" name="model" required><br><br>
+
+        <label for="fuel_type">Fuel Type:</label><br>
+        <input type="text" id="fuel_type" name="fuel_type" required><br><br>
+
+        <label for="engine_specs">Engine Specs:</label><br>
+        <input type="text" id="engine_specs" name="engine_specs" required><br><br>
+
+        <label for="fuel_efficiency">Fuel Efficiency (km/L):</label><br>
+        <input type="text" id="fuel_efficiency" name="fuel_efficiency" required><br><br>
+
+        <label for="traffic_information">Traffic Information:</label><br>
+        <input type="text" id="traffic_information" name="traffic_information" required><br><br>
+
+        <label for="elevation_data">Elevation Data (m):</label><br>
+        <input type="text" id="elevation_data" name="elevation_data" required><br><br>
+
+        <label for="Vehicle_co2_emissions">Vehicle CO2 Emissions (g/km):</label><br>
+        <input type="text" id="Vehicle_co2_emissions" name="Vehicle_co2_emissions" required><br><br>
+
+        <label for="road_types">Road Types:</label><br>
+        <input type="text" id="road_types" name="road_types" required><br><br>
+
+        <input type="submit" value="Predict">
+    </form>
+</body>
+</html>

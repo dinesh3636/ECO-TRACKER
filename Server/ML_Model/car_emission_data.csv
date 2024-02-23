@@ -1,0 +1,1013 @@
+Route Distance (km),Route Duration (min),Transportation Mode,Make,Model,Fuel Type,Engine Specs,Fuel Efficiency (km/L),Vehicle CO2 Emissions (g/km),Traffic Information,Elevation Data (m),Road Types,Estimated CO2 Emissions (g/km) for trip
+38,57,Car,Maruti Suzuki,Vitara Brezza,Petrol,1.5,16.8,136,Heavy traffic,110,Hill road,106.95
+54,81,Car,Maruti Suzuki,Vitara Brezza,Petrol,1.5,18.2,126,Light traffic,70,Local road,95.58
+26,39,Car,Maruti Suzuki,Vitara Brezza,Petrol,1.5,17.3,132,Normal traffic,90,Hill road,100
+62,93,Car,Maruti Suzuki,Vitara Brezza,Petrol,1.5,15.9,140,Moderate traffic,120,Highway,110.69
+43,64,Car,Maruti Suzuki,Vitara Brezza,Petrol,1.5,18,128,Heavy traffic,100,Hill road,88.89
+30,45,Car,Maruti Suzuki,Vitara Brezza,Petrol,1.5,17,134,Moderate traffic,80,Local road,94.12
+57,85,Car,Maruti Suzuki,Vitara Brezza,Petrol,1.5,15.5,148,Light traffic,120,Hill road,111.94
+22,33,Car,Maruti Suzuki,Vitara Brezza,Petrol,1.5,19.5,123,Normal traffic,60,Highway,80
+49,73,Car,Maruti Suzuki,Vitara Brezza,Petrol,1.5,16.7,137,Moderate traffic,110,Local road,104.49
+35,52,Car,Maruti Suzuki,Vitara Brezza,Petrol,1.5,18.5,124,Heavy traffic,130,Hill road,97.3
+20,30,Car,Maruti Suzuki,Vitara Brezza,Petrol,1.5,16,143,Light traffic,80,Hill road,89.38
+46,69,Car,Maruti Suzuki,Vitara Brezza,Petrol,1.5,18.2,126,Normal traffic,100,Highway,86.81
+31,46,Car,Maruti Suzuki,Vitara Brezza,Petrol,1.5,17.8,130,Moderate traffic,70,Local road,82.53
+59,89,Car,Maruti Suzuki,Vitara Brezza,Petrol,1.5,16.3,136,Heavy traffic,140,Hill road,108.28
+40,60,Car,Maruti Suzuki,Vitara Brezza,Petrol,1.5,17,134,Light traffic,90,Hill road,95.29
+25,37,Car,Maruti Suzuki,Vitara Brezza,Petrol,1.5,16.5,139,Normal traffic,50,Highway,84.24
+52,78,Car,Maruti Suzuki,Vitara Brezza,Petrol,1.5,17.1,133,Moderate traffic,120,Local road,99.18
+28,42,Car,Maruti Suzuki,Vitara Brezza,Petrol,1.5,17.9,129,Heavy traffic,110,Hill road,97.22
+42,63,Car,Maruti Suzuki,Vitara Brezza,Petrol,1.5,16.8,136,Light traffic,80,Highway,94.64
+34,51,Car,Maruti Suzuki,Vitara Brezza,Petrol,1.5,18.3,126,Normal traffic,100,Hill road,98.9
+38,57,Car,Maruti Suzuki,Vitara Brezza,Diesel,1.5,22,123,Heavy traffic,110,Hill road,88.33
+54,81,Car,Maruti Suzuki,Vitara Brezza,Diesel,1.5,20.5,132,Light traffic,70,Local road,100.91
+26,39,Car,Maruti Suzuki,Vitara Brezza,Diesel,1.5,24,113,Normal traffic,90,Hill road,79.65
+62,93,Car,Maruti Suzuki,Vitara Brezza,Diesel,1.5,21.5,127,Moderate traffic,120,Highway,92.91
+43,64,Car,Maruti Suzuki,Vitara Brezza,Diesel,1.5,23,117,Heavy traffic,100,Hill road,81.18
+30,45,Car,Maruti Suzuki,Vitara Brezza,Diesel,1.5,22,123,Moderate traffic,80,Local road,89.33
+57,85,Car,Maruti Suzuki,Vitara Brezza,Diesel,1.5,20,135,Light traffic,120,Hill road,108
+22,33,Car,Maruti Suzuki,Vitara Brezza,Diesel,1.5,25,108,Normal traffic,60,Highway,77.13
+49,73,Car,Maruti Suzuki,Vitara Brezza,Diesel,1.5,21,130,Moderate traffic,110,Local road,96.15
+35,52,Car,Maruti Suzuki,Vitara Brezza,Diesel,1.5,22.5,120,Heavy traffic,130,Hill road,86.67
+20,30,Car,Maruti Suzuki,Vitara Brezza,Diesel,1.5,24,113,Light traffic,80,Hill road,79.65
+46,69,Car,Maruti Suzuki,Vitara Brezza,Diesel,1.5,20.8,131,Normal traffic,100,Highway,90
+31,46,Car,Maruti Suzuki,Vitara Brezza,Diesel,1.5,23.5,115,Moderate traffic,70,Local road,84.68
+59,89,Car,Maruti Suzuki,Vitara Brezza,Diesel,1.5,20.2,134,Heavy traffic,140,Hill road,107.4
+40,60,Car,Maruti Suzuki,Vitara Brezza,Diesel,1.5,22,123,Light traffic,90,Hill road,89.33
+25,37,Car,Maruti Suzuki,Vitara Brezza,Diesel,1.5,24.5,110,Normal traffic,50,Highway,78.46
+52,78,Car,Maruti Suzuki,Vitara Brezza,Diesel,1.5,21.3,129,Moderate traffic,120,Local road,94.12
+28,42,Car,Maruti Suzuki,Vitara Brezza,Diesel,1.5,23.3,116,Heavy traffic,110,Hill road,85.34
+42,63,Car,Maruti Suzuki,Vitara Brezza,Diesel,1.5,21.7,128,Light traffic,80,Highway,88.42
+34,51,Car,Maruti Suzuki,Vitara Brezza,Diesel,1.5,23,117,Normal traffic,100,Hill road,81.18
+42,63,Car,Maruti Suzuki,Ignis,Petrol,1.2,18.5,122,Heavy traffic,100,Hill road,83.24
+30,45,Car,Maruti Suzuki,Ignis,Diesel,1.3-,23,117,Moderate traffic,80,Local road,81.18
+55,83,Car,Maruti Suzuki,Ignis,Petrol,1,20,135,Light traffic,120,Hill road,108
+26,39,Car,Maruti Suzuki,Ignis,Diesel,1.5,22,123,Normal traffic,90,Highway,88.33
+48,72,Car,Maruti Suzuki,Ignis,Petrol,1.2,19,128,Moderate traffic,110,Local road,93.75
+34,51,Car,Maruti Suzuki,Ignis,Diesel,1.3,24.5,110,Light traffic,80,Hill road,78.46
+60,90,Car,Maruti Suzuki,Ignis,Petrol,1,21.5,127,Normal traffic,140,Hill road,89.77
+22,33,Car,Maruti Suzuki,Ignis,Diesel,1.5,21,130,Heavy traffic,60,Highway,86.81
+45,68,Car,Maruti Suzuki,Ignis,Petrol,1.2,18,133,Moderate traffic,100,Local road,88.89
+38,57,Car,Maruti Suzuki,Ignis,Diesel,1.3,22,123,Light traffic,110,Hill road,83.24
+28,42,Car,Maruti Suzuki,Ignis,Petrol,1,20.5,132,Normal traffic,70,Local road,100.91
+50,75,Car,Maruti Suzuki,Ignis,Diesel,1.5,23.5,115,Heavy traffic,130,Hill road,84.68
+32,48,Car,Maruti Suzuki,Ignis,Petrol,1.2,19.5,126,Moderate traffic,90,Highway,77.13
+52,78,Car,Maruti Suzuki,Ignis,Diesel,1.3,24,113,Light traffic,120,Hill road,79.65
+36,54,Car,Maruti Suzuki,Ignis,Petrol,1,21,130,Normal traffic,80,Local road,96.15
+46,69,Car,Maruti Suzuki,Ignis,Diesel,1.5,22.5,120,Heavy traffic,100,Hill road,86.67
+25,37,Car,Maruti Suzuki,Ignis,Petrol,1.2,18.5,122,Moderate traffic,50,Hill road,83.24
+58,87,Car,Maruti Suzuki,Ignis,Diesel,1.3,23,117,Light traffic,140,Highway,88.33
+40,60,Car,Maruti Suzuki,Ignis,Petrol,1,22,123,Normal traffic,90,Hill road,88.33
+33,50,Car,Maruti Suzuki,Ignis,Diesel,1.5,20,135,Moderate traffic,70,Local road,108
+45,60,Car,Maruti Suzuki,Ciaz,Petrol,1.5,20,135,Heavy traffic,100,Hill road,108
+30,45,Car,Maruti Suzuki,Ciaz,Diesel,1.5,25,108,Moderate traffic,80,Local road,77.13
+50,75,Car,Maruti Suzuki,Ciaz,Petrol,1.4,19,128,Light traffic,120,Hill road,93.75
+35,52,Car,Maruti Suzuki,Ciaz,Diesel,1.6,22,123,Normal traffic,90,Highway,88.33
+55,83,Car,Maruti Suzuki,Ciaz,Petrol,1.5,18,133,Moderate traffic,110,Local road,88.89
+25,37,Car,Maruti Suzuki,Ciaz,Diesel,1.5,23.5,115,Heavy traffic,60,Hill road,84.68
+60,90,Car,Maruti Suzuki,Ciaz,Petrol,1.4,21.5,127,Light traffic,140,Hill road,89.77
+20,30,Car,Maruti Suzuki,Ciaz,Diesel,1.6,21,130,Normal traffic,70,Local road,96.15
+42,63,Car,Maruti Suzuki,Ciaz,Petrol,1.5,17.5,138,Moderate traffic,110,Hill road,99.43
+28,42,Car,Maruti Suzuki,Ciaz,Diesel,1.5,24,113,Light traffic,80,Hill road,79.65
+52,78,Car,Maruti Suzuki,Ciaz,Petrol,1.4,20,135,Normal traffic,120,Highway,108
+33,50,Car,Maruti Suzuki,Ciaz,Diesel,1.6,20.5,132,Heavy traffic,70,Local road,100.91
+48,72,Car,Maruti Suzuki,Ciaz,Petrol,1.5,18.5,122,Moderate traffic,100,Hill road,83.24
+38,57,Car,Maruti Suzuki,Ciaz,Diesel,1.5,22.5,120,Light traffic,90,Local road,86.67
+58,87,Car,Maruti Suzuki,Ciaz,Petrol,1.4,19.8,129,Normal traffic,130,Hill road,92.12
+36,54,Car,Maruti Suzuki,Ciaz,Diesel,1.6,21,130,Heavy traffic,80,Highway,96.15
+43,64,Car,Maruti Suzuki,Ciaz,Petrol,1.5,18,133,Moderate traffic,120,Hill road,88.89
+22,33,Car,Maruti Suzuki,Ciaz,Diesel,1.5,23,117,Light traffic,50,Local road,88.33
+47,70,Car,Maruti Suzuki,Ciaz,Petrol,1.4,20.2,134,Normal traffic,110,Hill road,107.4
+31,46,Car,Maruti Suzuki,Ciaz,Diesel,1.6,20,135,Heavy traffic,70,Local road,108
+40,60,Car,Maruti Suzuki,Vitara Brezza,Petrol,1.5L,17.5,138,Heavy traffic,100,Hill road,99.43
+30,45,Car,Maruti Suzuki,Vitara Brezza,Diesel,1.3L,24,113,Moderate traffic,80,Local road,79.65
+50,75,Car,Maruti Suzuki,Vitara Brezza,Petrol,1.5L,18.5,122,Light traffic,120,Hill road,83.24
+35,52,Car,Maruti Suzuki,Vitara Brezza,Diesel,1.5L,22,123,Normal traffic,90,Highway,88.33
+55,83,Car,Maruti Suzuki,Vitara Brezza,Petrol,1.5L,19,128,Moderate traffic,110,Local road,93.75
+25,37,Car,Maruti Suzuki,Vitara Brezza,Diesel,1.3L,23.5,115,Heavy traffic,60,Hill road,84.68
+60,90,Car,Maruti Suzuki,Vitara Brezza,Petrol,1.5L,20,135,Light traffic,140,Hill road,108
+20,30,Car,Maruti Suzuki,Vitara Brezza,Diesel,1.3L,22.5,120,Normal traffic,70,Local road,86.67
+42,63,Car,Maruti Suzuki,Vitara Brezza,Petrol,1.5L,17,140,Moderate traffic,110,Hill road,100
+28,42,Car,Maruti Suzuki,Vitara Brezza,Diesel,1.5L,24.5,110,Light traffic,80,Hill road,78.46
+52,78,Car,Maruti Suzuki,Vitara Brezza,Petrol,1.5L,18,133,Normal traffic,120,Highway,88.89
+33,50,Car,Maruti Suzuki,Vitara Brezza,Diesel,1.3L,20,135,Heavy traffic,70,Local road,108
+48,72,Car,Maruti Suzuki,Vitara Brezza,Petrol,1.5L,16.5,145,Moderate traffic,100,Hill road,90.91
+38,57,Car,Maruti Suzuki,Vitara Brezza,Diesel,1.5L,21,130,Light traffic,90,Local road,96.15
+58,87,Car,Maruti Suzuki,Vitara Brezza,Petrol,1.5L,19.8,129,Normal traffic,130,Hill road,92.12
+36,54,Car,Maruti Suzuki,Vitara Brezza,Diesel,1.3L,21.5,127,Heavy traffic,80,Highway,89.77
+43,64,Car,Maruti Suzuki,Vitara Brezza,Petrol,1.5L,17.5,138,Moderate traffic,120,Hill road,99.43
+22,33,Car,Maruti Suzuki,Vitara Brezza,Diesel,1.5L,23,117,Light traffic,50,Local road,88.33
+47,70,Car,Maruti Suzuki,Vitara Brezza,Petrol,1.5L,16,150,Normal traffic,110,Hill road,96
+31,46,Car,Maruti Suzuki,Vitara Brezza,Diesel,1.3L,19,128,Heavy traffic,70,Local road,93.75
+25,35,Car,Maruti Suzuki,Alto,Petrol,0.8,22,123,Heavy traffic,50,Hill road,86.81
+20,30,Car,Maruti Suzuki,Alto,Petrol,1,24,113,Moderate traffic,60,Local road,79.65
+30,45,Car,Maruti Suzuki,Alto,Petrol,0.8,21.5,127,Light traffic,70,Hill road,89.77
+15,25,Car,Maruti Suzuki,Alto,Petrol,1,23.5,115,Normal traffic,40,Highway,84.68
+35,50,Car,Maruti Suzuki,Alto,Petrol,0.8,20.5,132,Moderate traffic,80,Local road,100.91
+18,28,Car,Maruti Suzuki,Alto,Petrol,0.8,22.5,120,Light traffic,45,Hill road,86.67
+22,35,Car,Maruti Suzuki,Alto,Petrol,1,24.5,110,Heavy traffic,55,Hill road,78.46
+28,40,Car,Maruti Suzuki,Alto,Petrol,0.8,21,130,Normal traffic,65,Local road,96.15
+32,48,Car,Maruti Suzuki,Alto,Petrol,0.8,20,135,Heavy traffic,75,Hill road,108
+26,38,Car,Maruti Suzuki,Alto,Petrol,1,25,108,Moderate traffic,50,Highway,77.13
+20,30,Car,Maruti Suzuki,Alto,Petrol,0.8,23,117,Light traffic,40,Local road,88.33
+24,36,Car,Maruti Suzuki,Alto,Petrol,0.8,22,123,Normal traffic,45,Hill road,83.24
+18,30,Car,Maruti Suzuki,Alto,Petrol,0.8,22.5,120,Heavy traffic,35,Local road,86.67
+30,45,Car,Maruti Suzuki,Alto,Petrol,1,24,113,Moderate traffic,60,Hill road,79.65
+35,50,Car,Maruti Suzuki,Alto,Petrol,0.8,20.5,132,Light traffic,80,Local road,100.91
+28,42,Car,Maruti Suzuki,Alto,Petrol,1,23.5,115,Normal traffic,70,Hill road,84.68
+22,33,Car,Maruti Suzuki,Alto,Petrol,0.8,23,117,Light traffic,50,Local road,88.33
+28,42,Car,Maruti Suzuki,Alto,Petrol,1,24.5,110,Moderate traffic,60,Hill road,78.46
+25,35,Car,Maruti Suzuki,Alto,Petrol,0.8,22,123,Heavy traffic,50,Hill road,86.81
+20,30,Car,Maruti Suzuki,Alto,Petrol,1,24,113,Moderate traffic,60,Local road,79.65
+30,45,Car,Maruti Suzuki,Celerio,Petrol,1,23,117,Heavy traffic,70,Hill road,86.67
+25,35,Car,Maruti Suzuki,Celerio,Petrol,1,24,113,Moderate traffic,60,Local road,79.65
+35,50,Car,Maruti Suzuki,Celerio,Petrol,1,22,123,Light traffic,80,Hill road,91.35
+20,30,Car,Maruti Suzuki,Celerio,Petrol,1,25,108,Normal traffic,50,Highway,77.13
+40,60,Car,Maruti Suzuki,Celerio,Petrol,1,20,135,Moderate traffic,90,Local road,100
+15,25,Car,Maruti Suzuki,Celerio,Petrol,1,26,104,Heavy traffic,40,Hill road,76.92
+45,65,Car,Maruti Suzuki,Celerio,Petrol,1,21.5,127,Light traffic,100,Hill road,89.77
+22,33,Car,Maruti Suzuki,Celerio,Petrol,1,24.5,110,Normal traffic,55,Hill road,78.46
+38,55,Car,Maruti Suzuki,Celerio,Petrol,1,19.5,138,Moderate traffic,85,Local road,112.31
+18,28,Car,Maruti Suzuki,Celerio,Petrol,1,27,100,Heavy traffic,45,Hill road,74.07
+28,42,Car,Maruti Suzuki,Celerio,Petrol,1,23.5,115,Light traffic,65,Hill road,84.68
+32,48,Car,Maruti Suzuki,Celerio,Petrol,1,22,123,Normal traffic,75,Highway,86.81
+26,38,Car,Maruti Suzuki,Celerio,Petrol,1,25.5,106,Moderate traffic,55,Local road,75.89
+42,60,Car,Maruti Suzuki,Celerio,Petrol,1,18.5,122,Heavy traffic,95,Hill road,95.14
+23,35,Car,Maruti Suzuki,Celerio,Petrol,1,24.8,109,Light traffic,60,Local road,78.62
+36,52,Car,Maruti Suzuki,Celerio,Petrol,1,21,130,Normal traffic,80,Hill road,96
+19,30,Car,Maruti Suzuki,Celerio,Petrol,1,26.5,102,Heavy traffic,50,Hill road,73.11
+30,45,Car,Maruti Suzuki,Celerio,Petrol,1,23,117,Moderate traffic,70,Local road,86.67
+27,40,Car,Maruti Suzuki,Celerio,Petrol,1,24.3,111,Light traffic,65,Hill road,80.25
+39,57,Car,Maruti Suzuki,Celerio,Petrol,1,19.2,137,Normal traffic,90,Highway,111.25
+30,45,Car,Maruti Suzuki,Celerio,Diesel,1,25,108,Heavy traffic,70,Hill road,75.56
+25,35,Car,Maruti Suzuki,Celerio,Diesel,1,26,104,Moderate traffic,60,Local road,76.92
+35,50,Car,Maruti Suzuki,Celerio,Diesel,1,23,117,Light traffic,80,Hill road,82.05
+20,30,Car,Maruti Suzuki,Celerio,Diesel,1,28,96,Normal traffic,50,Highway,71.43
+40,60,Car,Maruti Suzuki,Celerio,Diesel,1,21,130,Moderate traffic,90,Local road,92.31
+15,25,Car,Maruti Suzuki,Celerio,Diesel,1,29,93,Heavy traffic,40,Hill road,68.49
+45,65,Car,Maruti Suzuki,Celerio,Diesel,1,22.5,120,Light traffic,100,Hill road,79.37
+22,33,Car,Maruti Suzuki,Celerio,Diesel,1,27.5,105,Normal traffic,55,Hill road,74.12
+38,55,Car,Maruti Suzuki,Celerio,Diesel,1,20,135,Heavy traffic,85,Local road,102.86
+18,28,Car,Maruti Suzuki,Celerio,Diesel,1,30,90,Moderate traffic,45,Hill road,64.29
+28,42,Car,Maruti Suzuki,Celerio,Diesel,1,25,108,Light traffic,65,Hill road,75.56
+32,48,Car,Maruti Suzuki,Celerio,Diesel,1,23,117,Normal traffic,75,Highway,82.05
+26,38,Car,Maruti Suzuki,Celerio,Diesel,1,27,100,Moderate traffic,55,Local road,74.07
+42,60,Car,Maruti Suzuki,Celerio,Diesel,1,19.5,138,Heavy traffic,95,Hill road,95.14
+23,35,Car,Maruti Suzuki,Celerio,Diesel,1,26.8,103,Light traffic,60,Local road,77.49
+36,52,Car,Maruti Suzuki,Celerio,Diesel,1,22,123,Normal traffic,80,Hill road,86.81
+19,30,Car,Maruti Suzuki,Celerio,Diesel,1,29.5,91,Heavy traffic,50,Hill road,67.02
+30,45,Car,Maruti Suzuki,Celerio,Diesel,1,25,108,Moderate traffic,70,Local road,75.56
+27,40,Car,Maruti Suzuki,Celerio,Diesel,1,26.3,104,Light traffic,65,Hill road,76.65
+39,57,Car,Maruti Suzuki,Celerio,Diesel,1,20.3,134,Normal traffic,90,Highway,101.4
+30,45,Car,Maruti Suzuki,S-Presso,Petrol,1,22,123,Heavy traffic,70,Hill road,86.81
+25,35,Car,Maruti Suzuki,S-Presso,Petrol,1,23,117,Moderate traffic,60,Local road,79.65
+35,50,Car,Maruti Suzuki,S-Presso,Petrol,1,21,130,Light traffic,80,Hill road,96
+20,30,Car,Maruti Suzuki,S-Presso,Petrol,1,24,113,Normal traffic,50,Highway,84.68
+40,60,Car,Maruti Suzuki,S-Presso,Petrol,1,20,135,Moderate traffic,90,Local road,100.91
+15,25,Car,Maruti Suzuki,S-Presso,Petrol,1,25,108,Heavy traffic,40,Hill road,75.56
+45,65,Car,Maruti Suzuki,S-Presso,Petrol,1,19.5,138,Light traffic,100,Hill road,102.86
+22,33,Car,Maruti Suzuki,S-Presso,Petrol,1,24.5,110,Normal traffic,55,Hill road,78.46
+38,55,Car,Maruti Suzuki,S-Presso,Petrol,1,18,140,Heavy traffic,85,Local road,105
+18,28,Car,Maruti Suzuki,S-Presso,Petrol,1,26,104,Moderate traffic,45,Hill road,76.92
+28,42,Car,Maruti Suzuki,S-Presso,Petrol,1,22.5,120,Light traffic,65,Hill road,79.37
+32,48,Car,Maruti Suzuki,S-Presso,Petrol,1,21,130,Normal traffic,75,Highway,96
+26,38,Car,Maruti Suzuki,S-Presso,Petrol,1,24.5,110,Moderate traffic,55,Local road,78.46
+42,60,Car,Maruti Suzuki,S-Presso,Petrol,1,17.5,142,Heavy traffic,95,Hill road,107.14
+23,35,Car,Maruti Suzuki,S-Presso,Petrol,1,23.8,118,Light traffic,60,Local road,88.14
+36,52,Car,Maruti Suzuki,S-Presso,Petrol,1,20,135,Normal traffic,80,Hill road,100.91
+19,30,Car,Maruti Suzuki,S-Presso,Petrol,1,25.5,106,Heavy traffic,50,Hill road,82.73
+30,45,Car,Maruti Suzuki,S-Presso,Petrol,1,22,123,Moderate traffic,70,Local road,86.81
+27,40,Car,Maruti Suzuki,S-Presso,Petrol,1,23.3,116,Light traffic,65,Hill road,81.88
+39,57,Car,Maruti Suzuki,S-Presso,Petrol,1,18.8,141,Normal traffic,90,Highway,106.17
+25,35,Car,Maruti Suzuki,S-Presso,Diesel,1.2,28,96,Moderate traffic,60,Local road,71.43
+35,50,Car,Maruti Suzuki,S-Presso,Diesel,1.2,24,113,Light traffic,80,Hill road,84.68
+20,30,Car,Maruti Suzuki,S-Presso,Diesel,1.2,30,80,Normal traffic,50,Highway,60
+40,60,Car,Maruti Suzuki,S-Presso,Diesel,1.2,22,123,Moderate traffic,90,Local road,86.81
+15,25,Car,Maruti Suzuki,S-Presso,Diesel,1.2,31,77,Heavy traffic,40,Hill road,58.71
+45,65,Car,Maruti Suzuki,S-Presso,Diesel,1.2,21.5,128,Light traffic,100,Hill road,89.47
+22,33,Car,Maruti Suzuki,S-Presso,Diesel,1.2,29,93,Normal traffic,55,Hill road,69.66
+38,55,Car,Maruti Suzuki,S-Presso,Diesel,1.2,20.5,133,Heavy traffic,85,Local road,96.59
+18,28,Car,Maruti Suzuki,S-Presso,Diesel,1.2,32,75,Moderate traffic,45,Hill road,56.25
+28,42,Car,Maruti Suzuki,S-Presso,Diesel,1.2,26.5,102,Light traffic,65,Hill road,75.47
+32,48,Car,Maruti Suzuki,S-Presso,Diesel,1.2,24,113,Normal traffic,75,Highway,84.68
+26,38,Car,Maruti Suzuki,S-Presso,Diesel,1.2,28,96,Moderate traffic,55,Local road,71.43
+42,60,Car,Maruti Suzuki,S-Presso,Diesel,1.2,19.8,136,Heavy traffic,95,Hill road,98.18
+23,35,Car,Maruti Suzuki,S-Presso,Diesel,1.2,27,100,Light traffic,60,Local road,74.07
+36,52,Car,Maruti Suzuki,S-Presso,Diesel,1.2,23,117,Normal traffic,80,Hill road,86.81
+19,30,Car,Maruti Suzuki,S-Presso,Diesel,1.2,29.5,91,Heavy traffic,50,Hill road,67.02
+30,45,Car,Maruti Suzuki,S-Presso,Diesel,1.2,26,104,Moderate traffic,70,Local road,76.92
+27,40,Car,Maruti Suzuki,S-Presso,Diesel,1.2,27.3,99,Light traffic,65,Hill road,73.47
+39,57,Car,Maruti Suzuki,S-Presso,Diesel,1.2,20,135,Normal traffic,90,Highway,100.91
+30,45,Car,Volkswagen,Polo,Petrol,1,20,135,Heavy traffic,70,Hill road,100.91
+25,35,Car,Volkswagen,Polo,Petrol,1,22,123,Moderate traffic,60,Local road,86.81
+35,50,Car,Volkswagen,Polo,Petrol,1,18,140,Light traffic,80,Hill road,105
+20,30,Car,Volkswagen,Polo,Petrol,1,24,113,Normal traffic,50,Highway,84.68
+40,60,Car,Volkswagen,Polo,Petrol,1,16,150,Moderate traffic,90,Local road,112.5
+15,25,Car,Volkswagen,Polo,Petrol,1,26,104,Heavy traffic,40,Hill road,78.46
+45,65,Car,Volkswagen,Polo,Petrol,1,14.5,165,Light traffic,100,Hill road,123.75
+22,33,Car,Volkswagen,Polo,Petrol,1,23,117,Normal traffic,55,Hill road,86.81
+38,55,Car,Volkswagen,Polo,Petrol,1,17,141,Heavy traffic,85,Local road,105
+18,28,Car,Volkswagen,Polo,Petrol,1,25,108,Moderate traffic,45,Hill road,75.56
+28,42,Car,Volkswagen,Polo,Petrol,1,21.5,128,Light traffic,65,Hill road,89.47
+32,48,Car,Volkswagen,Polo,Petrol,1,18,140,Normal traffic,75,Highway,105
+26,38,Car,Volkswagen,Polo,Petrol,1,22,123,Moderate traffic,55,Local road,86.81
+42,60,Car,Volkswagen,Polo,Petrol,1,15.5,160,Heavy traffic,95,Hill road,120
+23,35,Car,Volkswagen,Polo,Petrol,1,24,113,Light traffic,60,Local road,84.68
+36,52,Car,Volkswagen,Polo,Petrol,1,19,138,Normal traffic,80,Hill road,112.5
+19,30,Car,Volkswagen,Polo,Petrol,1,25.5,106,Heavy traffic,50,Hill road,79.29
+30,45,Car,Volkswagen,Polo,Petrol,1,20,135,Moderate traffic,70,Local road,100.91
+27,40,Car,Volkswagen,Polo,Petrol,1,21,130,Light traffic,65,Hill road,96
+39,57,Car,Volkswagen,Polo,Petrol,1,16.5,156,Normal traffic,90,Highway,117
+30,45,Car,Volkswagen,Polo,Diesel,1.5,22,123,Heavy traffic,70,Hill road,86.81
+25,35,Car,Volkswagen,Polo,Diesel,1.5,24,113,Moderate traffic,60,Local road,84.68
+35,50,Car,Volkswagen,Polo,Diesel,1.5,20.5,133,Light traffic,80,Hill road,96.59
+20,30,Car,Volkswagen,Polo,Diesel,1.5,26,104,Normal traffic,50,Highway,76.92
+40,60,Car,Volkswagen,Polo,Diesel,1.5,18.5,137,Moderate traffic,90,Local road,101.18
+15,25,Car,Volkswagen,Polo,Diesel,1.5,27,100,Heavy traffic,40,Hill road,73.47
+45,65,Car,Volkswagen,Polo,Diesel,1.5,17,141,Light traffic,100,Hill road,105
+22,33,Car,Volkswagen,Polo,Diesel,1.5,23.5,119,Normal traffic,55,Hill road,89.29
+38,55,Car,Volkswagen,Polo,Diesel,1.5,16.5,156,Heavy traffic,85,Local road,117
+18,28,Car,Volkswagen,Polo,Diesel,1.5,25,108,Moderate traffic,45,Hill road,75.56
+28,42,Car,Volkswagen,Polo,Diesel,1.5,20,135,Light traffic,65,Hill road,100.91
+32,48,Car,Volkswagen,Polo,Diesel,1.5,18,140,Normal traffic,75,Highway,105
+26,38,Car,Volkswagen,Polo,Diesel,1.5,22.5,120,Moderate traffic,55,Local road,87.33
+42,60,Car,Volkswagen,Polo,Diesel,1.5,16,150,Heavy traffic,95,Hill road,112.5
+23,35,Car,Volkswagen,Polo,Diesel,1.5,24.5,110,Light traffic,60,Local road,81.63
+36,52,Car,Volkswagen,Polo,Diesel,1.5,19.5,137,Normal traffic,80,Hill road,101.47
+19,30,Car,Volkswagen,Polo,Diesel,1.5,26.5,102,Heavy traffic,50,Hill road,78.46
+30,45,Car,Volkswagen,Polo,Diesel,1.5,21.5,128,Moderate traffic,70,Local road,89.47
+27,40,Car,Volkswagen,Polo,Diesel,1.5,22,123,Light traffic,65,Hill road,86.81
+39,57,Car,Volkswagen,Polo,Diesel,1.5,18,140,Normal traffic,90,Highway,105
+50,60,Car,Hyundai,Grand i10,Petrol,1.2,19,108,Heavy traffic,100,Highway,82
+30,45,Car,Hyundai,Grand i10,Diesel,1.2,24,90,Moderate traffic,50,Local road,60
+20,30,Car,Hyundai,Grand i10,Petrol,1.2,19,108,Light traffic,20,Hill road,82
+40,55,Car,Hyundai,Grand i10,Diesel,1.2,24,90,Normal traffic,0,Highway,60
+50,60,Car,Hyundai,Grand i10,Petrol,1.2,19,108,Heavy traffic,100,Hill road,82
+30,45,Car,Hyundai,Grand i10,Diesel,1.2,24,90,Moderate traffic,50,Highway,60
+20,30,Car,Hyundai,Grand i10,Petrol,1.2,19,108,Light traffic,20,Local road,82
+40,55,Car,Hyundai,Grand i10,Diesel,1.2,24,90,Normal traffic,0,Hill road,60
+50,60,Car,Hyundai,Grand i10,Petrol,1.2,19,108,Heavy traffic,100,Highway,82
+30,45,Car,Hyundai,Grand i10,Diesel,1.2,24,90,Moderate traffic,50,Local road,60
+20,30,Car,Hyundai,Grand i10,Petrol,1.2,19,108,Light traffic,20,Hill road,82
+40,55,Car,Hyundai,Grand i10,Diesel,1.2,24,90,Normal traffic,0,Highway,60
+50,60,Car,Hyundai,Grand i10,Petrol,1.2,19,108,Heavy traffic,100,Hill road,82
+30,45,Car,Hyundai,Grand i10,Diesel,1.2,24,90,Moderate traffic,50,Highway,60
+20,30,Car,Hyundai,Grand i10,Petrol,1.2,19,108,Light traffic,20,Local road,82
+40,55,Car,Hyundai,Grand i10,Diesel,1.2,24,90,Normal traffic,0,Hill road,60
+50,60,Car,Hyundai,Grand i10,Petrol,1.2,19,108,Heavy traffic,100,Highway,82
+30,45,Car,Hyundai,Grand i10,Diesel,1.2,24,90,Moderate traffic,50,Local road,60
+20,30,Car,Hyundai,Grand i10,Petrol,1.2,19,108,Light traffic,20,Hill road,82
+40,55,Car,Hyundai,Grand i10,Diesel,1.2,24,90,Normal traffic,0,Highway,60
+50,60,Car,Hyundai,Grand i10,Petrol,1.2,19,108,Heavy traffic,100,Hill road,82
+30,45,Car,Hyundai,Grand i10,Diesel,1.2,24,90,Moderate traffic,50,Highway,60
+20,30,Car,Hyundai,Grand i10,Petrol,1.2,19,108,Light traffic,20,Local road,82
+40,55,Car,Hyundai,Grand i10,Diesel,1.2,24,90,Normal traffic,0,Hill road,60
+50,60,Car,Hyundai,Grand i10,Petrol,1.2,19,108,Heavy traffic,100,Highway,82
+30,45,Car,Hyundai,Grand i10,Diesel,1.2,24,90,Moderate traffic,50,Local road,60
+20,30,Car,Hyundai,Grand i10,Petrol,1.2,19,108,Light traffic,20,Hill road,82
+50,60,Car,Hyundai,Grand i10 Nios,Petrol,1.2,20,105,Heavy traffic,100,Highway,78
+30,45,Car,Hyundai,Grand i10 Nios,Diesel,1.2,25,85,Moderate traffic,50,Local road,56
+20,30,Car,Hyundai,Grand i10 Nios,Petrol,1.2,20,105,Light traffic,20,Hill road,78
+40,55,Car,Hyundai,Grand i10 Nios,Diesel,1.2,25,85,Normal traffic,0,Highway,56
+50,60,Car,Hyundai,Grand i10 Nios,Petrol,1.2,20,105,Heavy traffic,100,Hill road,78
+30,45,Car,Hyundai,Grand i10 Nios,Diesel,1.2,25,85,Moderate traffic,50,Highway,56
+20,30,Car,Hyundai,Grand i10 Nios,Petrol,1.2,20,105,Light traffic,20,Local road,78
+40,55,Car,Hyundai,Grand i10 Nios,Diesel,1.2,25,85,Normal traffic,0,Hill road,56
+50,60,Car,Hyundai,Grand i10 Nios,Petrol,1.2,20,105,Heavy traffic,100,Highway,78
+30,45,Car,Hyundai,Grand i10 Nios,Diesel,1.2,25,85,Moderate traffic,50,Local road,56
+20,30,Car,Hyundai,Grand i10 Nios,Petrol,1.2,20,105,Light traffic,20,Hill road,78
+40,55,Car,Hyundai,Grand i10 Nios,Diesel,1.2,25,85,Normal traffic,0,Highway,56
+50,60,Car,Hyundai,Grand i10 Nios,Petrol,1.2,20,105,Heavy traffic,100,Hill road,78
+30,45,Car,Hyundai,Grand i10 Nios,Diesel,1.2,25,85,Moderate traffic,50,Highway,56
+20,30,Car,Hyundai,Grand i10 Nios,Petrol,1.2,20,105,Light traffic,20,Local road,78
+40,55,Car,Hyundai,Grand i10 Nios,Diesel,1.2,25,85,Normal traffic,0,Hill road,56
+50,60,Car,Hyundai,Grand i10 Nios,Petrol,1.2,20,105,Heavy traffic,100,Highway,78
+30,45,Car,Hyundai,Grand i10 Nios,Diesel,1.2,25,85,Moderate traffic,50,Local road,56
+20,30,Car,Hyundai,Grand i10 Nios,Petrol,1.2,20,105,Light traffic,20,Hill road,78
+40,55,Car,Hyundai,Grand i10 Nios,Diesel,1.2,25,85,Normal traffic,0,Highway,56
+50,60,Car,Hyundai,Grand i10 Nios,Petrol,1.2,20,105,Heavy traffic,100,Hill road,78
+30,45,Car,Hyundai,Grand i10 Nios,Diesel,1.2,25,85,Moderate traffic,50,Highway,56
+20,30,Car,Hyundai,Grand i10 Nios,Petrol,1.2,20,105,Light traffic,20,Local road,78
+40,55,Car,Hyundai,Grand i10 Nios,Diesel,1.2,25,85,Normal traffic,0,Hill road,56
+50,60,Car,Hyundai,Grand i10 Nios,Petrol,1.2,20,105,Heavy traffic,100,Highway,78
+30,45,Car,Hyundai,Grand i10 Nios,Diesel,1.2,25,85,Moderate traffic,50,Local road,56
+20,30,Car,Hyundai,Grand i10 Nios,Petrol,1.2,20,105,Light traffic,20,Hill road,78
+40,55,Car,Hyundai,Grand i10 Nios,Diesel,1.2,25,85,Normal traffic,0,Highway,56
+50,60,Car,Hyundai,Grand i10 Nios,Petrol,1.2,20,105,Heavy traffic,100,Hill road,78
+30,45,Car,Hyundai,Grand i10 Nios,Diesel,1.2,25,85,Moderate traffic,50,Highway,56
+20,30,Car,Hyundai,Grand i10 Nios,Petrol,1.2,20,105,Light traffic,20,Local road,78
+40,55,Car,Hyundai,Grand i10 Nios,Diesel,1.2,25,85,Normal traffic,0,Hill road,56
+50,60,Car,Hyundai,Grand i10 Nios,Petrol,1.2,20,105,Heavy traffic,100,Highway,78
+30,45,Car,Hyundai,Grand i10 Nios,Diesel,1.2,25,85,Moderate traffic,50,Local road,56
+20,30,Car,Hyundai,Grand i10 Nios,Petrol,1.2,20,105,Light traffic,20,Hill road,78
+40,55,Car,Hyundai,Grand i10 Nios,Diesel,1.2,25,85,Normal traffic,0,Highway,56
+50,60,Car,Hyundai,Grand i10 Nios,Petrol,1.2,20,105,Heavy traffic,100,Hill road,78
+30,45,Car,Hyundai,Grand i10 Nios,Diesel,1.2,25,85,Moderate traffic,50,Highway,56
+20,30,Car,Hyundai,Grand i10 Nios,Petrol,1.2,20,105,Light traffic,20,Local road,78
+40,55,Car,Hyundai,Grand i10 Nios,Diesel,1.2,25,85,Normal traffic,0,Hill road,56
+50,60,Car,Hyundai,Grand i10 Nios,Petrol,1.2,20,105,Heavy traffic,100,Highway,78
+30,45,Car,Hyundai,Grand i10 Nios,Diesel,1.2,25,85,Moderate traffic,50,Local road,56
+20,30,Car,Hyundai,Grand i10 Nios,Petrol,1.2,20,105,Light traffic,20,Hill road,78
+40,55,Car,Hyundai,Grand i10 Nios,Diesel,1.2,25,85,Normal traffic,0,Highway,56
+50,60,Car,Hyundai,Grand i10 Nios,Petrol,1.2,20,105,Heavy traffic,100,Hill road,78
+30,45,Car,Hyundai,Grand i10 Nios,Diesel,1.2,25,85,Moderate traffic,50,Highway,56
+20,30,Car,Hyundai,Grand i10 Nios,Petrol,1.2,20,105,Light traffic,20,Local road,78
+40,55,Car,Hyundai,Grand i10 Nios,Diesel,1.2,25,85,Normal traffic,0,Hill road,56
+50,60,Car,Hyundai,Grand i10 Nios,Petrol,1.2,20,105,Heavy traffic,100,Highway,78
+30,45,Car,Hyundai,Grand i10 Nios,Diesel,1.2,25,85,Moderate traffic,50,Local road,56
+20,30,Car,Hyundai,Grand i10 Nios,Petrol,1.2,20,105,Light traffic,20,Hill road,78
+40,55,Car,Hyundai,Grand i10 Nios,Diesel,1.2,25,85,Normal traffic,0,Highway,56
+50,60,Car,Hyundai,Grand i10 Nios,Petrol,1.2,20,105,Heavy traffic,100,Hill road,78
+30,45,Car,Hyundai,Grand i10 Nios,Diesel,1.2,25,85,Moderate traffic,50,Highway,56
+20,30,Car,Hyundai,Grand i10 Nios,Petrol,1.2,20,105,Light traffic,20,Local road,78
+40,55,Car,Hyundai,Grand i10 Nios,Diesel,1.2,25,85,Normal traffic,0,Hill road,56
+50,60,Car,Hyundai,i20,Petrol,1.2,18,115,Heavy traffic,100,Highway,87
+30,45,Car,Hyundai,i20,Diesel,1.5,24,90,Moderate traffic,50,Local road,60
+20,30,Car,Hyundai,i20,Petrol,1.2,18,115,Light traffic,20,Hill road,87
+40,55,Car,Hyundai,i20,Diesel,1.5,24,90,Normal traffic,0,Highway,60
+50,60,Car,Hyundai,i20,Petrol,1.2,18,115,Heavy traffic,100,Hill road,87
+30,45,Car,Hyundai,i20,Diesel,1.5,24,90,Moderate traffic,50,Highway,60
+20,30,Car,Hyundai,i20,Petrol,1.2,18,115,Light traffic,20,Local road,87
+40,55,Car,Hyundai,i20,Diesel,1.5,24,90,Normal traffic,0,Hill road,60
+50,60,Car,Hyundai,i20,Petrol,1.2,18,115,Heavy traffic,100,Highway,87
+30,45,Car,Hyundai,i20,Diesel,1.5,24,90,Moderate traffic,50,Local road,60
+20,30,Car,Hyundai,i20,Petrol,1.2,18,115,Light traffic,20,Hill road,87
+40,55,Car,Hyundai,i20,Diesel,1.5,24,90,Normal traffic,0,Highway,60
+50,60,Car,Hyundai,i20,Petrol,1.2,18,115,Heavy traffic,100,Hill road,87
+30,45,Car,Hyundai,i20,Diesel,1.5,24,90,Moderate traffic,50,Highway,60
+20,30,Car,Hyundai,i20,Petrol,1.2,18,115,Light traffic,20,Local road,87
+40,55,Car,Hyundai,i20,Diesel,1.5,24,90,Normal traffic,0,Hill road,60
+50,60,Car,Hyundai,i20,Petrol,1.2,18,115,Heavy traffic,100,Highway,87
+30,45,Car,Hyundai,i20,Diesel,1.5,24,90,Moderate traffic,50,Local road,60
+20,30,Car,Hyundai,i20,Petrol,1.2,18,115,Light traffic,20,Hill road,87
+40,55,Car,Hyundai,i20,Diesel,1.5,24,90,Normal traffic,0,Highway,60
+50,60,Car,Hyundai,i20,Petrol,1.2,18,115,Heavy traffic,100,Hill road,87
+30,45,Car,Hyundai,i20,Diesel,1.5,24,90,Moderate traffic,50,Highway,60
+20,30,Car,Hyundai,i20,Petrol,1.2,18,115,Light traffic,20,Local road,87
+40,55,Car,Hyundai,i20,Diesel,1.5,24,90,Normal traffic,0,Hill road,60
+50,60,Car,Hyundai,i20,Petrol,1.2,18,115,Heavy traffic,100,Highway,87
+30,45,Car,Hyundai,i20,Diesel,1.5,24,90,Moderate traffic,50,Local road,60
+20,30,Car,Hyundai,i20,Petrol,1.2,18,115,Light traffic,20,Hill road,87
+40,55,Car,Hyundai,i20,Diesel,1.5,24,90,Normal traffic,0,Highway,60
+50,60,Car,Hyundai,i20,Petrol,1.2,18,115,Heavy traffic,100,Hill road,87
+30,45,Car,Hyundai,i20,Diesel,1.5,24,90,Moderate traffic,50,Highway,60
+20,30,Car,Hyundai,i20,Petrol,1.2,18,115,Light traffic,20,Local road,87
+40,55,Car,Hyundai,i20,Diesel,1.5,24,90,Normal traffic,0,Hill road,60
+50,60,Car,Hyundai,i20,Petrol,1.2,18,115,Heavy traffic,100,Highway,87
+30,45,Car,Hyundai,i20,Diesel,1.5,24,90,Moderate traffic,50,Local road,60
+20,30,Car,Hyundai,i20,Petrol,1.2,18,115,Light traffic,20,Hill road,87
+40,55,Car,Hyundai,i20,Diesel,1.5,24,90,Normal traffic,0,Highway,60
+50,60,Car,Hyundai,i20,Petrol,1.2,18,115,Heavy traffic,100,Hill road,87
+30,45,Car,Hyundai,i20,Diesel,1.5,24,90,Moderate traffic,50,Highway,60
+20,30,Car,Hyundai,i20,Petrol,1.2,18,115,Light traffic,20,Local road,87
+40,55,Car,Hyundai,i20,Diesel,1.5,24,90,Normal traffic,0,Hill road,60
+50,60,Car,Hyundai,i20,Petrol,1.2,18,115,Heavy traffic,100,Highway,87
+30,45,Car,Hyundai,i20,Diesel,1.5,24,90,Moderate traffic,50,Local road,60
+20,30,Car,Hyundai,i20,Petrol,1.2,18,115,Light traffic,20,Hill road,87
+40,55,Car,Hyundai,i20,Diesel,1.5,24,90,Normal traffic,0,Highway,60
+50,60,Car,Hyundai,i20,Petrol,1.2,18,115,Heavy traffic,100,Hill road,87
+30,45,Car,Hyundai,i20,Diesel,1.5,24,90,Moderate traffic,50,Highway,60
+20,30,Car,Hyundai,i20,Petrol,1.2,18,115,Light traffic,20,Local road,87
+40,55,Car,Hyundai,i20,Diesel,1.5,24,90,Normal traffic,0,Hill road,60
+50,60,Car,Hyundai,i20,Petrol,1.2,18,115,Heavy traffic,100,Highway,87
+30,45,Car,Hyundai,i20,Diesel,1.5,24,90,Moderate traffic,50,Local road,60
+20,30,Car,Hyundai,i20,Petrol,1.2,18,115,Light traffic,20,Hill road,87
+40,55,Car,Hyundai,i20,Diesel,1.5,24,90,Normal traffic,0,Highway,60
+50,60,Car,Hyundai,i20,Petrol,1.2,18,115,Heavy traffic,100,Hill road,87
+30,45,Car,Hyundai,i20,Diesel,1.5,24,90,Moderate traffic,50,Highway,60
+20,30,Car,Hyundai,i20,Petrol,1.2,18,115,Light traffic,20,Local road,87
+40,55,Car,Hyundai,i20,Diesel,1.5,24,90,Normal traffic,0,Hill road,60
+50,60,Car,Hyundai,Aura,Petrol,1.2,20,110,Heavy traffic,100,Highway,78
+30,45,Car,Hyundai,Aura,Diesel,1.2,25,85,Moderate traffic,50,Local road,60
+20,30,Car,Hyundai,Aura,Petrol,1.2,20,110,Light traffic,20,Hill road,78
+40,55,Car,Hyundai,Aura,Diesel,1.2,25,85,Normal traffic,0,Highway,60
+50,60,Car,Hyundai,Aura,Petrol,1.2,20,110,Heavy traffic,100,Hill road,78
+30,45,Car,Hyundai,Aura,Diesel,1.2,25,85,Moderate traffic,50,Highway,60
+20,30,Car,Hyundai,Aura,Petrol,1.2,20,110,Light traffic,20,Local road,78
+40,55,Car,Hyundai,Aura,Diesel,1.2,25,85,Normal traffic,0,Hill road,60
+50,60,Car,Hyundai,Aura,Petrol,1.2,20,110,Heavy traffic,100,Highway,78
+30,45,Car,Hyundai,Aura,Diesel,1.2,25,85,Moderate traffic,50,Local road,60
+20,30,Car,Hyundai,Aura,Petrol,1.2,20,110,Light traffic,20,Hill road,78
+40,55,Car,Hyundai,Aura,Diesel,1.2,25,85,Normal traffic,0,Highway,60
+50,60,Car,Hyundai,Aura,Petrol,1.2,20,110,Heavy traffic,100,Hill road,78
+30,45,Car,Hyundai,Aura,Diesel,1.2,25,85,Moderate traffic,50,Highway,60
+20,30,Car,Hyundai,Aura,Petrol,1.2,20,110,Light traffic,20,Local road,78
+40,55,Car,Hyundai,Aura,Diesel,1.2,25,85,Normal traffic,0,Hill road,60
+50,60,Car,Hyundai,Aura,Petrol,1.2,20,110,Heavy traffic,100,Highway,78
+30,45,Car,Hyundai,Aura,Diesel,1.2,25,85,Moderate traffic,50,Local road,60
+20,30,Car,Hyundai,Aura,Petrol,1.2,20,110,Light traffic,20,Hill road,78
+40,55,Car,Hyundai,Aura,Diesel,1.2,25,85,Normal traffic,0,Highway,60
+50,60,Car,Hyundai,Aura,Petrol,1.2,20,110,Heavy traffic,100,Hill road,78
+30,45,Car,Hyundai,Aura,Diesel,1.2,25,85,Moderate traffic,50,Highway,60
+20,30,Car,Hyundai,Aura,Petrol,1.2,20,110,Light traffic,20,Local road,78
+40,55,Car,Hyundai,Aura,Diesel,1.2,25,85,Normal traffic,0,Hill road,60
+50,60,Car,Hyundai,Aura,Petrol,1.2,20,110,Heavy traffic,100,Highway,78
+30,45,Car,Hyundai,Aura,Diesel,1.2,25,85,Moderate traffic,50,Local road,60
+20,30,Car,Hyundai,Aura,Petrol,1.2,20,110,Light traffic,20,Hill road,78
+40,55,Car,Hyundai,Aura,Diesel,1.2,25,85,Normal traffic,0,Highway,60
+50,60,Car,Hyundai,Aura,Petrol,1.2,20,110,Heavy traffic,100,Hill road,78
+30,45,Car,Hyundai,Aura,Diesel,1.2,25,85,Moderate traffic,50,Highway,60
+20,30,Car,Hyundai,Aura,Petrol,1.2,20,110,Light traffic,20,Local road,78
+40,55,Car,Hyundai,Aura,Diesel,1.2,25,85,Normal traffic,0,Hill road,60
+50,60,Car,Hyundai,Aura,Petrol,1.2,20,110,Heavy traffic,100,Highway,78
+30,45,Car,Hyundai,Aura,Diesel,1.2,25,85,Moderate traffic,50,Local road,60
+20,30,Car,Hyundai,Aura,Petrol,1.2,20,110,Light traffic,20,Hill road,78
+40,55,Car,Hyundai,Aura,Diesel,1.2,25,85,Normal traffic,0,Highway,60
+50,60,Car,Hyundai,Aura,Petrol,1.2,20,110,Heavy traffic,100,Hill road,78
+30,45,Car,Hyundai,Aura,Diesel,1.2,25,85,Moderate traffic,50,Highway,60
+20,30,Car,Hyundai,Aura,Petrol,1.2,20,110,Light traffic,20,Local road,78
+40,55,Car,Hyundai,Aura,Diesel,1.2,25,85,Normal traffic,0,Hill road,60
+50,60,Car,Hyundai,Aura,Petrol,1.2,20,110,Heavy traffic,100,Highway,78
+30,45,Car,Hyundai,Aura,Diesel,1.2,25,85,Moderate traffic,50,Local road,60
+20,30,Car,Hyundai,Aura,Petrol,1.2,20,110,Light traffic,20,Hill road,78
+40,55,Car,Hyundai,Aura,Diesel,1.2,25,85,Normal traffic,0,Highway,60
+50,60,Car,Hyundai,Aura,Petrol,1.2,20,110,Heavy traffic,100,Hill road,78
+30,45,Car,Hyundai,Aura,Diesel,1.2,25,85,Moderate traffic,50,Highway,60
+20,30,Car,Hyundai,Aura,Petrol,1.2,20,110,Light traffic,20,Local road,78
+40,55,Car,Hyundai,Aura,Diesel,1.2,25,85,Normal traffic,0,Hill road,60
+50,60,Car,Hyundai,Verna,Petrol,1.5,17,130,Heavy traffic,100,Highway,92
+30,45,Car,Hyundai,Verna,Diesel,1.5,22,100,Moderate traffic,50,Local road,72
+20,30,Car,Hyundai,Verna,Petrol,1.5,17,130,Light traffic,20,Hill road,92
+40,55,Car,Hyundai,Verna,Diesel,1.5,22,100,Normal traffic,0,Highway,72
+50,60,Car,Hyundai,Verna,Petrol,1.5,17,130,Heavy traffic,100,Hill road,92
+30,45,Car,Hyundai,Verna,Diesel,1.5,22,100,Moderate traffic,50,Highway,72
+20,30,Car,Hyundai,Verna,Petrol,1.5,17,130,Light traffic,20,Local road,92
+40,55,Car,Hyundai,Verna,Diesel,1.5,22,100,Normal traffic,0,Hill road,72
+50,60,Car,Hyundai,Verna,Petrol,1.5,17,130,Heavy traffic,100,Highway,92
+30,45,Car,Hyundai,Verna,Diesel,1.5,22,100,Moderate traffic,50,Local road,72
+20,30,Car,Hyundai,Verna,Petrol,1.5,17,130,Light traffic,20,Hill road,92
+40,55,Car,Hyundai,Verna,Diesel,1.5,22,100,Normal traffic,0,Highway,72
+50,60,Car,Hyundai,Verna,Petrol,1.5,17,130,Heavy traffic,100,Hill road,92
+30,45,Car,Hyundai,Verna,Diesel,1.5,22,100,Moderate traffic,50,Highway,72
+20,30,Car,Hyundai,Verna,Petrol,1.5,17,130,Light traffic,20,Local road,92
+40,55,Car,Hyundai,Verna,Diesel,1.5,22,100,Normal traffic,0,Hill road,72
+50,60,Car,Hyundai,Verna,Petrol,1.5,17,130,Heavy traffic,100,Highway,92
+30,45,Car,Hyundai,Verna,Diesel,1.5,22,100,Moderate traffic,50,Local road,72
+20,30,Car,Hyundai,Verna,Petrol,1.5,17,130,Light traffic,20,Hill road,92
+40,55,Car,Hyundai,Verna,Diesel,1.5,22,100,Normal traffic,0,Highway,72
+50,60,Car,Hyundai,Verna,Petrol,1.5,17,130,Heavy traffic,100,Hill road,92
+30,45,Car,Hyundai,Verna,Diesel,1.5,22,100,Moderate traffic,50,Highway,72
+20,30,Car,Hyundai,Verna,Petrol,1.5,17,130,Light traffic,20,Local road,92
+40,55,Car,Hyundai,Verna,Diesel,1.5,22,100,Normal traffic,0,Hill road,72
+50,60,Car,Hyundai,Verna,Petrol,1.5,17,130,Heavy traffic,100,Highway,92
+30,45,Car,Hyundai,Verna,Diesel,1.5,22,100,Moderate traffic,50,Local road,72
+20,30,Car,Hyundai,Verna,Petrol,1.5,17,130,Light traffic,20,Hill road,92
+40,55,Car,Hyundai,Verna,Diesel,1.5,22,100,Normal traffic,0,Highway,72
+50,60,Car,Hyundai,Verna,Petrol,1.5,17,130,Heavy traffic,100,Hill road,92
+30,45,Car,Hyundai,Verna,Diesel,1.5,22,100,Moderate traffic,50,Highway,72
+20,30,Car,Hyundai,Verna,Petrol,1.5,17,130,Light traffic,20,Local road,92
+40,55,Car,Hyundai,Verna,Diesel,1.5,22,100,Normal traffic,0,Hill road,72
+50,60,Car,Hyundai,Verna,Petrol,1.5,17,130,Heavy traffic,100,Highway,92
+30,45,Car,Hyundai,Verna,Diesel,1.5,22,100,Moderate traffic,50,Local road,72
+20,30,Car,Hyundai,Verna,Petrol,1.5,17,130,Light traffic,20,Hill road,92
+40,55,Car,Hyundai,Verna,Diesel,1.5,22,100,Normal traffic,0,Highway,72
+50,60,Car,Hyundai,Verna,Petrol,1.5,17,130,Heavy traffic,100,Hill road,92
+30,45,Car,Hyundai,Verna,Diesel,1.5,22,100,Moderate traffic,50,Highway,72
+20,30,Car,Hyundai,Verna,Petrol,1.5,17,130,Light traffic,20,Local road,92
+40,55,Car,Hyundai,Verna,Diesel,1.5,22,100,Normal traffic,0,Hill road,72
+50,60,Car,Hyundai,Venue,Petrol,1.2,18,120,Heavy traffic,100,Highway,100
+30,45,Car,Hyundai,Venue,Diesel,1.5,22,95,Moderate traffic,50,Local road,65
+20,30,Car,Hyundai,Venue,Petrol,1,20,115,Light traffic,20,Hill road,80
+40,55,Car,Hyundai,Venue,Diesel,1.5,22,95,Normal traffic,0,Highway,65
+50,60,Car,Hyundai,Venue,Petrol,1.2,18,120,Heavy traffic,100,Hill road,100
+30,45,Car,Hyundai,Venue,Diesel,1.5,22,95,Moderate traffic,50,Highway,65
+20,30,Car,Hyundai,Venue,Petrol,1,20,115,Light traffic,20,Local road,80
+40,55,Car,Hyundai,Venue,Diesel,1.5,22,95,Normal traffic,0,Hill road,65
+50,60,Car,Hyundai,Venue,Petrol,1.2,18,120,Heavy traffic,100,Highway,100
+30,45,Car,Hyundai,Venue,Diesel,1.5,22,95,Moderate traffic,50,Local road,65
+20,30,Car,Hyundai,Venue,Petrol,1,20,115,Light traffic,20,Hill road,80
+40,55,Car,Hyundai,Venue,Diesel,1.5,22,95,Normal traffic,0,Highway,65
+50,60,Car,Hyundai,Venue,Petrol,1.2,18,120,Heavy traffic,100,Hill road,100
+30,45,Car,Hyundai,Venue,Diesel,1.5,22,95,Moderate traffic,50,Highway,65
+20,30,Car,Hyundai,Venue,Petrol,1,20,115,Light traffic,20,Local road,80
+40,55,Car,Hyundai,Venue,Diesel,1.5,22,95,Normal traffic,0,Hill road,65
+50,60,Car,Hyundai,Venue,Petrol,1.2,18,120,Heavy traffic,100,Highway,100
+30,45,Car,Hyundai,Venue,Diesel,1.5,22,95,Moderate traffic,50,Local road,65
+20,30,Car,Hyundai,Venue,Petrol,1,20,115,Light traffic,20,Hill road,80
+40,55,Car,Hyundai,Venue,Diesel,1.5,22,95,Normal traffic,0,Highway,65
+50,60,Car,Hyundai,Venue,Petrol,1.2,18,120,Heavy traffic,100,Hill road,100
+30,45,Car,Hyundai,Venue,Diesel,1.5,22,95,Moderate traffic,50,Highway,65
+20,30,Car,Hyundai,Venue,Petrol,1,20,115,Light traffic,20,Local road,80
+40,55,Car,Hyundai,Venue,Diesel,1.5,22,95,Normal traffic,0,Hill road,65
+50,60,Car,Hyundai,Venue,Petrol,1.2,18,120,Heavy traffic,100,Highway,100
+30,45,Car,Hyundai,Venue,Diesel,1.5,22,95,Moderate traffic,50,Local road,65
+20,30,Car,Hyundai,Venue,Petrol,1,20,115,Light traffic,20,Hill road,80
+40,55,Car,Hyundai,Venue,Diesel,1.5,22,95,Normal traffic,0,Highway,65
+50,60,Car,Hyundai,Elantra,Petrol,2,16,140,Heavy traffic,100,Highway,87
+30,45,Car,Hyundai,Elantra,Diesel,1.5,20,110,Moderate traffic,50,Local road,72
+20,30,Car,Hyundai,Elantra,Petrol,2,16,140,Light traffic,20,Hill road,87
+40,55,Car,Hyundai,Elantra,Diesel,1.5,20,110,Normal traffic,0,Highway,72
+50,60,Car,Hyundai,Elantra,Petrol,2,16,140,Heavy traffic,100,Hill road,87
+30,45,Car,Hyundai,Elantra,Diesel,1.5,20,110,Moderate traffic,50,Highway,72
+20,30,Car,Hyundai,Elantra,Petrol,2,16,140,Light traffic,20,Local road,87
+40,55,Car,Hyundai,Elantra,Diesel,1.5,20,110,Normal traffic,0,Hill road,72
+50,60,Car,Hyundai,Elantra,Petrol,2,16,140,Heavy traffic,100,Highway,87
+30,45,Car,Hyundai,Elantra,Diesel,1.5,20,110,Moderate traffic,50,Local road,72
+20,30,Car,Hyundai,Elantra,Petrol,2,16,140,Light traffic,20,Hill road,87
+40,55,Car,Hyundai,Elantra,Diesel,1.5,20,110,Normal traffic,0,Highway,72
+50,60,Car,Hyundai,Elantra,Petrol,2,16,140,Heavy traffic,100,Hill road,87
+30,45,Car,Hyundai,Elantra,Diesel,1.5,20,110,Moderate traffic,50,Highway,72
+20,30,Car,Hyundai,Elantra,Petrol,2,16,140,Light traffic,20,Local road,87
+40,55,Car,Hyundai,Elantra,Diesel,1.5,20,110,Normal traffic,0,Hill road,72
+50,60,Car,Hyundai,Elantra,Petrol,2,16,140,Heavy traffic,100,Highway,87
+30,45,Car,Hyundai,Elantra,Diesel,1.5,20,110,Moderate traffic,50,Local road,72
+20,30,Car,Hyundai,Elantra,Petrol,2,16,140,Light traffic,20,Hill road,87
+40,55,Car,Hyundai,Elantra,Diesel,1.5,20,110,Normal traffic,0,Highway,72
+50,60,Car,Hyundai,Elantra,Petrol,2,16,140,Heavy traffic,100,Hill road,87
+30,45,Car,Hyundai,Elantra,Diesel,1.5,20,110,Moderate traffic,50,Highway,72
+20,30,Car,Hyundai,Elantra,Petrol,2,16,140,Light traffic,20,Local road,87
+40,55,Car,Hyundai,Elantra,Diesel,1.5,20,110,Normal traffic,0,Hill road,72
+50,60,Car,Hyundai,Elantra,Petrol,2,16,140,Heavy traffic,100,Highway,87
+30,45,Car,Hyundai,Elantra,Diesel,1.5,20,110,Moderate traffic,50,Local road,72
+20,30,Car,Hyundai,Elantra,Petrol,2,16,140,Light traffic,20,Hill road,87
+40,55,Car,Hyundai,Elantra,Diesel,1.5,20,110,Normal traffic,0,Highway,72
+50,60,Car,Hyundai,Elantra,Petrol,2,16,140,Heavy traffic,100,Hill road,87
+30,45,Car,Hyundai,Elantra,Diesel,1.5,20,110,Moderate traffic,50,Highway,72
+20,30,Car,Hyundai,Elantra,Petrol,2,16,140,Light traffic,20,Local road,87
+40,55,Car,Hyundai,Elantra,Diesel,1.5,20,110,Normal traffic,0,Hill road,72
+50,60,Car,Hyundai,Elantra,Petrol,2,16,140,Heavy traffic,100,Highway,87
+30,45,Car,Hyundai,Elantra,Diesel,1.5,20,110,Moderate traffic,50,Local road,72
+20,30,Car,Hyundai,Elantra,Petrol,2,16,140,Light traffic,20,Hill road,87
+40,55,Car,Hyundai,Elantra,Diesel,1.5,20,110,Normal traffic,0,Highway,72
+50,60,Car,Hyundai,Creta,Petrol,1.5,17,130,Heavy traffic,100,Highway,92
+30,45,Car,Hyundai,Creta,Diesel,1.5,22,100,Moderate traffic,50,Local road,72
+20,30,Car,Hyundai,Creta,Petrol,1.5,17,130,Light traffic,20,Hill road,92
+40,55,Car,Hyundai,Creta,Diesel,1.5,22,100,Normal traffic,0,Highway,72
+50,60,Car,Hyundai,Creta,Petrol,1.5,17,130,Heavy traffic,100,Hill road,92
+30,45,Car,Hyundai,Creta,Diesel,1.5,22,100,Moderate traffic,50,Highway,72
+20,30,Car,Hyundai,Creta,Petrol,1.5,17,130,Light traffic,20,Local road,92
+40,55,Car,Hyundai,Creta,Diesel,1.5,22,100,Normal traffic,0,Hill road,72
+50,60,Car,Hyundai,Creta,Petrol,1.5,17,130,Heavy traffic,100,Highway,92
+30,45,Car,Hyundai,Creta,Diesel,1.5,22,100,Moderate traffic,50,Local road,72
+20,30,Car,Hyundai,Creta,Petrol,1.5,17,130,Light traffic,20,Hill road,92
+40,55,Car,Hyundai,Creta,Diesel,1.5,22,100,Normal traffic,0,Highway,72
+50,60,Car,Hyundai,Creta,Petrol,1.5,17,130,Heavy traffic,100,Hill road,92
+30,45,Car,Hyundai,Creta,Diesel,1.5,22,100,Moderate traffic,50,Highway,72
+20,30,Car,Hyundai,Creta,Petrol,1.5,17,130,Light traffic,20,Local road,92
+40,55,Car,Hyundai,Creta,Diesel,1.5,22,100,Normal traffic,0,Hill road,72
+50,60,Car,Hyundai,Creta,Petrol,1.5,17,130,Heavy traffic,100,Highway,92
+30,45,Car,Hyundai,Creta,Diesel,1.5,22,100,Moderate traffic,50,Local road,72
+20,30,Car,Hyundai,Creta,Petrol,1.5,17,130,Light traffic,20,Hill road,92
+40,55,Car,Hyundai,Creta,Diesel,1.5,22,100,Normal traffic,0,Highway,72
+50,60,Car,Hyundai,Creta,Petrol,1.5,17,130,Heavy traffic,100,Hill road,92
+30,45,Car,Hyundai,Creta,Diesel,1.5,22,100,Moderate traffic,50,Highway,72
+20,30,Car,Hyundai,Creta,Petrol,1.5,17,130,Light traffic,20,Local road,92
+40,55,Car,Hyundai,Creta,Diesel,1.5,22,100,Normal traffic,0,Hill road,72
+50,60,Car,Hyundai,Creta,Petrol,1.5,17,130,Heavy traffic,100,Highway,92
+30,45,Car,Hyundai,Creta,Diesel,1.5,22,100,Moderate traffic,50,Local road,72
+20,30,Car,Hyundai,Creta,Petrol,1.5,17,130,Light traffic,20,Hill road,92
+40,55,Car,Hyundai,Creta,Diesel,1.5,22,100,Normal traffic,0,Highway,72
+50,60,Car,Hyundai,Alcazar,Petrol,1.5,16,135,Heavy traffic,100,Highway,89
+30,45,Car,Hyundai,Alcazar,Diesel,1.5,20,105,Moderate traffic,50,Local road,76
+20,30,Car,Hyundai,Alcazar,Petrol,1.5,16,135,Light traffic,20,Hill road,89
+40,55,Car,Hyundai,Alcazar,Diesel,1.5,20,105,Normal traffic,0,Highway,76
+50,60,Car,Hyundai,Alcazar,Petrol,1.5,16,135,Heavy traffic,100,Hill road,89
+30,45,Car,Hyundai,Alcazar,Diesel,1.5,20,105,Moderate traffic,50,Highway,76
+20,30,Car,Hyundai,Alcazar,Petrol,1.5,16,135,Light traffic,20,Local road,89
+40,55,Car,Hyundai,Alcazar,Diesel,1.5,20,105,Normal traffic,0,Hill road,76
+50,60,Car,Hyundai,Alcazar,Petrol,1.5,16,135,Heavy traffic,100,Highway,89
+30,45,Car,Hyundai,Alcazar,Diesel,1.5,20,105,Moderate traffic,50,Local road,76
+20,30,Car,Hyundai,Alcazar,Petrol,1.5,16,135,Light traffic,20,Hill road,89
+40,55,Car,Hyundai,Alcazar,Diesel,1.5,20,105,Normal traffic,0,Highway,76
+50,60,Car,Hyundai,Alcazar,Petrol,1.5,16,135,Heavy traffic,100,Hill road,89
+30,45,Car,Hyundai,Alcazar,Diesel,1.5,20,105,Moderate traffic,50,Highway,76
+20,30,Car,Hyundai,Alcazar,Petrol,1.5,16,135,Light traffic,20,Local road,89
+40,55,Car,Hyundai,Alcazar,Diesel,1.5,20,105,Normal traffic,0,Hill road,76
+50,60,Car,Hyundai,Alcazar,Petrol,1.5,16,135,Heavy traffic,100,Highway,89
+30,45,Car,Hyundai,Alcazar,Diesel,1.5,20,105,Moderate traffic,50,Local road,76
+20,30,Car,Hyundai,Alcazar,Petrol,1.5,16,135,Light traffic,20,Hill road,89
+40,55,Car,Hyundai,Alcazar,Diesel,1.5,20,105,Normal traffic,0,Highway,76
+50,60,Car,Hyundai,Alcazar,Petrol,1.5,16,135,Heavy traffic,100,Hill road,89
+30,45,Car,Hyundai,Alcazar,Diesel,1.5,20,105,Moderate traffic,50,Highway,76
+20,30,Car,Hyundai,Alcazar,Petrol,1.5,16,135,Light traffic,20,Local road,89
+40,55,Car,Hyundai,Alcazar,Diesel,1.5,20,105,Normal traffic,0,Hill road,76
+50,60,Car,Hyundai,Alcazar,Petrol,1.5,16,135,Heavy traffic,100,Highway,89
+30,45,Car,Hyundai,Alcazar,Diesel,1.5,20,105,Moderate traffic,50,Local road,76
+20,30,Car,Hyundai,Alcazar,Petrol,1.5,16,135,Light traffic,20,Hill road,89
+40,55,Car,Hyundai,Alcazar,Diesel,1.5,20,105,Normal traffic,0,Highway,76
+50,60,Car,Hyundai,Alcazar,Petrol,1.5,16,135,Heavy traffic,100,Hill road,89
+30,45,Car,Hyundai,Alcazar,Diesel,1.5,20,105,Moderate traffic,50,Highway,76
+20,30,Car,Hyundai,Alcazar,Petrol,1.5,16,135,Light traffic,20,Local road,89
+40,55,Car,Hyundai,Alcazar,Diesel,1.5,20,105,Normal traffic,0,Hill road,76
+50,60,Car,Hyundai,Alcazar,Petrol,1.5,16,135,Heavy traffic,100,Highway,89
+30,45,Car,Hyundai,Alcazar,Diesel,1.5,20,105,Moderate traffic,50,Local road,76
+20,30,Car,Hyundai,Alcazar,Petrol,1.5,16,135,Light traffic,20,Hill road,89
+40,55,Car,Hyundai,Alcazar,Diesel,1.5,20,105,Normal traffic,0,Highway,76
+50,60,Car,Hyundai,Alcazar,Petrol,1.5,16,135,Heavy traffic,100,Hill road,89
+30,45,Car,Hyundai,Alcazar,Diesel,1.5,20,105,Moderate traffic,50,Highway,76
+20,30,Car,Hyundai,Alcazar,Petrol,1.5,16,135,Light traffic,20,Local road,89
+40,55,Car,Hyundai,Alcazar,Diesel,1.5,20,105,Normal traffic,0,Hill road,76
+50,60,Car,Hyundai,Alcazar,Petrol,1.5,16,135,Heavy traffic,100,Highway,89
+30,45,Car,Hyundai,Alcazar,Diesel,1.5,20,105,Moderate traffic,50,Local road,76
+20,30,Car,Hyundai,Alcazar,Petrol,1.5,16,135,Light traffic,20,Hill road,89
+40,55,Car,Hyundai,Alcazar,Diesel,1.5,20,105,Normal traffic,0,Highway,76
+50,60,Car,Hyundai,Alcazar,Petrol,1.5,16,135,Heavy traffic,100,Hill road,89
+30,45,Car,Hyundai,Alcazar,Diesel,1.5,20,105,Moderate traffic,50,Highway,76
+20,30,Car,Hyundai,Alcazar,Petrol,1.5,16,135,Light traffic,20,Local road,89
+40,55,Car,Hyundai,Alcazar,Diesel,1.5,20,105,Normal traffic,0,Hill road,76
+50,60,Car,Hyundai,Alcazar,Petrol,1.5,16,135,Heavy traffic,100,Highway,89
+30,45,Car,Hyundai,Alcazar,Diesel,1.5,20,105,Moderate traffic,50,Local road,76
+20,30,Car,Hyundai,Alcazar,Petrol,1.5,16,135,Light traffic,20,Hill road,89
+40,55,Car,Hyundai,Alcazar,Diesel,1.5,20,105,Normal traffic,0,Highway,76
+50,60,Car,Hyundai,Alcazar,Petrol,1.5,16,135,Heavy traffic,100,Hill road,89
+30,45,Car,Hyundai,Alcazar,Diesel,1.5,20,105,Moderate traffic,50,Highway,76
+50,60,Car,Hyundai,Tucson,Petrol,2,14,160,Heavy traffic,100,Highway,114
+30,45,Car,Hyundai,Tucson,Diesel,1.6,18,120,Moderate traffic,50,Local road,83
+20,30,Car,Hyundai,Tucson,Petrol,2,14,160,Light traffic,20,Hill road,114
+40,55,Car,Hyundai,Tucson,Diesel,1.6,18,120,Normal traffic,0,Highway,83
+50,60,Car,Hyundai,Tucson,Petrol,2,14,160,Heavy traffic,100,Hill road,114
+30,45,Car,Hyundai,Tucson,Diesel,1.6,18,120,Moderate traffic,50,Highway,83
+20,30,Car,Hyundai,Tucson,Petrol,2,14,160,Light traffic,20,Local road,114
+40,55,Car,Hyundai,Tucson,Diesel,1.6,18,120,Normal traffic,0,Hill road,83
+50,60,Car,Hyundai,Tucson,Petrol,2,14,160,Heavy traffic,100,Highway,114
+30,45,Car,Hyundai,Tucson,Diesel,1.6,18,120,Moderate traffic,50,Local road,83
+20,30,Car,Hyundai,Tucson,Petrol,2,14,160,Light traffic,20,Hill road,114
+40,55,Car,Hyundai,Tucson,Diesel,1.6,18,120,Normal traffic,0,Highway,83
+50,60,Car,Hyundai,Tucson,Petrol,2,14,160,Heavy traffic,100,Hill road,114
+30,45,Car,Hyundai,Tucson,Diesel,1.6,18,120,Moderate traffic,50,Highway,83
+20,30,Car,Hyundai,Tucson,Petrol,2,14,160,Light traffic,20,Local road,114
+40,55,Car,Hyundai,Tucson,Diesel,1.6,18,120,Normal traffic,0,Hill road,83
+50,60,Car,Hyundai,Tucson,Petrol,2,14,160,Heavy traffic,100,Highway,114
+30,45,Car,Hyundai,Tucson,Diesel,1.6,18,120,Moderate traffic,50,Local road,83
+20,30,Car,Hyundai,Tucson,Petrol,2,14,160,Light traffic,20,Hill road,114
+40,55,Car,Hyundai,Tucson,Diesel,1.6,18,120,Normal traffic,0,Highway,83
+50,60,Car,Hyundai,Tucson,Petrol,2,14,160,Heavy traffic,100,Hill road,114
+30,45,Car,Hyundai,Tucson,Diesel,1.6,18,120,Moderate traffic,50,Highway,83
+20,30,Car,Hyundai,Tucson,Petrol,2,14,160,Light traffic,20,Local road,114
+40,55,Car,Hyundai,Tucson,Diesel,1.6,18,120,Normal traffic,0,Hill road,83
+50,60,Car,Hyundai,Tucson,Petrol,2,14,160,Heavy traffic,100,Highway,114
+30,45,Car,Hyundai,Tucson,Diesel,1.6,18,120,Moderate traffic,50,Local road,83
+20,30,Car,Hyundai,Tucson,Petrol,2,14,160,Light traffic,20,Hill road,114
+40,55,Car,Hyundai,Tucson,Diesel,1.6,18,120,Normal traffic,0,Highway,83
+50,60,Car,Hyundai,Kona Electric,Electric,Electric,6.2,0,Heavy traffic,100,Highway,0
+30,45,Car,Hyundai,Kona Electric,Electric,Electric,6.5,0,Moderate traffic,50,Local road,0
+20,30,Car,Hyundai,Kona Electric,Electric,Electric,6.8,0,Light traffic,20,Hill road,0
+40,55,Car,Hyundai,Kona Electric,Electric,Electric,6.4,0,Normal traffic,0,Highway,0
+50,60,Car,Hyundai,Kona Electric,Electric,Electric,6.2,0,Heavy traffic,100,Hill road,0
+30,45,Car,Hyundai,Kona Electric,Electric,Electric,6.5,0,Moderate traffic,50,Highway,0
+20,30,Car,Hyundai,Kona Electric,Electric,Electric,6.8,0,Light traffic,20,Local road,0
+40,55,Car,Hyundai,Kona Electric,Electric,Electric,6.4,0,Normal traffic,0,Hill road,0
+50,60,Car,Hyundai,Kona Electric,Electric,Electric,6.2,0,Heavy traffic,100,Highway,0
+30,45,Car,Hyundai,Kona Electric,Electric,Electric,6.5,0,Moderate traffic,50,Local road,0
+20,30,Car,Hyundai,Kona Electric,Electric,Electric,6.8,0,Light traffic,20,Hill road,0
+40,55,Car,Hyundai,Kona Electric,Electric,Electric,6.4,0,Normal traffic,0,Highway,0
+50,60,Car,Hyundai,Kona Electric,Electric,Electric,6.2,0,Heavy traffic,100,Hill road,0
+30,45,Car,Hyundai,Kona Electric,Electric,Electric,6.5,0,Moderate traffic,50,Highway,0
+20,30,Car,Hyundai,Kona Electric,Electric,Electric,6.8,0,Light traffic,20,Local road,0
+40,55,Car,Hyundai,Kona Electric,Electric,Electric,6.4,0,Normal traffic,0,Hill road,0
+50,60,Car,Hyundai,Kona Electric,Electric,Electric,6.2,0,Heavy traffic,100,Highway,0
+30,45,Car,Hyundai,Kona Electric,Electric,Electric,6.5,0,Moderate traffic,50,Local road,0
+20,30,Car,Hyundai,Kona Electric,Electric,Electric,6.8,0,Light traffic,20,Hill road,0
+40,55,Car,Hyundai,Kona Electric,Electric,Electric,6.4,0,Normal traffic,0,Highway,0
+30,45,Car,Volkswagen,Vento,Petrol,1.6,18,140,Heavy traffic,70,Hill road,126
+25,35,Car,Volkswagen,Vento,Petrol,1.6,20,135,Moderate traffic,60,Local road,108
+35,50,Car,Volkswagen,Vento,Petrol,1.6,16.5,156,Light traffic,80,Hill road,136.36
+20,30,Car,Volkswagen,Vento,Petrol,1.6,22,123,Normal traffic,50,Highway,105
+40,60,Car,Volkswagen,Vento,Petrol,1.6,15.5,160,Moderate traffic,90,Local road,144.52
+15,25,Car,Volkswagen,Vento,Petrol,1.6,23,117,Heavy traffic,40,Hill road,100.87
+45,65,Car,Volkswagen,Vento,Petrol,1.6,14,170,Light traffic,100,Hill road,154.29
+22,33,Car,Volkswagen,Vento,Petrol,1.6,21,130,Normal traffic,55,Hill road,113.64
+38,55,Car,Volkswagen,Vento,Petrol,1.6,13.5,178,Heavy traffic,85,Local road,152
+18,28,Car,Volkswagen,Vento,Petrol,1.6,24,113,Moderate traffic,45,Hill road,108
+28,42,Car,Volkswagen,Vento,Petrol,1.6,19.5,137,Light traffic,65,Hill road,126
+32,48,Car,Volkswagen,Vento,Petrol,1.6,16,150,Normal traffic,75,Highway,144
+26,38,Car,Volkswagen,Vento,Petrol,1.6,20.5,133,Moderate traffic,55,Local road,136.36
+42,60,Car,Volkswagen,Vento,Petrol,1.6,14,170,Heavy traffic,95,Hill road,154.29
+23,35,Car,Volkswagen,Vento,Petrol,1.6,22.5,120,Light traffic,60,Local road,118.67
+36,52,Car,Volkswagen,Vento,Petrol,1.6,18.5,137,Normal traffic,80,Hill road,144.52
+19,30,Car,Volkswagen,Vento,Petrol,1.6,23.5,119,Heavy traffic,50,Hill road,126
+30,45,Car,Volkswagen,Vento,Petrol,1.6,18.5,137,Moderate traffic,70,Local road,144.52
+27,40,Car,Volkswagen,Vento,Petrol,1.6,19,135,Light traffic,65,Hill road,126
+39,57,Car,Volkswagen,Vento,Petrol,1.6,15,167,Normal traffic,90,Highway,153
+30,45,Car,Volkswagen,Vento,Diesel,1.5,22,123,Heavy traffic,70,Hill road,86.81
+25,35,Car,Volkswagen,Vento,Diesel,1.5,24,113,Moderate traffic,60,Local road,84.68
+35,50,Car,Volkswagen,Vento,Diesel,1.5,20.5,133,Light traffic,80,Hill road,96.59
+20,30,Car,Volkswagen,Vento,Diesel,1.5,26,104,Normal traffic,50,Highway,76.92
+40,60,Car,Volkswagen,Vento,Diesel,1.5,18.5,137,Moderate traffic,90,Local road,101.18
+15,25,Car,Volkswagen,Vento,Diesel,1.5,27,100,Heavy traffic,40,Hill road,73.47
+45,65,Car,Volkswagen,Vento,Diesel,1.5,17,141,Light traffic,100,Hill road,105
+22,33,Car,Volkswagen,Vento,Diesel,1.5,23.5,119,Normal traffic,55,Hill road,89.29
+38,55,Car,Volkswagen,Vento,Diesel,1.5,16.5,156,Heavy traffic,85,Local road,117
+18,28,Car,Volkswagen,Vento,Diesel,1.5,25,108,Moderate traffic,45,Hill road,75.56
+28,42,Car,Volkswagen,Vento,Diesel,1.5,20,135,Light traffic,65,Hill road,100.91
+32,48,Car,Volkswagen,Vento,Diesel,1.5,18,140,Normal traffic,75,Highway,105
+26,38,Car,Volkswagen,Vento,Diesel,1.5,22.5,120,Moderate traffic,55,Local road,87.33
+42,60,Car,Volkswagen,Vento,Diesel,1.5,16,150,Heavy traffic,95,Hill road,112.5
+23,35,Car,Volkswagen,Vento,Diesel,1.5,24.5,110,Light traffic,60,Local road,81.63
+36,52,Car,Volkswagen,Vento,Diesel,1.5,19.5,137,Normal traffic,80,Hill road,101.47
+19,30,Car,Volkswagen,Vento,Diesel,1.5,26.5,102,Heavy traffic,50,Hill road,78.46
+30,45,Car,Volkswagen,Vento,Diesel,1.5,21.5,128,Moderate traffic,70,Local road,89.47
+27,40,Car,Volkswagen,Vento,Diesel,1.5,22,123,Light traffic,65,Hill road,86.81
+39,57,Car,Volkswagen,Vento,Diesel,1.5,18,140,Normal traffic,90,Highway,105
+30,45,Car,Volkswagen,Taigun,Petrol,1.5,17,141,Heavy traffic,70,Hill road,148.24
+25,35,Car,Volkswagen,Taigun,Petrol,1.5,18,140,Moderate traffic,60,Local road,131.58
+35,50,Car,Volkswagen,Taigun,Petrol,1.5,16,150,Light traffic,80,Hill road,168.75
+20,30,Car,Volkswagen,Taigun,Petrol,1.5,19,135,Normal traffic,50,Highway,126.32
+40,60,Car,Volkswagen,Taigun,Petrol,1.5,15,167,Moderate traffic,90,Local road,186.67
+15,25,Car,Volkswagen,Taigun,Petrol,1.5,20,135,Heavy traffic,40,Hill road,113.4
+45,65,Car,Volkswagen,Taigun,Petrol,1.5,14,170,Light traffic,100,Hill road,196
+22,33,Car,Volkswagen,Taigun,Petrol,1.5,18.5,137,Normal traffic,55,Hill road,145.95
+38,55,Car,Volkswagen,Taigun,Petrol,1.5,13,185,Heavy traffic,85,Local road,240
+18,28,Car,Volkswagen,Taigun,Petrol,1.5,20.5,133,Moderate traffic,45,Hill road,119.56
+28,42,Car,Volkswagen,Taigun,Petrol,1.5,16.5,156,Light traffic,65,Hill road,149.7
+32,48,Car,Volkswagen,Taigun,Petrol,1.5,15,167,Normal traffic,75,Highway,186.67
+26,38,Car,Volkswagen,Taigun,Petrol,1.5,18,140,Moderate traffic,55,Local road,131.58
+42,60,Car,Volkswagen,Taigun,Petrol,1.5,13.5,178,Heavy traffic,95,Hill road,168.75
+23,35,Car,Volkswagen,Taigun,Petrol,1.5,19.5,137,Light traffic,60,Local road,142.05
+36,52,Car,Volkswagen,Taigun,Petrol,1.5,16,150,Normal traffic,80,Hill road,168.75
+19,30,Car,Volkswagen,Taigun,Petrol,1.5,20,135,Heavy traffic,50,Hill road,126.32
+30,45,Car,Volkswagen,Taigun,Petrol,1.5,17.5,144,Moderate traffic,70,Local road,155.17
+27,40,Car,Volkswagen,Taigun,Petrol,1.5,18,140,Light traffic,65,Hill road,148.24
+39,57,Car,Volkswagen,Taigun,Petrol,1.5,14.5,172,Normal traffic,90,Highway,192.41
+30,45,Car,Volkswagen,Taigun,Diesel,1.5,21,128,Heavy traffic,70,Hill road,101.47
+25,35,Car,Volkswagen,Taigun,Diesel,1.5,23,117,Moderate traffic,60,Local road,91.95
+35,50,Car,Volkswagen,Taigun,Diesel,1.5,19.5,137,Light traffic,80,Hill road,117
+20,30,Car,Volkswagen,Taigun,Diesel,1.5,24,113,Normal traffic,50,Highway,84.68
+40,60,Car,Volkswagen,Taigun,Diesel,1.5,18,140,Moderate traffic,90,Local road,126.32
+15,25,Car,Volkswagen,Taigun,Diesel,1.5,25,108,Heavy traffic,40,Hill road,78.46
+45,65,Car,Volkswagen,Taigun,Diesel,1.5,16.5,156,Light traffic,100,Hill road,130.91
+22,33,Car,Volkswagen,Taigun,Diesel,1.5,22.5,120,Normal traffic,55,Hill road,94.29
+38,55,Car,Volkswagen,Taigun,Diesel,1.5,15,167,Heavy traffic,85,Local road,140
+18,28,Car,Volkswagen,Taigun,Diesel,1.5,23.5,119,Moderate traffic,45,Hill road,89.29
+28,42,Car,Volkswagen,Taigun,Diesel,1.5,17.5,144,Light traffic,65,Hill road,117
+32,48,Car,Volkswagen,Taigun,Diesel,1.5,16,150,Normal traffic,75,Highway,126.32
+26,38,Car,Volkswagen,Taigun,Diesel,1.5,20.5,133,Moderate traffic,55,Local road,91.95
+42,60,Car,Volkswagen,Taigun,Diesel,1.5,14.5,172,Heavy traffic,95,Hill road,130.91
+23,35,Car,Volkswagen,Taigun,Diesel,1.5,21.5,128,Light traffic,60,Local road,101.47
+36,52,Car,Volkswagen,Taigun,Diesel,1.5,18,140,Normal traffic,80,Hill road,126.32
+19,30,Car,Volkswagen,Taigun,Diesel,1.5,24,113,Heavy traffic,50,Hill road,84.68
+30,45,Car,Volkswagen,Taigun,Diesel,1.5,20.5,133,Moderate traffic,70,Local road,91.95
+27,40,Car,Volkswagen,Taigun,Diesel,1.5,21,128,Light traffic,65,Hill road,101.47
+39,57,Car,Volkswagen,Taigun,Diesel,1.5,16,150,Normal traffic,90,Highway,126.32
+30,45,Car,Volkswagen,Beetle,Petrol,1.4,15,167,Heavy traffic,70,Hill road,175.56
+25,35,Car,Volkswagen,Beetle,Petrol,1.4,16,150,Moderate traffic,60,Local road,157.5
+35,50,Car,Volkswagen,Beetle,Petrol,1.4,14,170,Light traffic,80,Hill road,184.29
+20,30,Car,Volkswagen,Beetle,Petrol,1.4,17,141,Normal traffic,50,Highway,166.92
+40,60,Car,Volkswagen,Beetle,Petrol,1.4,13,185,Moderate traffic,90,Local road,152.31
+15,25,Car,Volkswagen,Beetle,Petrol,1.4,18,140,Heavy traffic,40,Hill road,145.95
+45,65,Car,Volkswagen,Beetle,Petrol,1.4,12,200,Light traffic,100,Hill road,173.25
+22,33,Car,Volkswagen,Beetle,Petrol,1.4,16.5,156,Normal traffic,55,Hill road,162.68
+38,55,Car,Volkswagen,Beetle,Petrol,1.4,11.5,217,Heavy traffic,85,Local road,250.17
+18,28,Car,Volkswagen,Beetle,Petrol,1.4,17.5,144,Moderate traffic,45,Hill road,154.35
+28,42,Car,Volkswagen,Beetle,Petrol,1.4,14,170,Light traffic,65,Hill road,184.29
+32,48,Car,Volkswagen,Beetle,Petrol,1.4,13,185,Normal traffic,75,Highway,152.31
+26,38,Car,Volkswagen,Beetle,Petrol,1.4,16,150,Moderate traffic,55,Local road,157.5
+42,60,Car,Volkswagen,Beetle,Petrol,1.4,10.5,229,Heavy traffic,95,Hill road,214.29
+23,35,Car,Volkswagen,Beetle,Petrol,1.4,17,141,Light traffic,60,Local road,166.92
+36,52,Car,Volkswagen,Beetle,Petrol,1.4,12.5,192,Normal traffic,80,Hill road,178.4
+19,30,Car,Volkswagen,Beetle,Petrol,1.4,17,141,Heavy traffic,50,Hill road,175.56
+30,45,Car,Volkswagen,Beetle,Petrol,1.4,15.5,154,Moderate traffic,70,Local road,187.55
+27,40,Car,Volkswagen,Beetle,Petrol,1.4,16,150,Light traffic,65,Hill road,157.5
+39,57,Car,Volkswagen,Beetle,Petrol,1.4,11,214,Normal traffic,90,Highway,194.67
+30,45,Car,Volkswagen,Beetle,Diesel,1.6,20,135,Heavy traffic,70,Hill road,101.47
+25,35,Car,Volkswagen,Beetle,Diesel,1.6,21,128,Moderate traffic,60,Local road,91.95
+35,50,Car,Volkswagen,Beetle,Diesel,1.6,19,141,Light traffic,80,Hill road,117
+20,30,Car,Volkswagen,Beetle,Diesel,1.6,22,123,Normal traffic,50,Highway,79.39
+40,60,Car,Volkswagen,Beetle,Diesel,1.6,17,141,Moderate traffic,90,Local road,132.95
+15,25,Car,Volkswagen,Beetle,Diesel,1.6,23,117,Heavy traffic,40,Hill road,78.46
+45,65,Car,Volkswagen,Beetle,Diesel,1.6,15,167,Light traffic,100,Hill road,130.91
+22,33,Car,Volkswagen,Beetle,Diesel,1.6,20.5,133,Normal traffic,55,Hill road,94.29
+38,55,Car,Volkswagen,Beetle,Diesel,1.6,13.5,178,Heavy traffic,85,Local road,153.38
+18,28,Car,Volkswagen,Beetle,Diesel,1.6,21.5,128,Moderate traffic,45,Hill road,89.29
+28,42,Car,Volkswagen,Beetle,Diesel,1.6,18,140,Light traffic,65,Hill road,117
+32,48,Car,Volkswagen,Beetle,Diesel,1.6,17,141,Normal traffic,75,Highway,132.95
+26,38,Car,Volkswagen,Beetle,Diesel,1.6,20,135,Moderate traffic,55,Local road,91.95
+42,60,Car,Volkswagen,Beetle,Diesel,1.6,12.5,192,Heavy traffic,95,Hill road,168.33
+23,35,Car,Volkswagen,Beetle,Diesel,1.6,21,128,Light traffic,60,Local road,101.47
+36,52,Car,Volkswagen,Beetle,Diesel,1.6,16.5,156,Normal traffic,80,Hill road,130.91
+19,30,Car,Volkswagen,Beetle,Diesel,1.6,21,128,Heavy traffic,50,Hill road,101.47
+30,45,Car,Volkswagen,Beetle,Diesel,1.6,19.5,137,Moderate traffic,70,Local road,110.81
+27,40,Car,Volkswagen,Beetle,Diesel,1.6,20,135,Light traffic,65,Hill road,118.06
+39,57,Car,Volkswagen,Beetle,Diesel,1.6,13,185,Normal traffic,90,Highway,152.31
+30,45,Car,Volkswagen,Jetta,Petrol,1.4,15.5,160,Heavy traffic,70,Hill road,164.52
+25,35,Car,Volkswagen,Jetta,Petrol,1.4,16.5,156,Moderate traffic,60,Local road,151.82
+35,50,Car,Volkswagen,Jetta,Petrol,1.4,14.5,168,Light traffic,80,Hill road,179.31
+20,30,Car,Volkswagen,Jetta,Petrol,1.4,17.5,148,Normal traffic,50,Highway,146
+40,60,Car,Volkswagen,Jetta,Petrol,1.4,13.5,178,Moderate traffic,90,Local road,191.11
+15,25,Car,Volkswagen,Jetta,Petrol,1.4,18.5,137,Heavy traffic,40,Hill road,128.65
+45,65,Car,Volkswagen,Jetta,Petrol,1.4,12.5,190,Light traffic,100,Hill road,207.27
+22,33,Car,Volkswagen,Jetta,Petrol,1.4,16,150,Normal traffic,55,Hill road,168.75
+38,55,Car,Volkswagen,Jetta,Petrol,1.4,11.5,196,Heavy traffic,85,Local road,213.04
+18,28,Car,Volkswagen,Jetta,Petrol,1.4,17,141,Moderate traffic,45,Hill road,164.52
+28,42,Car,Volkswagen,Jetta,Petrol,1.4,14,170,Light traffic,65,Hill road,179.31
+32,48,Car,Volkswagen,Jetta,Petrol,1.4,13,185,Normal traffic,75,Highway,191.11
+26,38,Car,Volkswagen,Jetta,Petrol,1.4,15,167,Moderate traffic,55,Local road,151.82
+42,60,Car,Volkswagen,Jetta,Petrol,1.4,11,200,Heavy traffic,95,Hill road,219.05
+23,35,Car,Volkswagen,Jetta,Petrol,1.4,16.5,156,Light traffic,60,Local road,161.37
+36,52,Car,Volkswagen,Jetta,Petrol,1.4,12.5,190,Normal traffic,80,Hill road,207.27
+19,30,Car,Volkswagen,Jetta,Petrol,1.4,17.5,148,Heavy traffic,50,Hill road,146
+30,45,Car,Volkswagen,Jetta,Petrol,1.4,14.5,168,Moderate traffic,70,Local road,179.31
+27,40,Car,Volkswagen,Jetta,Petrol,1.4,15,167,Light traffic,65,Hill road,179.31
+39,57,Car,Volkswagen,Jetta,Petrol,1.4,13,185,Normal traffic,90,Highway,191.11
+30,45,Car,Volkswagen,Beetle,Diesel,1.6,20,135,Heavy traffic,70,Hill road,101.47
+25,35,Car,Volkswagen,Beetle,Diesel,1.6,21,128,Moderate traffic,60,Local road,91.95
+35,50,Car,Volkswagen,Beetle,Diesel,1.6,19,141,Light traffic,80,Hill road,117
+20,30,Car,Volkswagen,Beetle,Diesel,1.6,22,123,Normal traffic,50,Highway,79.39
+40,60,Car,Volkswagen,Beetle,Diesel,1.6,17,141,Moderate traffic,90,Local road,132.95
+15,25,Car,Volkswagen,Beetle,Diesel,1.6,23,117,Heavy traffic,40,Hill road,78.46
+45,65,Car,Volkswagen,Beetle,Diesel,1.6,15,167,Light traffic,100,Hill road,130.91
+22,33,Car,Volkswagen,Beetle,Diesel,1.6,20.5,133,Normal traffic,55,Hill road,94.29
+38,55,Car,Volkswagen,Beetle,Diesel,1.6,13.5,178,Heavy traffic,85,Local road,153.38
+18,28,Car,Volkswagen,Beetle,Diesel,1.6,21.5,128,Moderate traffic,45,Hill road,89.29
+28,42,Car,Volkswagen,Beetle,Diesel,1.6,18,140,Light traffic,65,Hill road,117
+32,48,Car,Volkswagen,Beetle,Diesel,1.6,17,141,Normal traffic,75,Highway,132.95
+26,38,Car,Volkswagen,Beetle,Diesel,1.6,20,135,Moderate traffic,55,Local road,91.95
+42,60,Car,Volkswagen,Beetle,Diesel,1.6,12.5,192,Heavy traffic,95,Hill road,168.33
+23,35,Car,Volkswagen,Beetle,Diesel,1.6,21,128,Light traffic,60,Local road,101.47
+36,52,Car,Volkswagen,Beetle,Diesel,1.6,16.5,156,Normal traffic,80,Hill road,130.91
+19,30,Car,Volkswagen,Beetle,Diesel,1.6,21,128,Heavy traffic,50,Hill road,101.47
+30,45,Car,Volkswagen,Beetle,Diesel,1.6,19.5,137,Moderate traffic,70,Local road,110.81
+27,40,Car,Volkswagen,Beetle,Diesel,1.6,20,135,Light traffic,65,Hill road,118.06
+39,57,Car,Volkswagen,Beetle,Diesel,1.6,13,185,Normal traffic,90,Highway,152.31
+30,45,Car,Volkswagen,Golf,Petrol,1,20,135,Heavy traffic,70,Hill road,101.47
+25,35,Car,Volkswagen,Golf,Petrol,1,22,123,Moderate traffic,60,Local road,79.39
+35,50,Car,Volkswagen,Golf,Petrol,1,18,140,Light traffic,80,Hill road,117
+20,30,Car,Volkswagen,Golf,Petrol,1,24,113,Normal traffic,50,Highway,84.68
+40,60,Car,Volkswagen,Golf,Petrol,1,16,150,Moderate traffic,90,Local road,157.5
+15,25,Car,Volkswagen,Golf,Petrol,1,26,104,Heavy traffic,40,Hill road,64.96
+45,65,Car,Volkswagen,Golf,Petrol,1,14,170,Light traffic,100,Hill road,184.29
+22,33,Car,Volkswagen,Golf,Petrol,1,21,128,Normal traffic,55,Hill road,91.95
+38,55,Car,Volkswagen,Golf,Petrol,1,12,200,Heavy traffic,85,Local road,146.21
+18,28,Car,Volkswagen,Golf,Petrol,1,25,108,Moderate traffic,45,Hill road,72.13
+28,42,Car,Volkswagen,Golf,Petrol,1,20,135,Light traffic,65,Hill road,101.47
+32,48,Car,Volkswagen,Golf,Petrol,1,18.5,138,Normal traffic,75,Highway,113.78
+26,38,Car,Volkswagen,Golf,Petrol,1,22.5,120,Moderate traffic,55,Local road,79.39
+42,60,Car,Volkswagen,Golf,Petrol,1,10,250,Heavy traffic,95,Hill road,196.48
+23,35,Car,Volkswagen,Golf,Petrol,1,23,117,Light traffic,60,Local road,78.46
+36,52,Car,Volkswagen,Golf,Petrol,1,17,141,Normal traffic,80,Hill road,132.95
+19,30,Car,Volkswagen,Golf,Petrol,1,24,113,Heavy traffic,50,Hill road,101.47
+30,45,Car,Volkswagen,Golf,Petrol,1,19.5,137,Moderate traffic,70,Local road,110.81
+27,40,Car,Volkswagen,Golf,Petrol,1,20,135,Light traffic,65,Hill road,101.47
+39,57,Car,Volkswagen,Golf,Petrol,1,11,214,Normal traffic,90,Highway,194.67
+24,36,Car,Volkswagen,Golf,Petrol,1,23.5,115,Heavy traffic,60,Hill road,75.74
+33,49,Car,Volkswagen,Golf,Petrol,1,16.5,156,Moderate traffic,85,Local road,130.91
+21,31,Car,Volkswagen,Golf,Petrol,1,25.5,110,Light traffic,55,Hill road,68.54
+37,54,Car,Volkswagen,Golf,Petrol,1,13,185,Normal traffic,75,Hill road,152.31
+29,43,Car,Volkswagen,Golf,Petrol,1,18,140,Heavy traffic,80,Local road,126.32
+41,59,Car,Volkswagen,Golf,Petrol,1,11.5,217,Moderate traffic,90,Hill road,191.59
+17,27,Car,Volkswagen,Golf,Petrol,1,26.5,102,Light traffic,45,Local road,64.25
+31,47,Car,Volkswagen,Golf,Petrol,1,19,141,Normal traffic,75,Hill road,117
+34,51,Car,Volkswagen,Golf,Petrol,1,15.5,162,Heavy traffic,85,Hill road,143.55
+28,42,Car,Volkswagen,Golf,Petrol,1,20.5,133,Moderate traffic,65,Local road,94.29
+44,64,Car,Volkswagen,Golf,Petrol,1,12,200,Light traffic,95,Hill road,168.33
+16,26,Car,Volkswagen,Golf,Petrol,1,27,100,Normal traffic,40,Hill road,61.17
+43,63,Car,Volkswagen,Golf,Petrol,1,10.5,228,Moderate traffic,90,Local road,200.47
+14,23,Car,Volkswagen,Golf,Petrol,1,28,97,Heavy traffic,35,Hill road,58.23
+42,60,Car,Volkswagen,Golf,Petrol,1,11,214,Light traffic,95,Hill road,194.67
+19,29,Car,Volkswagen,Golf,Petrol,1,26,104,Normal traffic,50,Local road,64.96
+36,53,Car,Volkswagen,Golf,Petrol,1,16,150,Heavy traffic,85,Hill road,157.5
+21,32,Car,Volkswagen,Golf,Petrol,1,24,113,Moderate traffic,55,Local road,84.68
+27,41,Car,Volkswagen,Golf,Petrol,1,20,135,Light traffic,65,Hill road,101.47
+33,50,Car,Volkswagen,Golf,Petrol,1,17.5,143,Normal traffic,75,Highway,126.01
+23,34,Car,Volkswagen,Golf,Petrol,1,22.5,120,Heavy traffic,60,Hill road,79.39
+38,56,Car,Volkswagen,Golf,Petrol,1,12.5,192,Moderate traffic,85,Local road,146.21
+17,27,Car,Volkswagen,Golf,Petrol,1,27.5,98,Light traffic,40,Hill road,61.17
+29,44,Car,Volkswagen,Golf,Petrol,1,19,141,Normal traffic,70,Hill road,117
+35,52,Car,Volkswagen,Golf,Petrol,1,15.5,162,Heavy traffic,85,Hill road,143.55
+24,37,Car,Volkswagen,Golf,Petrol,1,24.5,112,Moderate traffic,55,Local road,84.68
+41,60,Car,Volkswagen,Golf,Petrol,1,10.5,228,Light traffic,95,Hill road,200.47
+20,31,Car,Volkswagen,Golf,Petrol,1,25,108,Normal traffic,50,Local road,72.13
+31,48,Car,Volkswagen,Golf,Petrol,1,18.5,138,Heavy traffic,75,Hill road,113.78
+26,39,Car,Volkswagen,Golf,Petrol,1,21,128,Moderate traffic,60,Hill road,91.95
+39,58,Car,Volkswagen,Golf,Petrol,1,11.5,217,Light traffic,90,Highway,191.59
+18,28,Car,Volkswagen,Golf,Petrol,1,26.5,102,Normal traffic,45,Hill road,64.25
+37,55,Car,Volkswagen,Golf,Petrol,1,12,200,Heavy traffic,80,Hill road,168.33
+16,25,Car,Volkswagen,Golf,Petrol,1,27,100,Moderate traffic,40,Hill road,61.17
+30,45,Car,Volkswagen,Lavida,Petrol,1.6,17,141,Heavy traffic,70,Hill road,148.24
+25,35,Car,Volkswagen,Lavida,Petrol,1.6,18,140,Moderate traffic,60,Local road,131.58
+35,50,Car,Volkswagen,Lavida,Petrol,1.6,16,150,Light traffic,80,Hill road,168.75
+20,30,Car,Volkswagen,Lavida,Petrol,1.6,19,135,Normal traffic,50,Highway,126.32
+40,60,Car,Volkswagen,Lavida,Petrol,1.6,15,167,Moderate traffic,90,Local road,186.67
+15,25,Car,Volkswagen,Lavida,Petrol,1.6,20,135,Heavy traffic,40,Hill road,113.4
+45,65,Car,Volkswagen,Lavida,Petrol,1.6,14,170,Light traffic,100,Hill road,196
+22,33,Car,Volkswagen,Lavida,Petrol,1.6,18.5,137,Normal traffic,55,Hill road,145.95
+38,55,Car,Volkswagen,Lavida,Petrol,1.6,13,185,Heavy traffic,85,Local road,240
+18,28,Car,Volkswagen,Lavida,Petrol,1.6,20.5,133,Moderate traffic,45,Hill road,119.56
+28,42,Car,Volkswagen,Lavida,Petrol,1.6,16.5,156,Light traffic,65,Hill road,149.7
+32,48,Car,Volkswagen,Lavida,Petrol,1.6,15,167,Normal traffic,75,Highway,186.67
+26,38,Car,Volkswagen,Lavida,Petrol,1.6,18,140,Moderate traffic,55,Local road,131.58
+42,60,Car,Volkswagen,Lavida,Petrol,1.6,13.5,178,Heavy traffic,95,Hill road,168.75
+23,35,Car,Volkswagen,Lavida,Petrol,1.6,19.5,137,Light traffic,60,Local road,142.05
+36,52,Car,Volkswagen,Lavida,Petrol,1.6,16,150,Normal traffic,80,Hill road,168.75
+19,30,Car,Volkswagen,Lavida,Petrol,1.6,21,131,Heavy traffic,50,Hill road,139.68
+30,45,Car,Volkswagen,Lavida,Petrol,1.6,17.5,148,Moderate traffic,70,Local road,131.58
+27,40,Car,Volkswagen,Lavida,Petrol,1.6,18,140,Light traffic,65,Hill road,149.7
+39,57,Car,Volkswagen,Lavida,Petrol,1.6,14,170,Normal traffic,90,Highway,196
+21,32,Car,Volkswagen,Lavida,Petrol,1.6,19,135,Moderate traffic,55,Hill road,126.32
+29,43,Car,Volkswagen,Lavida,Petrol,1.6,16,150,Light traffic,60,Local road,168.75
+34,50,Car,Volkswagen,Lavida,Petrol,1.6,15.5,156,Normal traffic,75,Highway,175.32
+24,36,Car,Volkswagen,Lavida,Petrol,1.6,18.5,137,Moderate traffic,55,Hill road,145.95
+41,58,Car,Volkswagen,Lavida,Petrol,1.6,13.5,178,Heavy traffic,95,Hill road,151.82
+17,27,Car,Volkswagen,Lavida,Petrol,1.6,20,135,Light traffic,40,Hill road,113.4
+31,47,Car,Volkswagen,Lavida,Petrol,1.6,16.5,156,Normal traffic,70,Local road,151.82
+33,49,Car,Volkswagen,Lavida,Petrol,1.6,15.5,156,Light traffic,65,Hill road,168.75
+16,26,Car,Volkswagen,Lavida,Petrol,1.6,21,131,Heavy traffic,45,Hill road,126.32
+37,54,Car,Volkswagen,Lavida,Petrol,1.6,14,170,Moderate traffic,85,Local road,186.67
+28,42,Car,Volkswagen,Lavida,Petrol,1.6,18,140,Normal traffic,60,Hill road,161.37
+37,54,Car,Volkswagen,Lavida,Petrol,1.6,14,170,Moderate traffic,85,Local road,186.67
+21,32,Car,Volkswagen,Lavida,Petrol,1.6,19,135,Light traffic,55,Hill road,113.4
+31,47,Car,Volkswagen,Lavida,Petrol,1.6,16.5,156,Normal traffic,70,Local road,151.82
+33,49,Car,Volkswagen,Lavida,Petrol,1.6,15.5,156,Light traffic,65,Hill road,168.75
+16,26,Car,Volkswagen,Lavida,Petrol,1.6,21,131,Heavy traffic,45,Hill road,126.32
+37,54,Car,Volkswagen,Lavida,Petrol,1.6,14,170,Moderate traffic,85,Local road,186.67
+28,42,Car,Volkswagen,Lavida,Petrol,1.6,18,140,Normal traffic,60,Hill road,161.37
+30,45,Car,Volkswagen,Lavida,Diesel,1.6,20,135,Heavy traffic,70,Hill road,100
+25,35,Car,Volkswagen,Lavida,Diesel,1.6,21.5,128,Moderate traffic,60,Local road,93.02
+35,50,Car,Volkswagen,Lavida,Diesel,1.6,18.5,137,Light traffic,80,Hill road,115.14
+20,30,Car,Volkswagen,Lavida,Diesel,1.6,23,117,Normal traffic,50,Highway,91.3
+40,60,Car,Volkswagen,Lavida,Diesel,1.6,17,141,Moderate traffic,90,Local road,128.65
+15,25,Car,Volkswagen,Lavida,Diesel,1.6,24.5,110,Heavy traffic,40,Hill road,86.12
+45,65,Car,Volkswagen,Lavida,Diesel,1.6,16,150,Light traffic,100,Hill road,120
+22,33,Car,Volkswagen,Lavida,Diesel,1.6,20,135,Normal traffic,55,Hill road,100
+38,55,Car,Volkswagen,Lavida,Diesel,1.6,14.5,168,Heavy traffic,85,Local road,131.58
+18,28,Car,Volkswagen,Lavida,Diesel,1.6,22,123,Moderate traffic,45,Hill road,92.61
+28,42,Car,Volkswagen,Lavida,Diesel,1.6,18,140,Light traffic,65,Hill road,107.14
+32,48,Car,Volkswagen,Lavida,Diesel,1.6,17,141,Normal traffic,75,Highway,120
+26,38,Car,Volkswagen,Lavida,Diesel,1.6,19.5,137,Moderate traffic,55,Local road,105.71
+42,60,Car,Volkswagen,Lavida,Diesel,1.6,13.5,178,Heavy traffic,95,Hill road,154.07
+23,35,Car,Volkswagen,Lavida,Diesel,1.6,21,131,Light traffic,60,Local road,102.86
+36,52,Car,Volkswagen,Lavida,Diesel,1.6,15,167,Normal traffic,80,Hill road,120
+19,30,Car,Volkswagen,Lavida,Diesel,1.6,23.5,119,Heavy traffic,50,Hill road,89.47
+30,45,Car,Volkswagen,Lavida,Diesel,1.6,16.5,156,Moderate traffic,70,Local road,107.14
+27,40,Car,Volkswagen,Lavida,Diesel,1.6,17.5,148,Light traffic,65,Hill road,107.14
+39,57,Car,Volkswagen,Lavida,Diesel,1.6,13,185,Normal traffic,90,Highway,128.65
+50,60,Car,Tata,Tigor,Petrol,1.2,20,120,Heavy traffic,100,Hill road,72
+30,45,Car,Tata,Tigor,Petrol,1.2,20,120,Moderate traffic,50,Local road,72
+20,30,Car,Tata,Tigor,Petrol,1.2,20,120,Light traffic,20,Hill road,72
+40,55,Car,Tata,Tigor,Petrol,1.2,20,120,Normal traffic,0,Highway,72
+50,60,Car,Tata,Tigor,Petrol,1.2,20,120,Heavy traffic,100,Hill road,72
+30,45,Car,Tata,Tigor,Petrol,1.2,20,120,Moderate traffic,50,Local road,72
+20,30,Car,Tata,Tigor,Petrol,1.2,20,120,Light traffic,20,Hill road,72
+40,55,Car,Tata,Tigor,Petrol,1.2,20,120,Normal traffic,0,Highway,72
+50,60,Car,Tata,Tigor,Petrol,1.2,20,120,Heavy traffic,100,Hill road,72
+30,45,Car,Tata,Tigor,Petrol,1.2,20,120,Moderate traffic,50,Local road,72
+20,30,Car,Tata,Tigor,Petrol,1.2,20,120,Light traffic,20,Hill road,72
+40,55,Car,Tata,Tigor,Petrol,1.2,20,120,Normal traffic,0,Highway,72
+50,60,Car,Tata,Tigor,Petrol,1.2,20,120,Heavy traffic,100,Hill road,72
+30,45,Car,Tata,Tigor,Petrol,1.2,20,120,Moderate traffic,50,Local road,72
+20,30,Car,Tata,Tigor,Petrol,1.2,20,120,Light traffic,20,Hill road,72
+40,55,Car,Tata,Tigor,Petrol,1.2,20,120,Normal traffic,0,Highway,72
+50,60,Car,Tata,Tigor,Petrol,1.2,20,120,Heavy traffic,100,Hill road,72
+30,45,Car,Tata,Tigor,Petrol,1.2,20,120,Moderate traffic,50,Local road,72
+20,30,Car,Tata,Tigor,Petrol,1.2,20,120,Light traffic,20,Hill road,72
+40,55,Car,Tata,Tigor,Petrol,1.2,20,120,Normal traffic,0,Highway,72
+50,60,Car,Tata,Tigor,Petrol,1.2,20,120,Heavy traffic,100,Hill road,72
+30,45,Car,Tata,Tigor,Petrol,1.2,20,120,Moderate traffic,50,Local road,72
+20,30,Car,Tata,Tigor,Petrol,1.2,20,120,Light traffic,20,Hill road,72
+40,55,Car,Tata,Tigor,Petrol,1.2,20,120,Normal traffic,0,Highway,72
+50,60,Car,Tata,Tigor,Petrol,1.2,20,120,Heavy traffic,100,Hill road,72
+30,45,Car,Tata,Tigor,Petrol,1.2,20,120,Moderate traffic,50,Local road,72
+20,30,Car,Tata,Tigor,Petrol,1.2,20,120,Light traffic,20,Hill road,72
+40,55,Car,Tata,Tigor,Petrol,1.2,20,120,Normal traffic,0,Highway,72
+50,60,Car,Tata,Tigor,Petrol,1.2,20,120,Heavy traffic,100,Hill road,72
+30,45,Car,Tata,Tigor,Petrol,1.2,20,120,Moderate traffic,50,Local road,72
+20,30,Car,Tata,Tigor,Petrol,1.2,20,120,Light traffic,20,Hill road,72
+40,55,Car,Tata,Tigor,Petrol,1.2,20,120,Normal traffic,0,Highway,72
+50,60,Car,Tata,Tigor,Petrol,1.2,20,120,Heavy traffic,100,Hill road,72
+30,45,Car,Tata,Tigor,Petrol,1.2,20,120,Moderate traffic,50,Local road,72
+20,30,Car,Tata,Tigor,Petrol,1.2,20,120,Light traffic,20,Hill road,72
+40,55,Car,Tata,Tigor,Petrol,1.2,20,120,Normal traffic,0,Highway,72
+50,60,Car,Tata,Tigor,Petrol,1.2,20,120,Heavy traffic,100,Hill road,72
+30,45,Car,Tata,Tigor,Petrol,1.2,20,120,Moderate traffic,50,Local road,72
+20,30,Car,Tata,Tigor,Petrol,1.2,20,120,Light traffic,20,Hill road,72
+40,55,Car,Tata,Tigor,Petrol,1.2,20,120,Normal traffic,0,Highway,72
+50,60,Car,Tata,Tigor,Petrol,1.2,20,120,Heavy traffic,100,Hill road,72
+30,45,Car,Tata,Tigor,Petrol,1.2,20,120,Moderate traffic,50,Local road,72
+20,30,Car,Tata,Tigor,Petrol,1.2,20,120,Light traffic,20,Hill road,72
+40,55,Car,Tata,Tigor,Petrol,1.2,20,120,Normal traffic,0,Highway,72
+50,60,Car,Tata,Tigor,Petrol,1.2,20,120,Heavy traffic,100,Hill road,72
+30,45,Car,Tata,Tigor,Petrol,1.2,20,120,Moderate traffic,50,Local road,72
+20,30,Car,Tata,Tigor,Petrol,1.2,20,120,Light traffic,20,Hill road,72
+40,55,Car,Tata,Tigor,Petrol,1.2,20,120,Normal traffic,0,Highway,72
+50,60,Car,Tata,Tigor,Petrol,1.2,20,120,Heavy traffic,100,Hill road,72
+30,45,Car,Tata,Tigor,Petrol,1.2,20,120,Moderate traffic,50,Local road,72
+20,30,Car,Tata,Tigor,Petrol,1.2,20,120,Light traffic,20,Hill road,72
+40,55,Car,Tata,Tigor,Petrol,1.2,20,120,Normal traffic,0,Highway,72
+50,60,Car,Tata,Tigor,Petrol,1.2,20,120,Heavy traffic,100,Hill road,72
+30,45,Car,Tata,Tigor,Petrol,1.2,20,120,Moderate traffic,50,Local road,72
+20,30,Car,Tata,Tigor,Petrol,1.2,20,120,Light traffic,20,Hill road,72
+40,55,Car,Tata,Tigor,Petrol,1.2,20,120,Normal traffic,0,Highway,72
+50,60,Car,Tata,Tigor,Petrol,1.2,20,120,Heavy traffic,100,Hill road,72
+30,45,Car,Tata,Tigor,Petrol,1.2,20,120,Moderate traffic,50,Local road,72
+20,30,Car,Tata,Tigor,Petrol,1.2,20,120,Light traffic,20,Hill road,72
+40,55,Car,Tata,Tigor,Petrol,1.2,20,120,Normal traffic,0,Highway,72
+50,60,Car,Tata,Tigor,Petrol,1.2,20,120,Heavy traffic,100,Hill road,72
+30,45,Car,Tata,Tigor,Petrol,1.2,20,120,Moderate traffic,50,Local road,72
+20,30,Car,Tata,Tigor,Petrol,1.2,20,120,Light traffic,20,Hill road,72
+40,55,Car,Tata,Tigor,Petrol,1.2,20,120,Normal traffic,0,Highway,72
+50,60,Car,Tata,Tigor,Petrol,1.2,20,120,Heavy traffic,100,Hill road,72
+30,45,Car,Tata,Tigor,Petrol,1.2,20,120,Moderate traffic,50,Local road,72
+20,30,Car,Tata,Tigor,Petrol,1.2,20,120,Light traffic,20,Hill road,72
+40,55,Car,Tata,Tigor,Petrol,1.2,20,120,Normal traffic,0,Highway,72
+50,60,Car,Tata,Tigor,Petrol,1.2,20,120,Heavy traffic,100,Hill road,72
+30,45,Car,Tata,Tigor,Petrol,1.2,20,120,Moderate traffic,50,Local road,72
+20,30,Car,Tata,Tigor,Petrol,1.2,20,120,Light traffic,20,Hill road,72
+40,55,Car,Tata,Tigor,Petrol,1.2,20,120,Normal traffic,0,Highway,72
+50,60,Car,Tata,Tigor,Petrol,1.2,20,120,Heavy traffic,100,Hill road,72
+30,45,Car,Tata,Tigor,Petrol,1.2,20,120,Moderate traffic,50,Local road,72
+20,30,Car,Tata,Tigor,Petrol,1.2,20,120,Light traffic,20,Hill road,72
+40,55,Car,Tata,Tigor,Petrol,1.2,20,120,Normal traffic,0,Highway,72
+50,60,Car,Tata,Tigor,Petrol,1.2,20,120,Heavy traffic,100,Hill road,72
+30,45,Car,Tata,Tigor,Petrol,1.2,20,120,Moderate traffic,50,Local road,72
+20,30,Car,Tata,Tigor,Petrol,1.2,20,120,Light traffic,20,Hill road,72
+40,55,Car,Tata,Tigor,Petrol,1.2,20,120,Normal traffic,0,Highway,72

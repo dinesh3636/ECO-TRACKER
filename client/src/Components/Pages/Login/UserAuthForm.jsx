@@ -65,9 +65,9 @@ const UserAuthForm = ({ type }) => {
         access_token ? // if access token is present
         <Navigate to='/'/>
         :
-        <section style={{ height: "100vh" }} className="flex items-center justify-center">
+        <section style={{ height: "100vh", display: "flex", justifyContent: "center", alignItems: "center" }}>
             <Toaster />
-            <form ref={formElement} style={{ width: "80%", maxWidth: "400px" }}>
+            <form ref={formElement} style={{ width: "80%", maxWidth: "400px", borderRadius: "0.75rem", padding: "2rem", boxShadow: "0px 4px 10px rgba(0.1, 0.1, 0.1, 0.15)"  }}>
                 <h1 style={{ fontSize: "2.5rem", fontFamily: "Gelasio", textTransform: "capitalize", textAlign: "center", marginBottom: "1.5rem" }}>
                     {type === "sign-in" ? "welcome back" : "join us today" }
                 </h1>
@@ -77,21 +77,37 @@ const UserAuthForm = ({ type }) => {
                 }
                 <InputBox name="email" type="email" placeholder="email" icon="fi-rr-envelope"/>
                 <InputBox name="password" type="password" placeholder="password" icon="fi-rr-key"/>
-                <button style={{ backgroundColor: "#1a202c", color: "#fff", padding: "0.875rem 2rem", borderRadius: "0.75rem", border: "none", display: "block", margin: "2.25rem auto", fontSize: "1rem" }} type="submit" onClick={handleSubmit}>
+                {/* <button style={{ backgroundColor: "#1a202c", color: "#fff", padding: "0.875rem 2rem", borderRadius: "0.75rem", border: "none", display: "block", margin: "2.25rem auto", fontSize: "1rem" }} type="submit" onClick={handleSubmit}>
+                    { type.replace("-", " ") }
+                </button> */}
+                <button style={{ 
+                    backgroundColor: "#000000", 
+                    color: "#fff", 
+                    padding: "0.875rem 2rem", 
+                    borderRadius: "0.75rem", 
+                    border: "none", 
+                    display: "block", 
+                    margin: "2.25rem auto", 
+                    fontSize: "1rem", 
+                    transition: "background-color 0.3s",
+                    cursor: "pointer"
+                    }} type="submit" onClick={handleSubmit} 
+                    onMouseEnter={(e) => e.target.style.backgroundColor = "#4a9d67"}
+                    onMouseLeave={(e) => e.target.style.backgroundColor = "#000000"}>
                     { type.replace("-", " ") }
                 </button>
                 {
                     type === "sign-in" ?
                     <p style={{ marginTop: "1.5rem", color: "#4b5563", fontSize: "1rem", textAlign: "center" }}>
                         Don't have an account ?
-                        <Link to="/signup" style={{ textDecoration: "underline", color: "#000", marginLeft: "0.25rem", fontSize: "1rem" }}>
-                            Join us today.
+                        <Link to="/signup" style={{ textDecoration: "underline", color: "#000", marginLeft: "0.25rem", fontSize: "1rem", transition: "color 0.3s", cursor: "pointer" }} onMouseEnter={(e) => e.target.style.color = "#4a9d67"} onMouseLeave={(e) => e.target.style.color = "#000"}>
+                            Register here
                         </Link>
                     </p>
                     :
                     <p style={{ marginTop: "1.5rem", color: "#4b5563", fontSize: "1rem", textAlign: "center" }}>
                         Already a member ?
-                        <Link to="/signin" style={{ textDecoration: "underline", color: "#000", marginLeft: "0.25rem", fontSize: "1rem" }}>
+                        <Link to="/signin" style={{ textDecoration: "underline", color: "#000", marginLeft: "0.25rem", fontSize: "1rem", transition: "color 0.3s", cursor: "pointer" }} onMouseEnter={(e) => e.target.style.color = "#4a9d67"} onMouseLeave={(e) => e.target.style.color = "#000"}>
                             Sign in here.
                         </Link>
                     </p>
