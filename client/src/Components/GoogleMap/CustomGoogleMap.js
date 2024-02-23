@@ -128,7 +128,7 @@ const [nnew , setNnew]= useState(0)
   
 
 
-          try {
+          
             if (routeType == "DRIVING") {
               setTraffic(results.routes[0].legs[0].duration_in_traffic.text);
 
@@ -136,20 +136,26 @@ const [nnew , setNnew]= useState(0)
               const durationInMinutes = convertToMinutes(duration);
               const trafficInMinutes = convertToMinutes(traffic);
               
-              function convertToMinutes(timeString) {
-                if (!timeString) return 0;
-
-                const timeParts = timeString.split(' ');
+              function convertToMinutes(durationString) {
+                if (!durationString) return 0;
               
-                if (timeParts.length === 1) {
-                  // Only minutes provided
-                  return parseInt(timeParts[0]);
-                } else if (timeParts.length === 2) {
-                  // Hours and minutes provided
-                  const hours = parseInt(timeParts[0]);
-                  const mins = parseInt(timeParts[1]);
-                  return hours * 60 + mins;
+                let totalMinutes = 0;
+              
+                // Split the string into individual parts
+                const parts = durationString.split(' ');
+              
+                // Iterate over the parts to accumulate total minutes
+                for (let i = 0; i < parts.length; i += 2) {
+                  const value = parseInt(parts[i]);
+              
+                  if (parts[i + 1] === "hour" || parts[i + 1] === "hours") {
+                    totalMinutes += value * 60;
+                  } else if (parts[i + 1] === "min" || parts[i + 1] === "mins") {
+                    totalMinutes += value;
+                  }
                 }
+              
+                return totalMinutes;
               }
     
               setNnew(trafficInMinutes);
@@ -162,9 +168,7 @@ const [nnew , setNnew]= useState(0)
               }
             }
             else setTraffic(null);
-          } catch (err) {
-            console.log(err);
-          }
+        
         } else {
           console.error('Elevation Service failed:', status);
           // Handle error as needed
