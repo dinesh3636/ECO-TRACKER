@@ -1,14 +1,16 @@
 import React from 'react'
 import "./Profile.css"
-// import { useContext } from 'react';
-// import { UserContext } from "../../../App";
+import { useContext } from 'react';
+import { UserContext } from "../../../App";
+
 const Profile = () => {
-  // const { userAuth, userAuth: { profile_img, fullname, username }, setUserAuth } = useContext(UserContext)
+  const { userAuth, userAuth: { profile_img, fullname, username }, setUserAuth } = useContext(UserContext)
 
   return (
-    <div>
-      {/* <div style={{t}}> {fullname} </div> */}
-      
+    <div className="profile-container">
+      <img src={profile_img} className="profile-image" alt="Profile" />
+      <h2>{fullname}</h2>
+      <p>@{username}</p>
     </div>
   )
 }

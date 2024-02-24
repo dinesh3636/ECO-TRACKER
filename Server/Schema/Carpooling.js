@@ -47,6 +47,10 @@ const CarpoolingSchema = new mongoose.Schema({
     image:{
         type: String
     },
+    joinedUsers: [{
+        type: Schema.Types.ObjectId,
+        ref: 'User'
+    }]
 },{
     timestamps: true
 })

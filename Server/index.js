@@ -7,8 +7,7 @@ import { nanoid } from "nanoid"; // generate random number for username
 import jwt from "jsonwebtoken";
 import cors from "cors";
 import multer from "multer"
-
-
+import axios from "axios";
 
 // schema imports
 
@@ -212,6 +211,17 @@ app.get("/carpooling", (req, res) => {
         res.status(500).json({ error: err.message });
     })
 })
+
+app.post('/api/predict', (req, res) => {
+    const { inputData } = req.body;
+    axios.post('http://localhost:5000/predict', inputData)
+      .then(response => {
+        res.json(response.data);
+      })
+      .catch(error => {
+        res.status(500).json({ error: 'Error making prediction request' });
+      });
+  });
 
 // app.post('/postcarpooling', async(req, res)=>{
 //     try{

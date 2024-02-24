@@ -1,138 +1,76 @@
-.container{
+.container {
   display: flex;
-  
+  justify-content: center; /* Center the content horizontally */
 }
 
 .car-details-container {
-  margin-top:10px;
-    display: flex;
-    flex-direction: column;
-    height: 650px;
-    width: 500px;
-    border: 1px solid #ccc;
-    padding: 16px;
-    margin: 16px;
-    border-radius: 8px;
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-    justify-content: center;
-    align-items:start;
+  display: grid;
+  align-items: center;
+  justify-content: center;
+  grid-template-columns: repeat(2, 1fr); /* Two columns with equal width */
+  gap: 20px; /* Gap between grid items */
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  padding: 20px;
+  margin-bottom: 20px;
+}
 
-  }
+.author-info {
+  display: flex;
+  align-items: center;
+}
 
-  
-  .car-image {
-    width: 450px;
-    height: 300px;
-    object-fit: cover;
-    border-radius: 8px;
-    margin-right: 16px;
-    margin-top: 10px;
-  }
-  
-  
-  .car-info h2 {
-    margin: 5px;
-    margin-bottom: 8px;
-    font-size:40px ;
-  }
-  .car-info p {
-    margin: 5px;
-    font-size: 20px;
-  }
-  
-  .car-buttons {
-    display: flex;
-    flex: 1;
-  }
-  
-  .view-details-button,
-  .join-button {
-    background-color: #3498db;
-    color: #fff;
-    padding: 15px 45px;
-    border: none;
-    border-radius: 4px;
-    cursor: pointer;
-    margin-bottom: 8px;
+.profile-image {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin-right: 10px;
+}
 
-    margin: 0px 6px;
-  }
-  
-  .view-details-button:hover,
-  .join-button:hover {
-    background-color: #2980b9;
-  } */
-  .container {
-    display: flex;
-    justify-content: center; /* Center the content horizontally */
-  }
-  
-  .car-details-container {
-    display: grid;
-    grid-template-columns: repeat(2, 1fr); /* Two columns with equal width */
-    gap: 20px; /* Gap between grid items */
-    border: 1px solid #ccc;
-    border-radius: 5px;
-    padding: 20px;
-    margin-bottom: 20px;
-  }
-  
-  .author-info {
-    display: flex;
-    align-items: center;
-  }
-  
-  .profile-image {
-    width: 50px;
-    height: 50px;
-    border-radius: 50%;
-    object-fit: cover;
-    margin-right: 10px;
-  }
-  
-  .car-info {
-    flex-grow: 1;
-    margin-left: 20px;
-  }
-  
-  .car-info h2 {
-    margin-top: 0;
-  }
-  
-  .car-buttons {
-    margin-top: 80px;
-  }
-  
-  .car-buttons button {
-    padding: 10px 20px;
-    font-size: 16px;
-    border: none;
-    border-radius: 5px;
-    background-color: #007bff;
-    color: #fff;
-    cursor: pointer;
-  }
-  
-  .car-buttons button + button {
-    margin-left: 10px;
-  }
-  
-  .join-button {
-    background-color: #28a745;
-  }
+.car-info {
+  flex-grow: 1;
+  margin-left: 20px;
+}
 
-  .car-image-container {
-    width: 150px; /* Adjust the width as needed */
-    height: 150px; /* Adjust the height as needed */
-    overflow: hidden; /* Ensure the image is not displayed beyond container boundaries */
-  }
-  
-  .car-image {
-    position: absolute;
-    margin-top: 5%;
-    margin-left: 2.5%;
-    width: 150px; /* Ensure the image fills the container */
-    height: 150px; /* Ensure the image fills the container */
-    object-fit: cover; /* Maintain aspect ratio and cover the entire container */
-  }
-  
+.car-info h2 {
+  margin-top: 0;
+}
+
+.car-buttons {
+  margin-top: 80px;
+}
+
+.car-buttons button {
+  padding: 10px 20px;
+  font-size: 16px;
+  border: none;
+  border-radius: 5px;
+  background-color: #007bff;
+  color: #fff;
+  cursor: pointer;
+}
+
+.car-buttons button + button {
+  margin-left: 10px;
+}
+
+.join-button {
+  background-color: #28a745;
+  margin-left: 64px;
+}
+
+.car-image-container {
+  width: 150px; /* Adjust the width as needed */
+  height: 150px; /* Adjust the height as needed */
+  overflow: hidden; /* Ensure the image is not displayed beyond container boundaries */
+}
+
+.car-image {
+  position: absolute;
+  margin-top: 5%;
+  margin-left: 2.5%;
+  width: 150px; /* Ensure the image fills the container */
+  height: 150px; /* Ensure the image fills the container */
+  object-fit: cover; /* Maintain aspect ratio and cover the entire container */
+}

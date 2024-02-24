@@ -79,26 +79,26 @@ Route Distance (km),Route Duration (min),Transportation Mode,Make,Model,Fuel Typ
 22,33,Car,Maruti Suzuki,Ciaz,Diesel,1.5,23,117,Light traffic,50,Local road,88.33
 47,70,Car,Maruti Suzuki,Ciaz,Petrol,1.4,20.2,134,Normal traffic,110,Hill road,107.4
 31,46,Car,Maruti Suzuki,Ciaz,Diesel,1.6,20,135,Heavy traffic,70,Local road,108
-40,60,Car,Maruti Suzuki,Vitara Brezza,Petrol,1.5L,17.5,138,Heavy traffic,100,Hill road,99.43
-30,45,Car,Maruti Suzuki,Vitara Brezza,Diesel,1.3L,24,113,Moderate traffic,80,Local road,79.65
-50,75,Car,Maruti Suzuki,Vitara Brezza,Petrol,1.5L,18.5,122,Light traffic,120,Hill road,83.24
-35,52,Car,Maruti Suzuki,Vitara Brezza,Diesel,1.5L,22,123,Normal traffic,90,Highway,88.33
-55,83,Car,Maruti Suzuki,Vitara Brezza,Petrol,1.5L,19,128,Moderate traffic,110,Local road,93.75
-25,37,Car,Maruti Suzuki,Vitara Brezza,Diesel,1.3L,23.5,115,Heavy traffic,60,Hill road,84.68
-60,90,Car,Maruti Suzuki,Vitara Brezza,Petrol,1.5L,20,135,Light traffic,140,Hill road,108
-20,30,Car,Maruti Suzuki,Vitara Brezza,Diesel,1.3L,22.5,120,Normal traffic,70,Local road,86.67
-42,63,Car,Maruti Suzuki,Vitara Brezza,Petrol,1.5L,17,140,Moderate traffic,110,Hill road,100
-28,42,Car,Maruti Suzuki,Vitara Brezza,Diesel,1.5L,24.5,110,Light traffic,80,Hill road,78.46
-52,78,Car,Maruti Suzuki,Vitara Brezza,Petrol,1.5L,18,133,Normal traffic,120,Highway,88.89
-33,50,Car,Maruti Suzuki,Vitara Brezza,Diesel,1.3L,20,135,Heavy traffic,70,Local road,108
-48,72,Car,Maruti Suzuki,Vitara Brezza,Petrol,1.5L,16.5,145,Moderate traffic,100,Hill road,90.91
-38,57,Car,Maruti Suzuki,Vitara Brezza,Diesel,1.5L,21,130,Light traffic,90,Local road,96.15
-58,87,Car,Maruti Suzuki,Vitara Brezza,Petrol,1.5L,19.8,129,Normal traffic,130,Hill road,92.12
-36,54,Car,Maruti Suzuki,Vitara Brezza,Diesel,1.3L,21.5,127,Heavy traffic,80,Highway,89.77
-43,64,Car,Maruti Suzuki,Vitara Brezza,Petrol,1.5L,17.5,138,Moderate traffic,120,Hill road,99.43
-22,33,Car,Maruti Suzuki,Vitara Brezza,Diesel,1.5L,23,117,Light traffic,50,Local road,88.33
-47,70,Car,Maruti Suzuki,Vitara Brezza,Petrol,1.5L,16,150,Normal traffic,110,Hill road,96
-31,46,Car,Maruti Suzuki,Vitara Brezza,Diesel,1.3L,19,128,Heavy traffic,70,Local road,93.75
+40,60,Car,Maruti Suzuki,Vitara Brezza,Petrol,1.5,17.5,138,Heavy traffic,100,Hill road,99.43
+30,45,Car,Maruti Suzuki,Vitara Brezza,Diesel,1.3,24,113,Moderate traffic,80,Local road,79.65
+50,75,Car,Maruti Suzuki,Vitara Brezza,Petrol,1.5,18.5,122,Light traffic,120,Hill road,83.24
+35,52,Car,Maruti Suzuki,Vitara Brezza,Diesel,1.5,22,123,Normal traffic,90,Highway,88.33
+55,83,Car,Maruti Suzuki,Vitara Brezza,Petrol,1.5,19,128,Moderate traffic,110,Local road,93.75
+25,37,Car,Maruti Suzuki,Vitara Brezza,Diesel,1.3,23.5,115,Heavy traffic,60,Hill road,84.68
+60,90,Car,Maruti Suzuki,Vitara Brezza,Petrol,1.5,20,135,Light traffic,140,Hill road,108
+20,30,Car,Maruti Suzuki,Vitara Brezza,Diesel,1.3,22.5,120,Normal traffic,70,Local road,86.67
+42,63,Car,Maruti Suzuki,Vitara Brezza,Petrol,1.5,17,140,Moderate traffic,110,Hill road,100
+28,42,Car,Maruti Suzuki,Vitara Brezza,Diesel,1.5,24.5,110,Light traffic,80,Hill road,78.46
+52,78,Car,Maruti Suzuki,Vitara Brezza,Petrol,1.5,18,133,Normal traffic,120,Highway,88.89
+33,50,Car,Maruti Suzuki,Vitara Brezza,Diesel,1.3,20,135,Heavy traffic,70,Local road,108
+48,72,Car,Maruti Suzuki,Vitara Brezza,Petrol,1.5,16.5,145,Moderate traffic,100,Hill road,90.91
+38,57,Car,Maruti Suzuki,Vitara Brezza,Diesel,1.5,21,130,Light traffic,90,Local road,96.15
+58,87,Car,Maruti Suzuki,Vitara Brezza,Petrol,1.5,19.8,129,Normal traffic,130,Hill road,92.12
+36,54,Car,Maruti Suzuki,Vitara Brezza,Diesel,1.3,21.5,127,Heavy traffic,80,Highway,89.77
+43,64,Car,Maruti Suzuki,Vitara Brezza,Petrol,1.5,17.5,138,Moderate traffic,120,Hill road,99.43
+22,33,Car,Maruti Suzuki,Vitara Brezza,Diesel,1.5,23,117,Light traffic,50,Local road,88.33
+47,70,Car,Maruti Suzuki,Vitara Brezza,Petrol,1.5,16,150,Normal traffic,110,Hill road,96
+31,46,Car,Maruti Suzuki,Vitara Brezza,Diesel,1.3,19,128,Heavy traffic,70,Local road,93.75
 25,35,Car,Maruti Suzuki,Alto,Petrol,0.8,22,123,Heavy traffic,50,Hill road,86.81
 20,30,Car,Maruti Suzuki,Alto,Petrol,1,24,113,Moderate traffic,60,Local road,79.65
 30,45,Car,Maruti Suzuki,Alto,Petrol,0.8,21.5,127,Light traffic,70,Hill road,89.77
@@ -1011,3 +1011,1990 @@ Route Distance (km),Route Duration (min),Transportation Mode,Make,Model,Fuel Typ
 30,45,Car,Tata,Tigor,Petrol,1.2,20,120,Moderate traffic,50,Local road,72
 20,30,Car,Tata,Tigor,Petrol,1.2,20,120,Light traffic,20,Hill road,72
 40,55,Car,Tata,Tigor,Petrol,1.2,20,120,Normal traffic,0,Highway,72
+20,30,Car,Tata,Nano,Petrol,0.6,33.3,200,Light traffic,10,Hill road,198
+40,55,Car,Tata,Nano,Petrol,0.6,33.3,200,Normal traffic,0,Highway,198
+50,60,Car,Tata,Nano,Petrol,0.6,33.3,200,Heavy traffic,100,Hill road,198
+30,45,Car,Tata,Nano,Petrol,0.6,33.3,200,Moderate traffic,50,Local road,198
+20,30,Car,Tata,Nano,Petrol,0.6,33.3,200,Light traffic,20,Hill road,198
+40,55,Car,Tata,Nano,Petrol,0.6,33.3,200,Normal traffic,0,Highway,198
+50,60,Car,Tata,Nano,Petrol,0.6,33.3,200,Heavy traffic,100,Hill road,198
+30,45,Car,Tata,Nano,Petrol,0.6,33.3,200,Moderate traffic,50,Local road,198
+20,30,Car,Tata,Nano,Petrol,0.6,33.3,200,Light traffic,20,Hill road,198
+40,55,Car,Tata,Nano,Petrol,0.6,33.3,200,Normal traffic,0,Highway,198
+50,60,Car,Tata,Nano,Petrol,0.6,33.3,200,Heavy traffic,100,Hill road,198
+30,45,Car,Tata,Nano,Petrol,0.6,33.3,200,Moderate traffic,50,Local road,198
+20,30,Car,Tata,Nano,Petrol,0.6,33.3,200,Light traffic,20,Hill road,198
+40,55,Car,Tata,Nano,Petrol,0.6,33.3,200,Normal traffic,0,Highway,198
+50,60,Car,Tata,Nano,Petrol,0.6,33.3,200,Heavy traffic,100,Hill road,198
+30,45,Car,Tata,Nano,Petrol,0.6,33.3,200,Moderate traffic,50,Local road,198
+20,30,Car,Tata,Nano,Petrol,0.6,33.3,200,Light traffic,20,Hill road,198
+40,55,Car,Tata,Nano,Petrol,0.6,33.3,200,Normal traffic,0,Highway,198
+50,60,Car,Tata,Nano,Petrol,0.6,33.3,200,Heavy traffic,100,Hill road,198
+30,45,Car,Tata,Nano,Petrol,0.6,33.3,200,Moderate traffic,50,Local road,198
+20,30,Car,Tata,Nano,Petrol,0.6,33.3,200,Light traffic,20,Hill road,198
+40,55,Car,Tata,Nano,Petrol,0.6,33.3,200,Normal traffic,0,Highway,198
+50,60,Car,Tata,Nano,Petrol,0.6,33.3,200,Heavy traffic,100,Hill road,198
+30,45,Car,Tata,Nano,Petrol,0.6,33.3,200,Moderate traffic,50,Local road,198
+20,30,Car,Tata,Nano,Petrol,0.6,33.3,200,Light traffic,20,Hill road,198
+40,55,Car,Tata,Nano,Petrol,0.6,33.3,200,Normal traffic,0,Highway,198
+50,60,Car,Tata,Nano,Petrol,0.6,33.3,200,Heavy traffic,100,Hill road,198
+30,45,Car,Tata,Nano,Petrol,0.6,33.3,200,Moderate traffic,50,Local road,198
+20,30,Car,Tata,Nano,Petrol,0.6,33.3,200,Light traffic,20,Hill road,198
+40,55,Car,Tata,Nano,Petrol,0.6,33.3,200,Normal traffic,0,Highway,198
+50,60,Car,Tata,Nano,Petrol,0.6,33.3,200,Heavy traffic,100,Hill road,198
+30,45,Car,Tata,Nano,Petrol,0.6,33.3,200,Moderate traffic,50,Local road,198
+20,30,Car,Tata,Nano,Petrol,0.6,33.3,200,Light traffic,20,Hill road,198
+40,55,Car,Tata,Nano,Petrol,0.6,33.3,200,Normal traffic,0,Highway,198
+50,60,Car,Tata,Nano,Petrol,0.6,33.3,200,Heavy traffic,100,Hill road,198
+30,45,Car,Tata,Nano,Petrol,0.6,33.3,200,Moderate traffic,50,Local road,198
+20,30,Car,Tata,Nano,Petrol,0.6,33.3,200,Light traffic,20,Hill road,198
+40,55,Car,Tata,Nano,Petrol,0.6,33.3,200,Normal traffic,0,Highway,198
+50,60,Car,Tata,Nano,Petrol,0.6,33.3,200,Heavy traffic,100,Hill road,198
+30,45,Car,Tata,Nano,Petrol,0.6,33.3,200,Moderate traffic,50,Local road,198
+20,30,Car,Tata,Nano,Petrol,0.6,33.3,200,Light traffic,20,Hill road,198
+40,55,Car,Tata,Nano,Petrol,0.6,33.3,200,Normal traffic,0,Highway,198
+50,60,Car,Tata,Nano,Petrol,0.6,33.3,200,Heavy traffic,100,Hill road,198
+30,45,Car,Tata,Nano,Petrol,0.6,33.3,200,Moderate traffic,50,Local road,198
+20,30,Car,Tata,Nano,Petrol,0.6,33.3,200,Light traffic,20,Hill road,198
+40,55,Car,Tata,Nano,Petrol,0.6,33.3,200,Normal traffic,0,Highway,198
+50,60,Car,Tata,Nano,Petrol,0.6,33.3,200,Heavy traffic,100,Hill road,198
+30,45,Car,Tata,Nano,Petrol,0.6,33.3,200,Moderate traffic,50,Local road,198
+20,30,Car,Tata,Nano,Petrol,0.6,33.3,200,Light traffic,20,Hill road,198
+40,55,Car,Tata,Nano,Petrol,0.6,33.3,200,Normal traffic,0,Highway,198
+50,60,Car,Tata,Nano,Petrol,0.6,33.3,200,Heavy traffic,100,Hill road,198
+30,45,Car,Tata,Nano,Petrol,0.6,33.3,200,Moderate traffic,50,Local road,198
+20,30,Car,Tata,Nano,Petrol,0.6,33.3,200,Light traffic,20,Hill road,198
+40,55,Car,Tata,Nano,Petrol,0.6,33.3,200,Normal traffic,0,Highway,198
+50,60,Car,Tata,Nano,Petrol,0.6,33.3,200,Heavy traffic,100,Hill road,198
+30,45,Car,Tata,Nano,Petrol,0.6,33.3,200,Moderate traffic,50,Local road,198
+50,60,Car,Tata,Zest,Petrol,1.2,20,150,Heavy traffic,100,Hill road,
+30,45,Car,Tata,Zest,Petrol,1.2,20,150,Moderate traffic,50,Local road,
+20,30,Car,Tata,Zest,Petrol,1.2,20,150,Light traffic,20,Hill road,
+40,55,Car,Tata,Zest,Petrol,1.2,20,150,Normal traffic,0,Highway,
+50,60,Car,Tata,Zest,Diesel,1.3,23,130,Heavy traffic,100,Hill road,
+30,45,Car,Tata,Zest,Diesel,1.3,23,130,Moderate traffic,50,Local road,
+20,30,Car,Tata,Zest,Diesel,1.3,23,130,Light traffic,20,Hill road,
+40,55,Car,Tata,Zest,Diesel,1.3,23,130,Normal traffic,0,Highway,
+50,60,Car,Tata,Zest,Petrol,1.2,20,150,Heavy traffic,100,Hill road,
+30,45,Car,Tata,Zest,Petrol,1.2,20,150,Moderate traffic,50,Local road,
+20,30,Car,Tata,Zest,Petrol,1.2,20,150,Light traffic,20,Hill road,
+40,55,Car,Tata,Zest,Petrol,1.2,20,150,Normal traffic,0,Highway,
+50,60,Car,Tata,Zest,Diesel,1.3,23,130,Heavy traffic,100,Hill road,
+30,45,Car,Tata,Zest,Diesel,1.3,23,130,Moderate traffic,50,Local road,
+20,30,Car,Tata,Zest,Diesel,1.3,23,130,Light traffic,20,Hill road,
+40,55,Car,Tata,Zest,Diesel,1.3,23,130,Normal traffic,0,Highway,
+50,60,Car,Tata,Zest,Petrol,1.2,20,150,Heavy traffic,100,Hill road,
+30,45,Car,Tata,Zest,Petrol,1.2,20,150,Moderate traffic,50,Local road,
+20,30,Car,Tata,Zest,Petrol,1.2,20,150,Light traffic,20,Hill road,
+40,55,Car,Tata,Zest,Petrol,1.2,20,150,Normal traffic,0,Highway,
+50,60,Car,Tata,Zest,Diesel,1.3,23,130,Heavy traffic,100,Hill road,
+30,45,Car,Tata,Zest,Diesel,1.3,23,130,Moderate traffic,50,Local road,
+20,30,Car,Tata,Zest,Diesel,1.3,23,130,Light traffic,20,Hill road,
+40,55,Car,Tata,Zest,Diesel,1.3,23,130,Normal traffic,0,Highway,
+50,60,Car,Tata,Zest,Petrol,1.2,20,150,Heavy traffic,100,Hill road,
+30,45,Car,Tata,Zest,Petrol,1.2,20,150,Moderate traffic,50,Local road,
+20,30,Car,Tata,Zest,Petrol,1.2,20,150,Light traffic,20,Hill road,
+40,55,Car,Tata,Zest,Petrol,1.2,20,150,Normal traffic,0,Highway,
+50,60,Car,Tata,Zest,Diesel,1.3,23,130,Heavy traffic,100,Hill road,
+30,45,Car,Tata,Zest,Diesel,1.3,23,130,Moderate traffic,50,Local road,
+20,30,Car,Tata,Zest,Diesel,1.3,23,130,Light traffic,20,Hill road,
+40,55,Car,Tata,Zest,Diesel,1.3,23,130,Normal traffic,0,Highway,
+50,60,Car,Tata,Zest,Petrol,1.2,20,150,Heavy traffic,100,Hill road,
+30,45,Car,Tata,Zest,Petrol,1.2,20,150,Moderate traffic,50,Local road,
+20,30,Car,Tata,Zest,Petrol,1.2,20,150,Light traffic,20,Hill road,
+40,55,Car,Tata,Zest,Petrol,1.2,20,150,Normal traffic,0,Highway,
+50,60,Car,Tata,Zest,Diesel,1.3,23,130,Heavy traffic,100,Hill road,
+30,45,Car,Tata,Zest,Diesel,1.3,23,130,Moderate traffic,50,Local road,
+20,30,Car,Tata,Zest,Diesel,1.3,23,130,Light traffic,20,Hill road,
+40,55,Car,Tata,Zest,Diesel,1.3,23,130,Normal traffic,0,Highway,
+50,60,Car,Tata,Zest,Petrol,1.2,20,150,Heavy traffic,100,Hill road,
+30,45,Car,Tata,Zest,Petrol,1.2,20,150,Moderate traffic,50,Local road,
+20,30,Car,Tata,Zest,Petrol,1.2,20,150,Light traffic,20,Hill road,
+40,55,Car,Tata,Zest,Petrol,1.2,20,150,Normal traffic,0,Highway,
+50,60,Car,Tata,Zest,Diesel,1.3,23,130,Heavy traffic,100,Hill road,
+30,45,Car,Tata,Zest,Diesel,1.3,23,130,Moderate traffic,50,Local road,
+20,30,Car,Tata,Zest,Diesel,1.3,23,130,Light traffic,20,Hill road,
+40,55,Car,Tata,Zest,Diesel,1.3,23,130,Normal traffic,0,Highway,
+50,60,Car,Tata,Safari,Petrol,2,12,200,Heavy traffic,100,Hill road,
+30,45,Car,Tata,Safari,Petrol,2,12,200,Moderate traffic,50,Local road,
+20,30,Car,Tata,Safari,Petrol,2,12,200,Light traffic,20,Hill road,
+40,55,Car,Tata,Safari,Petrol,2,12,200,Normal traffic,0,Highway,
+50,60,Car,Tata,Safari,Diesel,2.2,15,180,Heavy traffic,100,Hill road,
+30,45,Car,Tata,Safari,Diesel,2.2,15,180,Moderate traffic,50,Local road,
+20,30,Car,Tata,Safari,Diesel,2.2,15,180,Light traffic,20,Hill road,
+40,55,Car,Tata,Safari,Diesel,2.2,15,180,Normal traffic,0,Highway,
+50,60,Car,Tata,Safari,Petrol,2,12,200,Heavy traffic,100,Hill road,
+30,45,Car,Tata,Safari,Petrol,2,12,200,Moderate traffic,50,Local road,
+20,30,Car,Tata,Safari,Petrol,2,12,200,Light traffic,20,Hill road,
+40,55,Car,Tata,Safari,Petrol,2,12,200,Normal traffic,0,Highway,
+50,60,Car,Tata,Safari,Diesel,2.2,15,180,Heavy traffic,100,Hill road,
+30,45,Car,Tata,Safari,Diesel,2.2,15,180,Moderate traffic,50,Local road,
+20,30,Car,Tata,Safari,Diesel,2.2,15,180,Light traffic,20,Hill road,
+40,55,Car,Tata,Safari,Diesel,2.2,15,180,Normal traffic,0,Highway,
+50,60,Car,Tata,Safari,Petrol,2,12,200,Heavy traffic,100,Hill road,
+30,45,Car,Tata,Safari,Petrol,2,12,200,Moderate traffic,50,Local road,
+20,30,Car,Tata,Safari,Petrol,2,12,200,Light traffic,20,Hill road,
+40,55,Car,Tata,Safari,Petrol,2,12,200,Normal traffic,0,Highway,
+50,60,Car,Tata,Safari,Diesel,2.2,15,180,Heavy traffic,100,Hill road,
+30,45,Car,Tata,Safari,Diesel,2.2,15,180,Moderate traffic,50,Local road,
+20,30,Car,Tata,Safari,Diesel,2.2,15,180,Light traffic,20,Hill road,
+40,55,Car,Tata,Safari,Diesel,2.2,15,180,Normal traffic,0,Highway,
+50,60,Car,Tata,Safari,Petrol,2,12,200,Heavy traffic,100,Hill road,
+30,45,Car,Tata,Safari,Petrol,2,12,200,Moderate traffic,50,Local road,
+20,30,Car,Tata,Safari,Petrol,2,12,200,Light traffic,20,Hill road,
+40,55,Car,Tata,Safari,Petrol,2,12,200,Normal traffic,0,Highway,
+50,60,Car,Tata,Safari,Diesel,2.2,15,180,Heavy traffic,100,Hill road,
+30,45,Car,Tata,Safari,Diesel,2.2,15,180,Moderate traffic,50,Local road,
+20,30,Car,Tata,Safari,Diesel,2.2,15,180,Light traffic,20,Hill road,
+40,55,Car,Tata,Safari,Diesel,2.2,15,180,Normal traffic,0,Highway,
+50,60,Car,Tata,Safari,Petrol,2,12,200,Heavy traffic,100,Hill road,
+30,45,Car,Tata,Safari,Petrol,2,12,200,Moderate traffic,50,Local road,
+20,30,Car,Tata,Safari,Petrol,2,12,200,Light traffic,20,Hill road,
+40,55,Car,Tata,Safari,Petrol,2,12,200,Normal traffic,0,Highway,
+50,60,Car,Tata,Safari,Diesel,2.2,15,180,Heavy traffic,100,Hill road,
+30,45,Car,Tata,Safari,Diesel,2.2,15,180,Moderate traffic,50,Local road,
+20,30,Car,Tata,Safari,Diesel,2.2,15,180,Light traffic,20,Hill road,
+40,55,Car,Tata,Safari,Diesel,2.2,15,180,Normal traffic,0,Highway,
+50,60,Car,Tata,Safari,Petrol,2,12,200,Heavy traffic,100,Hill road,
+30,45,Car,Tata,Safari,Petrol,2,12,200,Moderate traffic,50,Local road,
+20,30,Car,Tata,Safari,Petrol,2,12,200,Light traffic,20,Hill road,
+40,55,Car,Tata,Safari,Petrol,2,12,200,Normal traffic,0,Highway,
+50,60,Car,Tata,Safari,Diesel,2.2,15,180,Heavy traffic,100,Hill road,
+30,45,Car,Tata,Safari,Diesel,2.2,15,180,Moderate traffic,50,Local road,
+20,30,Car,Tata,Safari,Diesel,2.2,15,180,Light traffic,20,Hill road,
+40,55,Car,Tata,Safari,Diesel,2.2,15,180,Normal traffic,0,Highway,
+50,60,Car,Tata,Safari,Petrol,2,12,200,Heavy traffic,100,Hill road,
+30,45,Car,Tata,Safari,Petrol,2,12,200,Moderate traffic,50,Local road,
+20,30,Car,Tata,Safari,Petrol,2,12,200,Light traffic,20,Hill road,
+40,55,Car,Tata,Safari,Petrol,2,12,200,Normal traffic,0,Highway,
+50,60,Car,Tata,Safari,Diesel,2.2,15,180,Heavy traffic,100,Hill road,
+30,45,Car,Tata,Safari,Diesel,2.2,15,180,Moderate traffic,50,Local road,
+20,30,Car,Tata,Safari,Diesel,2.2,15,180,Light traffic,20,Hill road,
+40,55,Car,Tata,Safari,Diesel,2.2,15,180,Normal traffic,0,Highway,
+50,60,Car,Tata,Harrier,Petrol,1.5,16.5,120,Heavy traffic,100,Hill road,80
+30,45,Car,Tata,Harrier,Petrol,1.5,16.5,120,Moderate traffic,50,Local road,72.73
+20,30,Car,Tata,Harrier,Petrol,1.5,16.5,120,Light traffic,20,Hill road,48.49
+40,55,Car,Tata,Harrier,Petrol,1.5,16.5,120,Normal traffic,0,Highway,96.99
+50,60,Car,Tata,Harrier,Diesel,2,14.5,140,Heavy traffic,100,Hill road,70
+30,45,Car,Tata,Harrier,Diesel,2,14.5,140,Moderate traffic,50,Local road,68.49
+20,30,Car,Tata,Harrier,Diesel,2,14.5,140,Light traffic,20,Hill road,58
+40,55,Car,Tata,Harrier,Diesel,2,14.5,140,Normal traffic,0,Highway,93.33
+50,60,Car,Tata,Harrier,Petrol,1.5,16.5,120,Heavy traffic,100,Hill road,80
+30,45,Car,Tata,Harrier,Petrol,1.5,16.5,120,Moderate traffic,50,Local road,72.73
+20,30,Car,Tata,Harrier,Petrol,1.5,16.5,120,Light traffic,20,Hill road,48.49
+40,55,Car,Tata,Harrier,Petrol,1.5,16.5,120,Normal traffic,0,Highway,96.99
+50,60,Car,Tata,Harrier,Diesel,2,14.5,140,Heavy traffic,100,Hill road,70
+30,45,Car,Tata,Harrier,Diesel,2,14.5,140,Moderate traffic,50,Local road,68.49
+20,30,Car,Tata,Harrier,Diesel,2,14.5,140,Light traffic,20,Hill road,58
+40,55,Car,Tata,Harrier,Diesel,2,14.5,140,Normal traffic,0,Highway,93.33
+50,60,Car,Tata,Harrier,Petrol,1.5,16.5,120,Heavy traffic,100,Hill road,80
+30,45,Car,Tata,Harrier,Petrol,1.5,16.5,120,Moderate traffic,50,Local road,72.73
+20,30,Car,Tata,Harrier,Petrol,1.5,16.5,120,Light traffic,20,Hill road,48.49
+40,55,Car,Tata,Harrier,Petrol,1.5,16.5,120,Normal traffic,0,Highway,96.99
+35,50,Car,Tata,Harrier,Petrol,1.5,16.5,120,Normal traffic,50,Hill road,68.57
+45,55,Car,Tata,Harrier,Diesel,2,14.5,140,Moderate traffic,75,Local road,77.78
+25,35,Car,Tata,Harrier,Petrol,1.5,16.5,120,Light traffic,30,Hill road,60
+55,70,Car,Tata,Harrier,Diesel,2,14.5,140,Heavy traffic,120,Highway,107.14
+40,60,Car,Tata,Harrier,Petrol,1.5,16.5,120,Normal traffic,40,Hill road,96
+60,75,Car,Tata,Harrier,Diesel,2,14.5,140,Heavy traffic,150,Highway,87.24
+15,25,Car,Tata,Harrier,Petrol,1.5,16.5,120,Light traffic,10,Local road,24
+70,80,Car,Tata,Harrier,Petrol,1.5,16.5,120,Normal traffic,80,Hill road,100
+25,40,Car,Tata,Harrier,Diesel,2,14.5,140,Moderate traffic,30,Local road,57.14
+50,65,Car,Tata,Harrier,Petrol,1.5,16.5,120,Heavy traffic,100,Hill road,81.25
+60,75,Car,Tata,Harrier,Diesel,2,14.5,140,Heavy traffic,150,Highway,87.24
+15,25,Car,Tata,Harrier,Petrol,1.5,16.5,120,Light traffic,10,Local road,24
+70,80,Car,Tata,Harrier,Petrol,1.5,16.5,120,Normal traffic,80,Hill road,100
+25,40,Car,Tata,Harrier,Diesel,2,14.5,140,Moderate traffic,30,Local road,57.14
+50,65,Car,Tata,Harrier,Petrol,1.5,16.5,120,Heavy traffic,100,Hill road,81.25
+50,60,Car,Tata,Harrier,Diesel,2,14.5,140,Heavy traffic,100,Hill road,96.55
+30,45,Car,Tata,Harrier,Diesel,2,14.5,140,Moderate traffic,50,Local road,68.57
+20,30,Car,Tata,Harrier,Diesel,2,14.5,140,Light traffic,20,Hill road,48.57
+40,55,Car,Tata,Harrier,Diesel,2,14.5,140,Normal traffic,0,Highway,93.33
+50,60,Car,Tata,Harrier,Petrol,1.5,16.5,120,Heavy traffic,100,Hill road,80
+30,45,Car,Tata,Harrier,Petrol,1.5,16.5,120,Moderate traffic,50,Local road,72.73
+20,30,Car,Tata,Harrier,Petrol,1.5,16.5,120,Light traffic,20,Hill road,48.49
+40,55,Car,Tata,Harrier,Petrol,1.5,16.5,120,Normal traffic,0,Highway,96.99
+50,60,Car,Tata,Harrier,Diesel,2,14.5,140,Heavy traffic,100,Hill road,96.55
+30,45,Car,Tata,Harrier,Diesel,2,14.5,140,Moderate traffic,50,Local road,68.57
+20,30,Car,Tata,Harrier,Diesel,2,14.5,140,Light traffic,20,Hill road,48.57
+40,55,Car,Tata,Harrier,Diesel,2,14.5,140,Normal traffic,0,Highway,93.33
+50,60,Car,Tata,Harrier,Petrol,1.5,16.5,120,Heavy traffic,100,Hill road,80
+30,45,Car,Tata,Harrier,Petrol,1.5,16.5,120,Moderate traffic,50,Local road,72.73
+20,30,Car,Tata,Harrier,Petrol,1.5,16.5,120,Light traffic,20,Hill road,48.49
+40,55,Car,Tata,Harrier,Petrol,1.5,16.5,120,Normal traffic,0,Highway,96.99
+50,60,Car,Tata,Harrier,Diesel,2,14.5,140,Heavy traffic,100,Hill road,96.55
+30,45,Car,Tata,Harrier,Diesel,2,14.5,140,Moderate traffic,50,Local road,68.57
+20,30,Car,Tata,Harrier,Diesel,2,14.5,140,Light traffic,20,Hill road,48.57
+40,55,Car,Tata,Harrier,Diesel,2,14.5,140,Normal traffic,0,Highway,93.33
+50,60,Car,Tata,Harrier,Petrol,1.5,16.5,120,Heavy traffic,100,Hill road,80
+30,45,Car,Tata,Harrier,Petrol,1.5,16.5,120,Moderate traffic,50,Local road,72.73
+20,30,Car,Tata,Harrier,Petrol,1.5,16.5,120,Light traffic,20,Hill road,48.49
+40,55,Car,Tata,Harrier,Petrol,1.5,16.5,120,Normal traffic,0,Highway,96.99
+50,60,Car,Tata,Harrier,Diesel,2,14.5,140,Heavy traffic,100,Hill road,96.55
+30,45,Car,Tata,Harrier,Diesel,2,14.5,140,Moderate traffic,50,Local road,68.57
+20,30,Car,Tata,Harrier,Diesel,2,14.5,140,Light traffic,20,Hill road,48.57
+40,55,Car,Tata,Harrier,Diesel,2,14.5,140,Normal traffic,0,Highway,93.33
+50,60,Car,Tata,Harrier,Petrol,1.5,16.5,120,Heavy traffic,100,Hill road,80
+30,45,Car,Tata,Harrier,Petrol,1.5,16.5,120,Moderate traffic,50,Local road,72.73
+20,30,Car,Tata,Harrier,Petrol,1.5,16.5,120,Light traffic,20,Hill road,48.49
+40,55,Car,Tata,Harrier,Petrol,1.5,16.5,120,Normal traffic,0,Highway,96.99
+50,60,Car,Tata,Indigo,Diesel,1.4,18.5,120,Heavy traffic,100,Hill road,77.14
+30,45,Car,Tata,Indigo,Diesel,1.4,18.5,120,Moderate traffic,50,Local road,53.33
+20,30,Car,Tata,Indigo,Diesel,1.4,18.5,120,Light traffic,20,Hill road,37.33
+40,55,Car,Tata,Indigo,Diesel,1.4,18.5,120,Normal traffic,0,Highway,66.67
+50,60,Car,Tata,Indigo,Petrol,1.2,15.5,130,Heavy traffic,100,Hill road,60
+30,45,Car,Tata,Indigo,Petrol,1.2,15.5,130,Moderate traffic,50,Local road,43.33
+20,30,Car,Tata,Indigo,Petrol,1.2,15.5,130,Light traffic,20,Hill road,30.67
+40,55,Car,Tata,Indigo,Petrol,1.2,15.5,130,Normal traffic,0,Highway,55
+50,60,Car,Tata,Indigo,Diesel,1.4,18.5,120,Heavy traffic,100,Hill road,77.14
+30,45,Car,Tata,Indigo,Diesel,1.4,18.5,120,Moderate traffic,50,Local road,53.33
+20,30,Car,Tata,Indigo,Diesel,1.4,18.5,120,Light traffic,20,Hill road,37.33
+40,55,Car,Tata,Indigo,Diesel,1.4,18.5,120,Normal traffic,0,Highway,66.67
+50,60,Car,Tata,Indigo,Petrol,1.2,15.5,130,Heavy traffic,100,Hill road,60
+30,45,Car,Tata,Indigo,Petrol,1.2,15.5,130,Moderate traffic,50,Local road,43.33
+20,30,Car,Tata,Indigo,Petrol,1.2,15.5,130,Light traffic,20,Hill road,30.67
+40,55,Car,Tata,Indigo,Petrol,1.2,15.5,130,Normal traffic,0,Highway,55
+50,60,Car,Tata,Indigo,Diesel,1.4,18.5,120,Heavy traffic,100,Hill road,77.14
+30,45,Car,Tata,Indigo,Diesel,1.4,18.5,120,Moderate traffic,50,Local road,53.33
+20,30,Car,Tata,Indigo,Diesel,1.4,18.5,120,Light traffic,20,Hill road,37.33
+40,55,Car,Tata,Indigo,Diesel,1.4,18.5,120,Normal traffic,0,Highway,66.67
+50,60,Car,Tata,Indica,Petrol,1.2,15,120,Heavy traffic,100,Hill road,72
+30,45,Car,Tata,Indica,Petrol,1.2,15,120,Moderate traffic,50,Local road,54
+20,30,Car,Tata,Indica,Petrol,1.2,15,120,Light traffic,20,Hill road,36
+40,55,Car,Tata,Indica,Petrol,1.2,15,120,Normal traffic,0,Highway,60
+50,60,Car,Tata,Indica,Diesel,1.4,18,100,Heavy traffic,100,Hill road,56
+30,45,Car,Tata,Indica,Diesel,1.4,18,100,Moderate traffic,50,Local road,42
+20,30,Car,Tata,Indica,Diesel,1.4,18,100,Light traffic,20,Hill road,28
+40,55,Car,Tata,Indica,Diesel,1.4,18,100,Normal traffic,0,Highway,48
+50,60,Car,Tata,Indica,Petrol,1.2,15,120,Heavy traffic,100,Hill road,72
+30,45,Car,Tata,Indica,Petrol,1.2,15,120,Moderate traffic,50,Local road,54
+20,30,Car,Tata,Indica,Petrol,1.2,15,120,Light traffic,20,Hill road,36
+40,55,Car,Tata,Indica,Petrol,1.2,15,120,Normal traffic,0,Highway,60
+50,60,Car,Tata,Indica,Diesel,1.4,18,100,Heavy traffic,100,Hill road,56
+30,45,Car,Tata,Indica,Diesel,1.4,18,100,Moderate traffic,50,Local road,42
+20,30,Car,Tata,Indica,Diesel,1.4,18,100,Light traffic,20,Hill road,28
+40,55,Car,Tata,Indica,Diesel,1.4,18,100,Normal traffic,0,Highway,48
+50,60,Car,Tata,Bolt,Petrol,1.2,18,100,Heavy traffic,100,Hill road,54
+30,45,Car,Tata,Bolt,Petrol,1.2,18,100,Moderate traffic,50,Local road,40
+20,30,Car,Tata,Bolt,Petrol,1.2,18,100,Light traffic,20,Hill road,27
+40,55,Car,Tata,Bolt,Petrol,1.2,18,100,Normal traffic,0,Highway,45
+50,60,Car,Tata,Bolt,Diesel,1.4,22,90,Heavy traffic,100,Hill road,49
+30,45,Car,Tata,Bolt,Diesel,1.4,22,90,Moderate traffic,50,Local road,33
+20,30,Car,Tata,Bolt,Diesel,1.4,22,90,Light traffic,20,Hill road,22
+40,55,Car,Tata,Bolt,Diesel,1.4,22,90,Normal traffic,0,Highway,40
+50,60,Car,Tata,Bolt,Petrol,1.2,18,100,Heavy traffic,100,Hill road,54
+30,45,Car,Tata,Bolt,Petrol,1.2,18,100,Moderate traffic,50,Local road,40
+20,30,Car,Tata,Bolt,Petrol,1.2,18,100,Light traffic,20,Hill road,27
+40,55,Car,Tata,Bolt,Petrol,1.2,18,100,Normal traffic,0,Highway,45
+50,60,Car,Tata,Bolt,Diesel,1.4,22,90,Heavy traffic,100,Hill road,49
+30,45,Car,Tata,Bolt,Diesel,1.4,22,90,Moderate traffic,50,Local road,33
+20,30,Car,Tata,Bolt,Diesel,1.4,22,90,Light traffic,20,Hill road,22
+40,55,Car,Tata,Bolt,Diesel,1.4,22,90,Normal traffic,0,Highway,40
+50,60,Car,Tata,Vista,Petrol,1.2,16,115,Heavy traffic,100,Hill road,68.7
+30,45,Car,Tata,Vista,Petrol,1.2,16,115,Moderate traffic,50,Local road,51.4
+20,30,Car,Tata,Vista,Petrol,1.2,16,115,Light traffic,20,Hill road,34.3
+40,55,Car,Tata,Vista,Petrol,1.2,16,115,Normal traffic,0,Highway,57.7
+50,60,Car,Tata,Vista,Diesel,1.4,20,100,Heavy traffic,100,Hill road,60
+30,45,Car,Tata,Vista,Diesel,1.4,20,100,Moderate traffic,50,Local road,42.9
+20,30,Car,Tata,Vista,Diesel,1.4,20,100,Light traffic,20,Hill road,28.6
+40,55,Car,Tata,Vista,Diesel,1.4,20,100,Normal traffic,0,Highway,51.4
+50,60,Car,Tata,Vista,Petrol,1.2,16,115,Heavy traffic,100,Hill road,68.7
+30,45,Car,Tata,Vista,Petrol,1.2,16,115,Moderate traffic,50,Local road,51.4
+20,30,Car,Tata,Vista,Petrol,1.2,16,115,Light traffic,20,Hill road,34.3
+40,55,Car,Tata,Vista,Petrol,1.2,16,115,Normal traffic,0,Highway,57.7
+50,60,Car,Tata,Vista,Diesel,1.4,20,100,Heavy traffic,100,Hill road,60
+30,45,Car,Tata,Vista,Diesel,1.4,20,100,Moderate traffic,50,Local road,42.9
+20,30,Car,Tata,Vista,Diesel,1.4,20,100,Light traffic,20,Hill road,28.6
+40,55,Car,Tata,Vista,Diesel,1.4,20,100,Normal traffic,0,Highway,51.4
+50,60,Car,Mahindra,Thar,Petrol,2,10,225,Heavy traffic,100,Highway,225
+30,45,Car,Mahindra,Thar,Diesel,2.2,15,150,Moderate traffic,50,Local road,150
+20,30,Car,Mahindra,Thar,Petrol,2,10,225,Light traffic,20,Hill road,225
+40,55,Car,Mahindra,Thar,Diesel,2.2,15,150,Normal traffic,0,Highway,150
+50,60,Car,Mahindra,Thar,Petrol,2,10,225,Heavy traffic,100,Hill road,225
+30,45,Car,Mahindra,Thar,Diesel,2.2,15,150,Moderate traffic,50,Highway,150
+20,30,Car,Mahindra,Thar,Petrol,2,10,225,Light traffic,20,Local road,225
+40,55,Car,Mahindra,Thar,Diesel,2.2,15,150,Normal traffic,0,Hill road,150
+50,60,Car,Mahindra,Thar,Petrol,2,10,225,Heavy traffic,100,Highway,225
+30,45,Car,Mahindra,Thar,Diesel,2.2,15,150,Moderate traffic,50,Local road,150
+20,30,Car,Mahindra,Thar,Petrol,2,10,225,Light traffic,20,Hill road,225
+40,55,Car,Mahindra,Thar,Diesel,2.2,15,150,Normal traffic,0,Highway,150
+50,60,Car,Mahindra,Thar,Petrol,2,10,225,Heavy traffic,100,Hill road,225
+30,45,Car,Mahindra,Thar,Diesel,2.2,15,150,Moderate traffic,50,Highway,150
+20,30,Car,Mahindra,Thar,Petrol,2,10,225,Light traffic,20,Local road,225
+40,55,Car,Mahindra,Thar,Diesel,2.2,15,150,Normal traffic,0,Hill road,150
+50,60,Car,Mahindra,Thar,Petrol,2,10,225,Heavy traffic,100,Highway,225
+30,45,Car,Mahindra,Thar,Diesel,2.2,15,150,Moderate traffic,50,Local road,150
+20,30,Car,Mahindra,Thar,Petrol,2,10,225,Light traffic,20,Hill road,225
+40,55,Car,Mahindra,Thar,Diesel,2.2,15,150,Normal traffic,0,Highway,150
+50,60,Car,Mahindra,Thar,Petrol,2,10,225,Heavy traffic,100,Hill road,225
+30,45,Car,Mahindra,Thar,Diesel,2.2,15,150,Moderate traffic,50,Highway,150
+20,30,Car,Mahindra,Thar,Petrol,2,10,225,Light traffic,20,Local road,225
+40,55,Car,Mahindra,Thar,Diesel,2.2,15,150,Normal traffic,0,Hill road,150
+50,60,Car,Mahindra,Thar,Petrol,2,10,225,Heavy traffic,100,Highway,225
+30,45,Car,Mahindra,Thar,Diesel,2.2,15,150,Moderate traffic,50,Local road,150
+20,30,Car,Mahindra,Thar,Petrol,2,10,225,Light traffic,20,Hill road,225
+40,55,Car,Mahindra,Thar,Diesel,2.2,15,150,Normal traffic,0,Highway,150
+50,60,Car,Mahindra,Thar,Petrol,2,10,225,Heavy traffic,100,Hill road,225
+30,45,Car,Mahindra,Thar,Diesel,2.2,15,150,Moderate traffic,50,Highway,150
+20,30,Car,Mahindra,Thar,Petrol,2,10,225,Light traffic,20,Local road,225
+40,55,Car,Mahindra,Thar,Diesel,2.2,15,150,Normal traffic,0,Hill road,150
+50,60,Car,Mahindra,Thar,Petrol,2,10,225,Heavy traffic,100,Highway,225
+30,45,Car,Mahindra,Thar,Diesel,2.2,15,150,Moderate traffic,50,Local road,150
+20,30,Car,Mahindra,Thar,Petrol,2,10,225,Light traffic,20,Hill road,225
+40,55,Car,Mahindra,Thar,Diesel,2.2,15,150,Normal traffic,0,Highway,150
+50,60,Car,Mahindra,Thar,Petrol,2,10,225,Heavy traffic,100,Hill road,225
+30,45,Car,Mahindra,Thar,Diesel,2.2,15,150,Moderate traffic,50,Highway,150
+20,30,Car,Mahindra,Thar,Petrol,2,10,225,Light traffic,20,Local road,225
+40,55,Car,Mahindra,Thar,Diesel,2.2,15,150,Normal traffic,0,Hill road,150
+50,60,Car,Mahindra,Thar,Petrol,2,10,225,Heavy traffic,100,Highway,225
+30,45,Car,Mahindra,Thar,Diesel,2.2,15,150,Moderate traffic,50,Local road,150
+20,30,Car,Mahindra,Thar,Petrol,2,10,225,Light traffic,20,Hill road,225
+40,55,Car,Mahindra,Thar,Diesel,2.2,15,150,Normal traffic,0,Highway,150
+50,60,Car,Mahindra,Thar,Petrol,2,10,225,Heavy traffic,100,Hill road,225
+30,45,Car,Mahindra,Thar,Diesel,2.2,15,150,Moderate traffic,50,Highway,150
+50,60,Car,Mahindra,XUV300,Petrol,1.2,17,120,Heavy traffic,100,Highway,100
+30,45,Car,Mahindra,XUV300,Diesel,1.5,20,105,Moderate traffic,50,Local road,76
+20,30,Car,Mahindra,XUV300,Petrol,1.2,17,120,Light traffic,20,Hill road,100
+40,55,Car,Mahindra,XUV300,Diesel,1.5,20,105,Normal traffic,0,Highway,76
+50,60,Car,Mahindra,XUV300,Petrol,1.2,17,120,Heavy traffic,100,Hill road,100
+30,45,Car,Mahindra,XUV300,Diesel,1.5,20,105,Moderate traffic,50,Highway,76
+20,30,Car,Mahindra,XUV300,Petrol,1.2,17,120,Light traffic,20,Local road,100
+40,55,Car,Mahindra,XUV300,Diesel,1.5,20,105,Normal traffic,0,Hill road,76
+50,60,Car,Mahindra,XUV300,Petrol,1.2,17,120,Heavy traffic,100,Highway,100
+30,45,Car,Mahindra,XUV300,Diesel,1.5,20,105,Moderate traffic,50,Local road,76
+20,30,Car,Mahindra,XUV300,Petrol,1.2,17,120,Light traffic,20,Hill road,100
+40,55,Car,Mahindra,XUV300,Diesel,1.5,20,105,Normal traffic,0,Highway,76
+50,60,Car,Mahindra,XUV300,Petrol,1.2,17,120,Heavy traffic,100,Hill road,100
+30,45,Car,Mahindra,XUV300,Diesel,1.5,20,105,Moderate traffic,50,Highway,76
+20,30,Car,Mahindra,XUV300,Petrol,1.2,17,120,Light traffic,20,Local road,100
+40,55,Car,Mahindra,XUV300,Diesel,1.5,20,105,Normal traffic,0,Hill road,76
+50,60,Car,Mahindra,XUV300,Petrol,1.2,17,120,Heavy traffic,100,Highway,100
+30,45,Car,Mahindra,XUV300,Diesel,1.5,20,105,Moderate traffic,50,Local road,76
+20,30,Car,Mahindra,XUV300,Petrol,1.2,17,120,Light traffic,20,Hill road,100
+40,55,Car,Mahindra,XUV300,Diesel,1.5,20,105,Normal traffic,0,Highway,76
+50,60,Car,Mahindra,XUV300,Petrol,1.2,17,120,Heavy traffic,100,Hill road,100
+30,45,Car,Mahindra,XUV300,Diesel,1.5,20,105,Moderate traffic,50,Highway,76
+20,30,Car,Mahindra,XUV300,Petrol,1.2,17,120,Light traffic,20,Local road,100
+40,55,Car,Mahindra,XUV300,Diesel,1.5,20,105,Normal traffic,0,Hill road,76
+50,60,Car,Mahindra,XUV300,Petrol,1.2,17,120,Heavy traffic,100,Highway,100
+50,60,Car,Mahindra,Bolero,Diesel,1.5,15,150,Heavy traffic,100,Highway,100
+30,45,Car,Mahindra,Bolero,Diesel,1.5,15,150,Moderate traffic,50,Local road,100
+20,30,Car,Mahindra,Bolero,Diesel,1.5,15,150,Light traffic,20,Hill road,100
+40,55,Car,Mahindra,Bolero,Diesel,1.5,15,150,Normal traffic,0,Highway,100
+50,60,Car,Mahindra,Bolero,Diesel,1.5,15,150,Heavy traffic,100,Hill road,100
+30,45,Car,Mahindra,Bolero,Diesel,1.5,15,150,Moderate traffic,50,Highway,100
+20,30,Car,Mahindra,Bolero,Diesel,1.5,15,150,Light traffic,20,Local road,100
+40,55,Car,Mahindra,Bolero,Diesel,1.5,15,150,Normal traffic,0,Hill road,100
+50,60,Car,Mahindra,Bolero,Diesel,1.5,15,150,Heavy traffic,100,Highway,100
+30,45,Car,Mahindra,Bolero,Diesel,1.5,15,150,Moderate traffic,50,Local road,100
+20,30,Car,Mahindra,Bolero,Diesel,1.5,15,150,Light traffic,20,Hill road,100
+40,55,Car,Mahindra,Bolero,Diesel,1.5,15,150,Normal traffic,0,Highway,100
+50,60,Car,Mahindra,Bolero,Diesel,1.5,15,150,Heavy traffic,100,Hill road,100
+30,45,Car,Mahindra,Bolero,Diesel,1.5,15,150,Moderate traffic,50,Highway,100
+20,30,Car,Mahindra,Bolero,Diesel,1.5,15,150,Light traffic,20,Local road,100
+40,55,Car,Mahindra,Bolero,Diesel,1.5,15,150,Normal traffic,0,Hill road,100
+50,60,Car,Mahindra,Bolero,Diesel,1.5,15,150,Heavy traffic,100,Highway,100
+30,45,Car,Mahindra,Bolero,Diesel,1.5,15,150,Moderate traffic,50,Local road,100
+20,30,Car,Mahindra,Bolero,Diesel,1.5,15,150,Light traffic,20,Hill road,100
+40,55,Car,Mahindra,Bolero,Diesel,1.5,15,150,Normal traffic,0,Highway,100
+50,60,Car,Mahindra,Bolero,Diesel,1.5,15,150,Heavy traffic,100,Highway,100
+30,45,Car,Mahindra,Bolero,Diesel,1.5,15,150,Moderate traffic,50,Local road,100
+20,30,Car,Mahindra,Bolero,Diesel,1.5,15,150,Light traffic,20,Hill road,100
+40,55,Car,Mahindra,Bolero,Diesel,1.5,15,150,Normal traffic,0,Highway,100
+50,60,Car,Mahindra,Bolero,Diesel,1.5,15,150,Heavy traffic,100,Hill road,100
+30,45,Car,Mahindra,Bolero,Diesel,1.5,15,150,Moderate traffic,50,Highway,100
+20,30,Car,Mahindra,Bolero,Diesel,1.5,15,150,Light traffic,20,Local road,100
+40,55,Car,Mahindra,Bolero,Diesel,1.5,15,150,Normal traffic,0,Hill road,100
+50,60,Car,Mahindra,Bolero,Diesel,1.5,15,150,Heavy traffic,100,Highway,100
+30,45,Car,Mahindra,Bolero,Diesel,1.5,15,150,Moderate traffic,50,Local road,100
+20,30,Car,Mahindra,Bolero,Diesel,1.5,15,150,Light traffic,20,Hill road,100
+40,55,Car,Mahindra,Bolero,Diesel,1.5,15,150,Normal traffic,0,Highway,100
+50,60,Car,Mahindra,Bolero,Diesel,1.5,15,150,Heavy traffic,100,Hill road,100
+30,45,Car,Mahindra,Bolero,Diesel,1.5,15,150,Moderate traffic,50,Highway,100
+20,30,Car,Mahindra,Bolero,Diesel,1.5,15,150,Light traffic,20,Local road,100
+40,55,Car,Mahindra,Bolero,Diesel,1.5,15,150,Normal traffic,0,Hill road,100
+50,60,Car,Mahindra,Bolero,Diesel,1.5,15,150,Heavy traffic,100,Highway,100
+30,45,Car,Mahindra,Bolero,Diesel,1.5,15,150,Moderate traffic,50,Local road,100
+20,30,Car,Mahindra,Bolero,Diesel,1.5,15,150,Light traffic,20,Hill road,100
+40,55,Car,Mahindra,Bolero,Diesel,1.5,15,150,Normal traffic,0,Highway,100
+50,60,Car,Mahindra,Scorpio,Diesel,2.2,15,145,Heavy traffic,100,Highway,96
+30,45,Car,Mahindra,Scorpio,Diesel,2.2,15,145,Moderate traffic,50,Local road,96
+20,30,Car,Mahindra,Scorpio,Petrol,2,12,170,Light traffic,20,Hill road,128
+40,55,Car,Mahindra,Scorpio,Diesel,2.2,15,145,Normal traffic,0,Highway,96
+50,60,Car,Mahindra,Scorpio,Diesel,2.2,15,145,Heavy traffic,100,Hill road,96
+30,45,Car,Mahindra,Scorpio,Diesel,2.2,15,145,Moderate traffic,50,Highway,96
+20,30,Car,Mahindra,Scorpio,Petrol,2,12,170,Light traffic,20,Local road,128
+40,55,Car,Mahindra,Scorpio,Diesel,2.2,15,145,Normal traffic,0,Hill road,96
+50,60,Car,Mahindra,Scorpio,Diesel,2.2,15,145,Heavy traffic,100,Highway,96
+30,45,Car,Mahindra,Scorpio,Diesel,2.2,15,145,Moderate traffic,50,Local road,96
+20,30,Car,Mahindra,Scorpio,Petrol,2,12,170,Light traffic,20,Hill road,128
+40,55,Car,Mahindra,Scorpio,Diesel,2.2,15,145,Normal traffic,0,Highway,96
+50,60,Car,Mahindra,Scorpio,Diesel,2.2,15,145,Heavy traffic,100,Hill road,96
+30,45,Car,Mahindra,Scorpio,Diesel,2.2,15,145,Moderate traffic,50,Highway,96
+20,30,Car,Mahindra,Scorpio,Petrol,2,12,170,Light traffic,20,Local road,128
+40,55,Car,Mahindra,Scorpio,Diesel,2.2,15,145,Normal traffic,0,Hill road,96
+50,60,Car,Mahindra,Scorpio,Diesel,2.2,15,145,Heavy traffic,100,Highway,96
+30,45,Car,Mahindra,Scorpio,Diesel,2.2,15,145,Moderate traffic,50,Local road,96
+20,30,Car,Mahindra,Scorpio,Petrol,2,12,170,Light traffic,20,Hill road,128
+40,55,Car,Mahindra,Scorpio,Diesel,2.2,15,145,Normal traffic,0,Highway,96
+50,60,Car,Mahindra,Scorpio,Diesel,2.2,15,145,Heavy traffic,100,Hill road,96
+30,45,Car,Mahindra,Scorpio,Diesel,2.2,15,145,Moderate traffic,50,Highway,96
+20,30,Car,Mahindra,Scorpio,Petrol,2,12,170,Light traffic,20,Local road,128
+40,55,Car,Mahindra,Scorpio,Diesel,2.2,15,145,Normal traffic,0,Hill road,96
+50,60,Car,Mahindra,Scorpio,Diesel,2.2,15,145,Heavy traffic,100,Highway,96
+50,60,Car,Mahindra,Marazzo,Diesel,1.5,18,140,Heavy traffic,100,Highway,140
+30,45,Car,Mahindra,Marazzo,Diesel,1.5,18,140,Moderate traffic,50,Local road,140
+20,30,Car,Mahindra,Marazzo,Diesel,1.5,18,140,Light traffic,20,Hill road,140
+40,55,Car,Mahindra,Marazzo,Diesel,1.5,18,140,Normal traffic,0,Highway,140
+50,60,Car,Mahindra,Marazzo,Diesel,1.5,18,140,Heavy traffic,100,Hill road,140
+30,45,Car,Mahindra,Marazzo,Diesel,1.5,18,140,Moderate traffic,50,Highway,140
+20,30,Car,Mahindra,Marazzo,Diesel,1.5,18,140,Light traffic,20,Local road,140
+40,55,Car,Mahindra,Marazzo,Diesel,1.5,18,140,Normal traffic,0,Hill road,140
+50,60,Car,Mahindra,Marazzo,Diesel,1.5,18,140,Heavy traffic,100,Highway,140
+30,45,Car,Mahindra,Marazzo,Diesel,1.5,18,140,Moderate traffic,50,Local road,140
+20,30,Car,Mahindra,Marazzo,Diesel,1.5,18,140,Light traffic,20,Hill road,140
+40,55,Car,Mahindra,Marazzo,Diesel,1.5,18,140,Normal traffic,0,Highway,140
+50,60,Car,Mahindra,Marazzo,Diesel,1.5,18,140,Heavy traffic,100,Hill road,140
+30,45,Car,Mahindra,Marazzo,Diesel,1.5,18,140,Moderate traffic,50,Highway,140
+20,30,Car,Mahindra,Marazzo,Diesel,1.5,18,140,Light traffic,20,Local road,140
+40,55,Car,Mahindra,Marazzo,Diesel,1.5,18,140,Normal traffic,0,Hill road,140
+50,60,Car,Mahindra,Marazzo,Diesel,1.5,18,140,Heavy traffic,100,Highway,140
+30,45,Car,Mahindra,Marazzo,Diesel,1.5,18,140,Moderate traffic,50,Local road,140
+20,30,Car,Mahindra,Marazzo,Diesel,1.5,18,140,Light traffic,20,Hill road,140
+40,55,Car,Mahindra,Marazzo,Diesel,1.5,18,140,Normal traffic,0,Highway,140
+50,60,Car,Mahindra,Marazzo,Diesel,1.5,18,140,Heavy traffic,100,Hill road,140
+30,45,Car,Mahindra,Marazzo,Diesel,1.5,18,140,Moderate traffic,50,Highway,140
+20,30,Car,Mahindra,Marazzo,Diesel,1.5,18,140,Light traffic,20,Local road,140
+40,55,Car,Mahindra,Marazzo,Diesel,1.5,18,140,Normal traffic,0,Hill road,140
+50,60,Car,Mahindra,Marazzo,Diesel,1.5,18,140,Heavy traffic,100,Highway,140
+30,45,Car,Mahindra,Marazzo,Diesel,1.5,18,140,Moderate traffic,50,Local road,140
+50,60,Car,Mahindra,KUV100 NXT,Diesel,1.2,25,95,Heavy traffic,100,Highway,76
+30,45,Car,Mahindra,KUV100 NXT,Petrol,1.2,18,120,Moderate traffic,50,Local road,100
+20,30,Car,Mahindra,KUV100 NXT,Diesel,1.2,25,95,Light traffic,20,Hill road,76
+40,55,Car,Mahindra,KUV100 NXT,Petrol,1.2,18,120,Normal traffic,0,Highway,100
+50,60,Car,Mahindra,KUV100 NXT,Diesel,1.2,25,95,Heavy traffic,100,Hill road,76
+30,45,Car,Mahindra,KUV100 NXT,Petrol,1.2,18,120,Moderate traffic,50,Highway,100
+20,30,Car,Mahindra,KUV100 NXT,Diesel,1.2,25,95,Light traffic,20,Local road,76
+40,55,Car,Mahindra,KUV100 NXT,Petrol,1.2,18,120,Normal traffic,0,Hill road,100
+50,60,Car,Mahindra,KUV100 NXT,Diesel,1.2,25,95,Heavy traffic,100,Highway,76
+30,45,Car,Mahindra,KUV100 NXT,Petrol,1.2,18,120,Moderate traffic,50,Local road,100
+20,30,Car,Mahindra,KUV100 NXT,Diesel,1.2,25,95,Light traffic,20,Hill road,76
+40,55,Car,Mahindra,KUV100 NXT,Petrol,1.2,18,120,Normal traffic,0,Highway,100
+50,60,Car,Mahindra,KUV100 NXT,Diesel,1.2,25,95,Heavy traffic,100,Hill road,76
+30,45,Car,Mahindra,KUV100 NXT,Petrol,1.2,18,120,Moderate traffic,50,Highway,100
+20,30,Car,Mahindra,KUV100 NXT,Diesel,1.2,25,95,Light traffic,20,Local road,76
+40,55,Car,Mahindra,KUV100 NXT,Petrol,1.2,18,120,Normal traffic,0,Hill road,100
+50,60,Car,Mahindra,KUV100 NXT,Diesel,1.2,25,95,Heavy traffic,100,Highway,76
+30,45,Car,Mahindra,KUV100 NXT,Petrol,1.2,18,120,Moderate traffic,50,Local road,100
+20,30,Car,Mahindra,KUV100 NXT,Diesel,1.2,25,95,Light traffic,20,Hill road,76
+40,55,Car,Mahindra,KUV100 NXT,Petrol,1.2,18,120,Normal traffic,0,Highway,100
+50,60,Car,Mahindra,XUV500,Petrol,2,13,195,Heavy traffic,100,Highway,195
+30,45,Car,Mahindra,XUV500,Diesel,2.2,15,160,Moderate traffic,50,Local road,160
+20,30,Car,Mahindra,XUV500,Petrol,2,13,195,Light traffic,20,Hill road,195
+40,55,Car,Mahindra,XUV500,Diesel,2.2,15,160,Normal traffic,0,Highway,160
+50,60,Car,Mahindra,XUV500,Petrol,2,13,195,Heavy traffic,100,Hill road,195
+30,45,Car,Mahindra,XUV500,Diesel,2.2,15,160,Moderate traffic,50,Highway,160
+20,30,Car,Mahindra,XUV500,Petrol,2,13,195,Light traffic,20,Local road,195
+40,55,Car,Mahindra,XUV500,Diesel,2.2,15,160,Normal traffic,0,Hill road,160
+50,60,Car,Mahindra,XUV500,Petrol,2,13,195,Heavy traffic,100,Highway,195
+30,45,Car,Mahindra,XUV500,Diesel,2.2,15,160,Moderate traffic,50,Local road,160
+20,30,Car,Mahindra,XUV500,Petrol,2,13,195,Light traffic,20,Hill road,195
+40,55,Car,Mahindra,XUV500,Diesel,2.2,15,160,Normal traffic,0,Highway,160
+50,60,Car,Mahindra,XUV500,Petrol,2,13,195,Heavy traffic,100,Hill road,195
+30,45,Car,Mahindra,XUV500,Diesel,2.2,15,160,Moderate traffic,50,Highway,160
+20,30,Car,Mahindra,XUV500,Petrol,2,13,195,Light traffic,20,Local road,195
+40,55,Car,Mahindra,XUV500,Diesel,2.2,15,160,Normal traffic,0,Hill road,160
+50,60,Car,Mahindra,XUV500,Petrol,2,13,195,Heavy traffic,100,Highway,195
+30,45,Car,Mahindra,XUV500,Diesel,2.2,15,160,Moderate traffic,50,Local road,160
+20,30,Car,Mahindra,XUV500,Petrol,2,13,195,Light traffic,20,Hill road,195
+40,55,Car,Mahindra,XUV500,Diesel,2.2,15,160,Normal traffic,0,Highway,160
+50,60,Car,Mahindra,XUV500,Petrol,2,13,195,Heavy traffic,100,Hill road,195
+30,45,Car,Mahindra,XUV500,Diesel,2.2,15,160,Moderate traffic,50,Highway,160
+20,30,Car,Mahindra,XUV500,Petrol,2,13,195,Light traffic,20,Local road,195
+40,55,Car,Mahindra,XUV500,Diesel,2.2,15,160,Normal traffic,0,Hill road,160
+50,60,Car,Mahindra,XUV500,Petrol,2,13,195,Heavy traffic,100,Highway,195
+30,45,Car,Mahindra,XUV500,Diesel,2.2,15,160,Moderate traffic,50,Local road,160
+50,60,Car,Mahindra,TUV300,Petrol,1.2,13,195,Heavy traffic,100,Highway,195
+30,45,Car,Mahindra,TUV300,Diesel,1.5,16,150,Moderate traffic,50,Local road,150
+20,30,Car,Mahindra,TUV300,Petrol,1.2,13,195,Light traffic,20,Hill road,195
+40,55,Car,Mahindra,TUV300,Diesel,1.5,16,150,Normal traffic,0,Highway,150
+50,60,Car,Mahindra,TUV300,Petrol,1.2,13,195,Heavy traffic,100,Hill road,195
+30,45,Car,Mahindra,TUV300,Diesel,1.5,16,150,Moderate traffic,50,Highway,150
+20,30,Car,Mahindra,TUV300,Petrol,1.2,13,195,Light traffic,20,Local road,195
+40,55,Car,Mahindra,TUV300,Diesel,1.5,16,150,Normal traffic,0,Hill road,150
+50,60,Car,Mahindra,TUV300,Petrol,1.2,13,195,Heavy traffic,100,Highway,195
+30,45,Car,Mahindra,TUV300,Diesel,1.5,16,150,Moderate traffic,50,Local road,150
+20,30,Car,Mahindra,TUV300,Petrol,1.2,13,195,Light traffic,20,Hill road,195
+40,55,Car,Mahindra,TUV300,Diesel,1.5,16,150,Normal traffic,0,Highway,150
+50,60,Car,Mahindra,TUV300,Petrol,1.2,13,195,Heavy traffic,100,Hill road,195
+30,45,Car,Mahindra,TUV300,Diesel,1.5,16,150,Moderate traffic,50,Highway,150
+20,30,Car,Mahindra,TUV300,Petrol,1.2,13,195,Light traffic,20,Local road,195
+40,55,Car,Mahindra,TUV300,Diesel,1.5,16,150,Normal traffic,0,Hill road,150
+50,60,Car,Mahindra,TUV300,Petrol,1.2,13,195,Heavy traffic,100,Highway,195
+30,45,Car,Mahindra,TUV300,Diesel,1.5,16,150,Moderate traffic,50,Local road,150
+20,30,Car,Mahindra,TUV300,Petrol,1.2,13,195,Light traffic,20,Hill road,195
+40,55,Car,Mahindra,TUV300,Diesel,1.5,16,150,Normal traffic,0,Highway,150
+50,60,Car,Mahindra,TUV300,Petrol,1.2,13,195,Heavy traffic,100,Hill road,195
+30,45,Car,Mahindra,TUV300,Diesel,1.5,16,150,Moderate traffic,50,Highway,150
+20,30,Car,Mahindra,TUV300,Petrol,1.2,13,195,Light traffic,20,Local road,195
+40,55,Car,Mahindra,TUV300,Diesel,1.5,16,150,Normal traffic,0,Hill road,150
+50,60,Car,Mahindra,TUV300,Petrol,1.2,13,195,Heavy traffic,100,Highway,195
+30,45,Car,Mahindra,TUV300,Diesel,1.5,16,150,Moderate traffic,50,Local road,150
+50,60,Car,Mahindra,Alturas G4,Diesel,2.2,12,210,Heavy traffic,100,Highway,210
+30,45,Car,Mahindra,Alturas G4,Diesel,2.2,12,210,Moderate traffic,50,Local road,210
+20,30,Car,Mahindra,Alturas G4,Diesel,2.2,12,210,Light traffic,20,Hill road,210
+40,55,Car,Mahindra,Alturas G4,Diesel,2.2,12,210,Normal traffic,0,Highway,210
+50,60,Car,Mahindra,Alturas G4,Diesel,2.2,12,210,Heavy traffic,100,Hill road,210
+30,45,Car,Mahindra,Alturas G4,Diesel,2.2,12,210,Moderate traffic,50,Highway,210
+20,30,Car,Mahindra,Alturas G4,Diesel,2.2,12,210,Light traffic,20,Local road,210
+40,55,Car,Mahindra,Alturas G4,Diesel,2.2,12,210,Normal traffic,0,Hill road,210
+50,60,Car,Mahindra,Alturas G4,Diesel,2.2,12,210,Heavy traffic,100,Highway,210
+30,45,Car,Mahindra,Alturas G4,Diesel,2.2,12,210,Moderate traffic,50,Local road,210
+20,30,Car,Mahindra,Alturas G4,Diesel,2.2,12,210,Light traffic,20,Hill road,210
+40,55,Car,Mahindra,Alturas G4,Diesel,2.2,12,210,Normal traffic,0,Highway,210
+50,60,Car,Mahindra,Alturas G4,Diesel,2.2,12,210,Heavy traffic,100,Hill road,210
+30,45,Car,Mahindra,Alturas G4,Diesel,2.2,12,210,Moderate traffic,50,Highway,210
+20,30,Car,Mahindra,Alturas G4,Diesel,2.2,12,210,Light traffic,20,Local road,210
+40,55,Car,Mahindra,Alturas G4,Diesel,2.2,12,210,Normal traffic,0,Hill road,210
+50,60,Car,Mahindra,Alturas G4,Diesel,2.2,12,210,Heavy traffic,100,Highway,210
+30,45,Car,Mahindra,Alturas G4,Diesel,2.2,12,210,Moderate traffic,50,Local road,210
+20,30,Car,Mahindra,Alturas G4,Diesel,2.2,12,210,Light traffic,20,Hill road,210
+40,55,Car,Mahindra,Alturas G4,Diesel,2.2,12,210,Normal traffic,0,Highway,210
+50,60,Car,Mahindra,Alturas G4,Diesel,2.2,12,210,Heavy traffic,100,Hill road,210
+30,45,Car,Mahindra,Alturas G4,Diesel,2.2,12,210,Moderate traffic,50,Highway,210
+20,30,Car,Mahindra,Alturas G4,Diesel,2.2,12,210,Light traffic,20,Local road,210
+40,55,Car,Mahindra,Alturas G4,Diesel,2.2,12,210,Normal traffic,0,Hill road,210
+50,60,Car,Mahindra,Alturas G4,Diesel,2.2,12,210,Heavy traffic,100,Highway,210
+50,60,Car,Mahindra,e2oPlus,Electric,Electric,5,0,Heavy traffic,100,Highway,0
+30,45,Car,Mahindra,e2oPlus,Electric,Electric,5,0,Moderate traffic,50,Local road,0
+20,30,Car,Mahindra,e2oPlus,Electric,Electric,5,0,Light traffic,20,Hill road,0
+40,55,Car,Mahindra,e2oPlus,Electric,Electric,5,0,Normal traffic,0,Highway,0
+50,60,Car,Mahindra,e2oPlus,Electric,Electric,5,0,Heavy traffic,100,Hill road,0
+30,45,Car,Mahindra,e2oPlus,Electric,Electric,5,0,Moderate traffic,50,Highway,0
+20,30,Car,Mahindra,e2oPlus,Electric,Electric,5,0,Light traffic,20,Local road,0
+40,55,Car,Mahindra,e2oPlus,Electric,Electric,5,0,Normal traffic,0,Hill road,0
+50,60,Car,Mahindra,e2oPlus,Electric,Electric,5,0,Heavy traffic,100,Highway,0
+30,45,Car,Mahindra,e2oPlus,Electric,Electric,5,0,Moderate traffic,50,Local road,0
+20,30,Car,Mahindra,e2oPlus,Electric,Electric,5,0,Light traffic,20,Hill road,0
+40,55,Car,Mahindra,e2oPlus,Electric,Electric,5,0,Normal traffic,0,Highway,0
+50,60,Car,Mahindra,e2oPlus,Electric,Electric,5,0,Heavy traffic,100,Hill road,0
+30,45,Car,Mahindra,e2oPlus,Electric,Electric,5,0,Moderate traffic,50,Highway,0
+20,30,Car,Mahindra,e2oPlus,Electric,Electric,5,0,Light traffic,20,Local road,0
+40,55,Car,Mahindra,e2oPlus,Electric,Electric,5,0,Normal traffic,0,Hill road,0
+50,60,Car,Mahindra,e2oPlus,Electric,Electric,5,0,Heavy traffic,100,Highway,0
+30,45,Car,Mahindra,e2oPlus,Electric,Electric,5,0,Moderate traffic,50,Local road,0
+20,30,Car,Mahindra,e2oPlus,Electric,Electric,5,0,Light traffic,20,Hill road,0
+40,55,Car,Mahindra,e2oPlus,Electric,Electric,5,0,Normal traffic,0,Highway,0
+50,60,Car,Mahindra,e2oPlus,Electric,Electric,5,0,Heavy traffic,100,Hill road,0
+30,45,Car,Mahindra,e2oPlus,Electric,Electric,5,0,Moderate traffic,50,Highway,0
+20,30,Car,Mahindra,e2oPlus,Electric,Electric,5,0,Light traffic,20,Local road,0
+40,55,Car,Mahindra,e2oPlus,Electric,Electric,5,0,Normal traffic,0,Hill road,0
+50,60,Car,Mahindra,e2oPlus,Electric,Electric,5,0,Heavy traffic,100,Highway,0
+30,45,Car,Mahindra,e2oPlus,Electric,Electric,5,0,Moderate traffic,50,Local road,0
+50,60,Car,Honda,Jazz,Petrol,1.2,18,120,Heavy traffic,100,Highway,100
+30,45,Car,Honda,Jazz,Petrol,1.2,18,120,Moderate traffic,50,Local road,100
+20,30,Car,Honda,Jazz,Diesel,1.5,25,95,Light traffic,20,Hill road,76
+40,55,Car,Honda,Jazz,Diesel,1.5,25,95,Normal traffic,0,Highway,76
+50,60,Car,Honda,Jazz,Petrol,1.2,18,120,Heavy traffic,100,Hill road,100
+30,45,Car,Honda,Jazz,Petrol,1.2,18,120,Moderate traffic,50,Highway,100
+20,30,Car,Honda,Jazz,Diesel,1.5,25,95,Light traffic,20,Local road,76
+40,55,Car,Honda,Jazz,Diesel,1.5,25,95,Normal traffic,0,Hill road,76
+50,60,Car,Honda,Jazz,Petrol,1.2,18,120,Heavy traffic,100,Highway,100
+30,45,Car,Honda,Jazz,Petrol,1.2,18,120,Moderate traffic,50,Local road,100
+20,30,Car,Honda,Jazz,Diesel,1.5,25,95,Light traffic,20,Hill road,76
+40,55,Car,Honda,Jazz,Diesel,1.5,25,95,Normal traffic,0,Highway,76
+50,60,Car,Honda,Jazz,Petrol,1.2,18,120,Heavy traffic,100,Hill road,100
+30,45,Car,Honda,Jazz,Petrol,1.2,18,120,Moderate traffic,50,Highway,100
+20,30,Car,Honda,Jazz,Diesel,1.5,25,95,Light traffic,20,Local road,76
+40,55,Car,Honda,Jazz,Diesel,1.5,25,95,Normal traffic,0,Hill road,76
+50,60,Car,Honda,Jazz,Petrol,1.2,18,120,Heavy traffic,100,Highway,100
+30,45,Car,Honda,Jazz,Petrol,1.2,18,120,Moderate traffic,50,Local road,100
+20,30,Car,Honda,Jazz,Diesel,1.5,25,95,Light traffic,20,Hill road,76
+50,60,Car,Honda,Amaze,Petrol,1.2L i-VTEC,19,120,Heavy traffic,100,Highway,120
+30,45,Car,Honda,Amaze,Diesel,1.5L i-DTEC,24,100,Moderate traffic,50,Local road,100
+20,30,Car,Honda,Amaze,Petrol,1.2L i-VTEC,19,120,Light traffic,20,Hill road,120
+40,55,Car,Honda,Amaze,Diesel,1.5L i-DTEC,24,100,Normal traffic,0,Highway,100
+50,60,Car,Honda,Amaze,Petrol,1.2L i-VTEC,19,120,Heavy traffic,100,Hill road,120
+30,45,Car,Honda,Amaze,Diesel,1.5L i-DTEC,24,100,Moderate traffic,50,Highway,100
+20,30,Car,Honda,Amaze,Petrol,1.2L i-VTEC,19,120,Light traffic,20,Local road,120
+40,55,Car,Honda,Amaze,Diesel,1.5L i-DTEC,24,100,Normal traffic,0,Hill road,100
+50,60,Car,Honda,Amaze,Petrol,1.2L i-VTEC,19,120,Heavy traffic,100,Highway,120
+30,45,Car,Honda,Amaze,Diesel,1.5L i-DTEC,24,100,Moderate traffic,50,Local road,100
+20,30,Car,Honda,Amaze,Petrol,1.2L i-VTEC,19,120,Light traffic,20,Hill road,120
+40,55,Car,Honda,Amaze,Diesel,1.5L i-DTEC,24,100,Normal traffic,0,Highway,100
+50,60,Car,Honda,Amaze,Petrol,1.2L i-VTEC,19,120,Heavy traffic,100,Hill road,120
+30,45,Car,Honda,Amaze,Diesel,1.5L i-DTEC,24,100,Moderate traffic,50,Highway,100
+20,30,Car,Honda,Amaze,Petrol,1.2L i-VTEC,19,120,Light traffic,20,Local road,120
+40,55,Car,Honda,Amaze,Diesel,1.5L i-DTEC,24,100,Normal traffic,0,Hill road,100
+50,60,Car,Honda,Amaze,Petrol,1.2L i-VTEC,19,120,Heavy traffic,100,Highway,120
+30,45,Car,Honda,Amaze,Diesel,1.5L i-DTEC,24,100,Moderate traffic,50,Local road,100
+20,30,Car,Honda,Amaze,Petrol,1.2L i-VTEC,19,120,Light traffic,20,Hill road,120
+40,55,Car,Honda,Amaze,Diesel,1.5L i-DTEC,24,100,Normal traffic,0,Highway,100
+50,60,Car,Honda,Amaze,Petrol,1.2L i-VTEC,19,120,Heavy traffic,100,Hill road,120
+30,45,Car,Honda,Amaze,Diesel,1.5L i-DTEC,24,100,Moderate traffic,50,Highway,100
+20,30,Car,Honda,Amaze,Petrol,1.2L i-VTEC,19,120,Light traffic,20,Local road,120
+40,55,Car,Honda,Amaze,Diesel,1.5L i-DTEC,24,100,Normal traffic,0,Hill road,100
+50,60,Car,Honda,City,Petrol,1.5L,18,120,Heavy traffic,100,Highway,120
+30,45,Car,Honda,City,Diesel,1.5L,24,90,Moderate traffic,50,Local road,90
+20,30,Car,Honda,City,Petrol,1.5L,18,120,Light traffic,20,Hill road,120
+40,55,Car,Honda,City,Diesel,1.5L,24,90,Normal traffic,0,Highway,90
+50,60,Car,Honda,City,Petrol,1.5L,18,120,Heavy traffic,100,Hill road,120
+30,45,Car,Honda,City,Diesel,1.5L,24,90,Moderate traffic,50,Highway,90
+20,30,Car,Honda,City,Petrol,1.5L,18,120,Light traffic,20,Local road,120
+40,55,Car,Honda,City,Diesel,1.5L,24,90,Normal traffic,0,Hill road,90
+50,60,Car,Honda,City,Petrol,1.5L,18,120,Heavy traffic,100,Highway,120
+30,45,Car,Honda,City,Diesel,1.5L,24,90,Moderate traffic,50,Local road,90
+20,30,Car,Honda,City,Petrol,1.5L,18,120,Light traffic,20,Hill road,120
+40,55,Car,Honda,City,Diesel,1.5L,24,90,Normal traffic,0,Highway,90
+50,60,Car,Honda,City,Petrol,1.5L,18,120,Heavy traffic,100,Hill road,120
+30,45,Car,Honda,City,Diesel,1.5L,24,90,Moderate traffic,50,Highway,90
+20,30,Car,Honda,City,Petrol,1.5L,18,120,Light traffic,20,Local road,120
+40,55,Car,Honda,City,Diesel,1.5L,24,90,Normal traffic,0,Hill road,90
+50,60,Car,Honda,City,Petrol,1.5L,18,120,Heavy traffic,100,Highway,120
+30,45,Car,Honda,City,Diesel,1.5L,24,90,Moderate traffic,50,Local road,90
+20,30,Car,Honda,City,Petrol,1.5L,18,120,Light traffic,20,Hill road,120
+40,55,Car,Honda,City,Diesel,1.5L,24,90,Normal traffic,0,Highway,90
+50,60,Car,Honda,City,Petrol,1.5L,18,120,Heavy traffic,100,Hill road,120
+30,45,Car,Honda,City,Diesel,1.5L,24,90,Moderate traffic,50,Highway,90
+20,30,Car,Honda,City,Petrol,1.5L,18,120,Light traffic,20,Local road,120
+40,55,Car,Honda,City,Diesel,1.5L,24,90,Normal traffic,0,Hill road,90
+50,60,Car,Honda,City,Petrol,1.5L,18,120,Heavy traffic,100,Highway,120
+30,45,Car,Honda,City,Diesel,1.5L,24,90,Moderate traffic,50,Local road,90
+50,60,Car,Honda,WR-V,Petrol,1.2,18,120,Heavy traffic,100,Highway,100
+30,45,Car,Honda,WR-V,Diesel,1.5,25,95,Moderate traffic,50,Local road,76
+20,30,Car,Honda,WR-V,Diesel,1.5,25,95,Light traffic,20,Hill road,76
+40,55,Car,Honda,WR-V,Petrol,1.2,18,120,Normal traffic,0,Highway,100
+50,60,Car,Honda,WR-V,Petrol,1.2,18,120,Heavy traffic,100,Hill road,100
+30,45,Car,Honda,WR-V,Diesel,1.5,25,95,Moderate traffic,50,Highway,76
+20,30,Car,Honda,WR-V,Diesel,1.5,25,95,Light traffic,20,Local road,76
+40,55,Car,Honda,WR-V,Petrol,1.2,18,120,Normal traffic,0,Hill road,100
+50,60,Car,Honda,WR-V,Petrol,1.2,18,120,Heavy traffic,100,Highway,100
+30,45,Car,Honda,WR-V,Diesel,1.5,25,95,Moderate traffic,50,Local road,76
+20,30,Car,Honda,WR-V,Diesel,1.5,25,95,Light traffic,20,Hill road,76
+40,55,Car,Honda,WR-V,Petrol,1.2,18,120,Normal traffic,0,Highway,100
+50,60,Car,Honda,WR-V,Petrol,1.2,18,120,Heavy traffic,100,Hill road,100
+30,45,Car,Honda,WR-V,Diesel,1.5,25,95,Moderate traffic,50,Highway,76
+20,30,Car,Honda,WR-V,Diesel,1.5,25,95,Light traffic,20,Local road,76
+40,55,Car,Honda,WR-V,Petrol,1.2,18,120,Normal traffic,0,Hill road,100
+50,60,Car,Honda,WR-V,Petrol,1.2,18,120,Heavy traffic,100,Highway,100
+30,45,Car,Honda,WR-V,Diesel,1.5,25,95,Moderate traffic,50,Local road,76
+20,30,Car,Honda,WR-V,Diesel,1.5,25,95,Light traffic,20,Hill road,76
+50,60,Car,Honda,CR-V,Petrol,2,14,155,Heavy traffic,100,Highway,108
+30,45,Car,Honda,CR-V,Diesel,1.6,18,120,Moderate traffic,50,Local road,100
+20,30,Car,Honda,CR-V,Petrol,2,14,155,Light traffic,20,Hill road,108
+40,55,Car,Honda,CR-V,Diesel,1.6,18,120,Normal traffic,0,Highway,100
+50,60,Car,Honda,CR-V,Petrol,2,14,155,Heavy traffic,100,Hill road,108
+30,45,Car,Honda,CR-V,Diesel,1.6,18,120,Moderate traffic,50,Highway,100
+20,30,Car,Honda,CR-V,Petrol,2,14,155,Light traffic,20,Local road,108
+40,55,Car,Honda,CR-V,Diesel,1.6,18,120,Normal traffic,0,Hill road,100
+50,60,Car,Honda,CR-V,Petrol,2,14,155,Heavy traffic,100,Highway,108
+30,45,Car,Honda,CR-V,Diesel,1.6,18,120,Moderate traffic,50,Local road,100
+20,30,Car,Honda,CR-V,Petrol,2,14,155,Light traffic,20,Hill road,108
+40,55,Car,Honda,CR-V,Diesel,1.6,18,120,Normal traffic,0,Highway,100
+50,60,Car,Honda,CR-V,Petrol,2,14,155,Heavy traffic,100,Hill road,108
+30,45,Car,Honda,CR-V,Diesel,1.6,18,120,Moderate traffic,50,Highway,100
+20,30,Car,Honda,CR-V,Petrol,2,14,155,Light traffic,20,Local road,108
+40,55,Car,Honda,CR-V,Diesel,1.6,18,120,Normal traffic,0,Hill road,100
+50,60,Car,Honda,CR-V,Petrol,2,14,155,Heavy traffic,100,Highway,108
+30,45,Car,Honda,CR-V,Diesel,1.6,18,120,Moderate traffic,50,Local road,100
+20,30,Car,Honda,CR-V,Petrol,2,14,155,Light traffic,20,Hill road,108
+50,60,Car,Honda,Accord Hybrid,Hybrid,2,20,90,Heavy traffic,100,Highway,75
+30,45,Car,Honda,Accord Hybrid,Hybrid,2,22,85,Moderate traffic,50,Local road,70
+20,30,Car,Honda,Accord Hybrid,Hybrid,2,25,80,Light traffic,20,Hill road,65
+40,55,Car,Honda,Accord Hybrid,Hybrid,2,18,95,Normal traffic,0,Highway,80
+50,60,Car,Honda,Accord Hybrid,Hybrid,2,20,90,Heavy traffic,100,Hill road,75
+30,45,Car,Honda,Accord Hybrid,Hybrid,2,22,85,Moderate traffic,50,Highway,70
+20,30,Car,Honda,Accord Hybrid,Hybrid,2,25,80,Light traffic,20,Local road,65
+40,55,Car,Honda,Accord Hybrid,Hybrid,2,18,95,Normal traffic,0,Hill road,80
+50,60,Car,Honda,Accord Hybrid,Hybrid,2,20,90,Heavy traffic,100,Highway,75
+30,45,Car,Honda,Accord Hybrid,Hybrid,2,22,85,Moderate traffic,50,Local road,70
+20,30,Car,Honda,Accord Hybrid,Hybrid,2,25,80,Light traffic,20,Hill road,65
+40,55,Car,Honda,Accord Hybrid,Hybrid,2,18,95,Normal traffic,0,Highway,80
+50,60,Car,Honda,Accord Hybrid,Hybrid,2,20,90,Heavy traffic,100,Hill road,75
+30,45,Car,Honda,Accord Hybrid,Hybrid,2,22,85,Moderate traffic,50,Highway,70
+20,30,Car,Honda,Accord Hybrid,Hybrid,2,25,80,Light traffic,20,Local road,65
+50,60,Car,Honda,WR-V,Petrol,1.2,18,120,Heavy traffic,100,Highway,100
+30,45,Car,Honda,WR-V,Diesel,1.5,25,95,Moderate traffic,50,Local road,76
+20,30,Car,Honda,WR-V,Diesel,1.5,25,95,Light traffic,20,Hill road,76
+40,55,Car,Honda,WR-V,Petrol,1.2,18,120,Normal traffic,0,Highway,100
+50,60,Car,Honda,WR-V,Petrol,1.2,18,120,Heavy traffic,100,Hill road,100
+30,45,Car,Honda,WR-V,Diesel,1.5,25,95,Moderate traffic,50,Highway,76
+20,30,Car,Honda,WR-V,Diesel,1.5,25,95,Light traffic,20,Local road,76
+40,55,Car,Honda,WR-V,Petrol,1.2,18,120,Normal traffic,0,Hill road,100
+50,60,Car,Honda,WR-V,Petrol,1.2,18,120,Heavy traffic,100,Highway,100
+30,45,Car,Honda,WR-V,Diesel,1.5,25,95,Moderate traffic,50,Local road,76
+20,30,Car,Honda,WR-V,Diesel,1.5,25,95,Light traffic,20,Hill road,76
+40,55,Car,Honda,WR-V,Petrol,1.2,18,120,Normal traffic,0,Highway,100
+50,60,Car,Honda,WR-V,Petrol,1.2,18,120,Heavy traffic,100,Hill road,100
+30,45,Car,Honda,WR-V,Diesel,1.5,25,95,Moderate traffic,50,Highway,76
+20,30,Car,Honda,WR-V,Diesel,1.5,25,95,Light traffic,20,Local road,76
+40,55,Car,Honda,WR-V,Petrol,1.2,18,120,Normal traffic,0,Hill road,100
+50,60,Car,Honda,WR-V,Petrol,1.2,18,120,Heavy traffic,100,Highway,100
+30,45,Car,Honda,WR-V,Diesel,1.5,25,95,Moderate traffic,50,Local road,76
+20,30,Car,Honda,WR-V,Diesel,1.5,25,95,Light traffic,20,Hill road,76
+55,70,Car,Toyota,Camry,Petrol,2.5,14.5,123,Heavy traffic,120,Hill road,83.5
+30,40,Car,Toyota,Camry,Petrol,2,15.2,119,Moderate traffic,50,Local road,78.6
+45,50,Car,Toyota,Camry,Petrol,2.2,14.8,122,Normal traffic,80,Highway,86.6
+35,45,Car,Toyota,Camry,Petrol,2.4,14.6,124,Light traffic,30,Hill road,85.4
+40,55,Car,Toyota,Camry,Petrol,2.3,15.1,121,Normal traffic,70,Highway,79.9
+50,60,Car,Toyota,Camry,Petrol,2.5,14.9,122,Heavy traffic,110,Hill road,81.8
+25,35,Car,Toyota,Camry,Petrol,2.1,15.3,118,Light traffic,40,Local road,77.1
+60,65,Car,Toyota,Camry,Petrol,2.6,14.4,124,Heavy traffic,130,Hill road,88
+55,70,Car,Toyota,Camry,Petrol,2.5,14.5,123,Heavy traffic,120,Hill road,83.5
+30,40,Car,Toyota,Camry,Petrol,2,15.2,119,Moderate traffic,50,Local road,78.6
+45,50,Car,Toyota,Camry,Petrol,2.2,14.8,122,Normal traffic,80,Highway,86.6
+35,45,Car,Toyota,Camry,Petrol,2.4,14.6,124,Light traffic,30,Hill road,85.4
+40,55,Car,Toyota,Camry,Petrol,2.3,15.1,121,Normal traffic,70,Highway,79.9
+50,60,Car,Toyota,Camry,Petrol,2.5,14.9,122,Heavy traffic,110,Hill road,81.8
+25,35,Car,Toyota,Camry,Petrol,2.1,15.3,118,Light traffic,40,Local road,77.1
+60,65,Car,Toyota,Camry,Petrol,2.6,14.4,124,Heavy traffic,130,Hill road,88
+55,70,Car,Toyota,Camry,Petrol,2.5,14.5,123,Heavy traffic,120,Hill road,83.5
+30,40,Car,Toyota,Camry,Petrol,2,15.2,119,Moderate traffic,50,Local road,78.6
+45,50,Car,Toyota,Camry,Petrol,2.2,14.8,122,Normal traffic,80,Highway,86.6
+35,45,Car,Toyota,Camry,Petrol,2.4,14.6,124,Light traffic,30,Hill road,85.4
+40,55,Car,Toyota,Camry,Petrol,2.3,15.1,121,Normal traffic,70,Highway,79.9
+50,60,Car,Toyota,Camry,Petrol,2.5,14.9,122,Heavy traffic,110,Hill road,81.8
+25,35,Car,Toyota,Camry,Petrol,2.1,15.3,118,Light traffic,40,Local road,77.1
+60,65,Car,Toyota,Camry,Petrol,2.6,14.4,124,Heavy traffic,130,Hill road,88
+55,70,Car,Toyota,Camry,Petrol,2.5,14.5,123,Heavy traffic,120,Hill road,83.5
+30,40,Car,Toyota,Camry,Petrol,2,15.2,119,Moderate traffic,50,Local road,78.6
+45,50,Car,Toyota,Camry,Petrol,2.2,14.8,122,Normal traffic,80,Highway,86.6
+35,45,Car,Toyota,Camry,Petrol,2.4,14.6,124,Light traffic,30,Hill road,85.4
+40,55,Car,Toyota,Camry,Petrol,2.3,15.1,121,Normal traffic,70,Highway,79.9
+50,60,Car,Toyota,Camry,Petrol,2.5,14.9,122,Heavy traffic,110,Hill road,81.8
+25,35,Car,Toyota,Camry,Petrol,2.1,15.3,118,Light traffic,40,Local road,77.1
+60,65,Car,Toyota,Camry,Petrol,2.6,14.4,124,Heavy traffic,130,Hill road,88
+45,70,Car,Toyota,Camry,Petrol,2.4,14.7,123,Heavy traffic,100,Hill road,81.6
+55,50,Car,Toyota,Camry,Petrol,2.3,15.2,119,Moderate traffic,70,Local road,77.8
+30,55,Car,Toyota,Camry,Petrol,2.2,14.9,121,Normal traffic,90,Highway,86.2
+35,40,Car,Toyota,Camry,Petrol,2.1,15.4,118,Light traffic,60,Hill road,84.6
+50,60,Bike,Yamaha,RX 100,Petrol,100,40,80,Heavy traffic,150,Hill road,80
+30,45,Bike,Yamaha,RX 100,Petrol,100,45,90,Moderate traffic,100,Local road,60
+20,30,Bike,Yamaha,RX 100,Petrol,100,50,100,Light traffic,50,Hill road,40
+40,55,Bike,Yamaha,RX 100,Petrol,100,42,84,Normal traffic,75,Highway,42.86
+50,60,Bike,Yamaha,RX 100,Petrol,100,40,80,Heavy traffic,150,Hill road,80
+30,45,Bike,Yamaha,RX 100,Petrol,100,45,90,Moderate traffic,100,Local road,60
+20,30,Bike,Yamaha,RX 100,Petrol,100,50,100,Light traffic,50,Hill road,40
+40,55,Bike,Yamaha,RX 100,Petrol,100,42,84,Normal traffic,75,Highway,42.86
+50,60,Bike,Yamaha,RX 100,Petrol,100,40,80,Heavy traffic,150,Hill road,80
+30,45,Bike,Yamaha,RX 100,Petrol,100,45,90,Moderate traffic,100,Local road,60
+20,30,Bike,Yamaha,RX 100,Petrol,100,50,100,Light traffic,50,Hill road,40
+40,55,Bike,Yamaha,RX 100,Petrol,100,42,84,Normal traffic,75,Highway,42.86
+50,60,Bike,Yamaha,RX 100,Petrol,100,40,80,Heavy traffic,150,Hill road,80
+30,45,Bike,Yamaha,RX 100,Petrol,100,45,90,Moderate traffic,100,Local road,60
+20,30,Bike,Yamaha,RX 100,Petrol,100,50,100,Light traffic,50,Hill road,40
+40,55,Bike,Yamaha,RX 100,Petrol,100,42,84,Normal traffic,75,Highway,42.86
+50,60,Bike,Yamaha,RX 100,Petrol,100,40,80,Heavy traffic,150,Hill road,80
+30,45,Bike,Yamaha,RX 100,Petrol,100,45,90,Moderate traffic,100,Local road,60
+20,30,Bike,Yamaha,RX 100,Petrol,100,50,100,Light traffic,50,Hill road,40
+40,55,Bike,Yamaha,RX 100,Petrol,100,42,84,Normal traffic,75,Highway,42.86
+45,50,Bike,Yamaha,FZ,Petrol,149,48,96,Normal traffic,70,Highway,50
+25,35,Bike,Yamaha,FZ,Petrol,149,53,106,Light traffic,40,Hill road,45.28
+35,45,Bike,Yamaha,FZ,Petrol,149,50,100,Moderate traffic,60,Local road,50
+55,65,Bike,Yamaha,FZ,Petrol,149,42,84,Heavy traffic,90,Hill road,71.43
+40,55,Bike,Yamaha,FZ,Petrol,149,47,94,Normal traffic,75,Highway,48.09
+30,40,Bike,Yamaha,FZ,Petrol,149,52,104,Moderate traffic,50,Local road,48.08
+20,25,Bike,Yamaha,FZ,Petrol,149,55,110,Light traffic,20,Hill road,36.36
+50,60,Bike,Yamaha,FZ,Petrol,149,45,90,Heavy traffic,100,Hill road,60
+35,45,Bike,Yamaha,FZ,Petrol,149,50,100,Moderate traffic,60,Local road,50
+25,35,Bike,Yamaha,FZ,Petrol,149,53,106,Light traffic,40,Hill road,45.28
+45,50,Bike,Yamaha,FZ,Petrol,149,48,96,Normal traffic,70,Highway,50
+30,40,Bike,Yamaha,FZ,Petrol,149,52,104,Moderate traffic,50,Local road,48.08
+55,65,Bike,Yamaha,FZ,Petrol,149,42,84,Heavy traffic,90,Hill road,71.43
+20,25,Bike,Yamaha,FZ,Petrol,149,55,110,Light traffic,20,Hill road,36.36
+50,60,Bike,Yamaha,FZ,Petrol,149,45,90,Heavy traffic,100,Hill road,60
+35,45,Bike,Yamaha,FZ,Petrol,149,50,100,Moderate traffic,60,Local road,50
+25,35,Bike,Yamaha,FZ,Petrol,149,53,106,Light traffic,40,Hill road,45.28
+45,50,Bike,Yamaha,FZ,Petrol,149,48,96,Normal traffic,70,Highway,50
+30,40,Bike,Yamaha,FZ,Petrol,149,52,104,Moderate traffic,50,Local road,48.08
+55,65,Bike,Yamaha,FZ,Petrol,149,42,84,Heavy traffic,90,Hill road,71.43
+40,50,Bike,TVS,Apache,Petrol,200,35,120,Heavy traffic,100,Hill road,102.86
+30,40,Bike,TVS,Apache,Petrol,180,40,110,Moderate traffic,50,Local road,72
+35,45,Bike,TVS,Apache,Petrol,160,45,105,Normal traffic,75,Highway,66.67
+45,55,Bike,TVS,Apache,Petrol,200,30,125,Light traffic,25,Hill road,120
+50,60,Bike,TVS,Apache,Petrol,180,38,115,Heavy traffic,80,Highway,85.53
+25,35,Bike,TVS,Apache,Petrol,160,42,100,Moderate traffic,60,Hill road,62.86
+55,65,Bike,TVS,Apache,Petrol,180,28,130,Normal traffic,70,Local road,131.43
+30,45,Bike,TVS,Apache,Petrol,200,32,125,Light traffic,40,Hill road,96
+40,50,Bike,TVS,Apache,Petrol,160,36,118,Moderate traffic,55,Highway,68.18
+35,40,Bike,TVS,Apache,Petrol,180,33,121,Heavy traffic,95,Hill road,109.09
+50,60,Motorcycle,Bajaj,Platina,Petrol,125,60,80,Heavy traffic,100,Highway,40
+30,45,Motorcycle,Bajaj,Platina,Petrol,125,65,75,Moderate traffic,50,Local road,35
+20,30,Motorcycle,Bajaj,Platina,Petrol,125,70,70,Light traffic,20,Hill road,30
+40,55,Motorcycle,Bajaj,Platina,Petrol,125,55,85,Normal traffic,0,Highway,45
+50,60,Motorcycle,Bajaj,Platina,Petrol,125,60,80,Heavy traffic,100,Hill road,40
+30,45,Motorcycle,Bajaj,Platina,Petrol,125,65,75,Moderate traffic,50,Highway,35
+20,30,Motorcycle,Bajaj,Platina,Petrol,125,70,70,Light traffic,20,Local road,30
+40,55,Motorcycle,Bajaj,Platina,Petrol,125,55,85,Normal traffic,0,Hill road,45
+50,60,Motorcycle,Bajaj,Platina,Petrol,125,60,80,Heavy traffic,100,Highway,40
+30,45,Motorcycle,Bajaj,Platina,Petrol,125,65,75,Moderate traffic,50,Local road,35
+20,30,Motorcycle,Bajaj,Platina,Petrol,125,70,70,Light traffic,20,Hill road,30
+40,55,Motorcycle,Bajaj,Platina,Petrol,125,55,85,Normal traffic,0,Highway,45
+50,60,Motorcycle,Bajaj,Platina,Petrol,125,60,80,Heavy traffic,100,Hill road,40
+30,45,Motorcycle,Bajaj,Platina,Petrol,125,65,75,Moderate traffic,50,Highway,35
+20,30,Motorcycle,Bajaj,Platina,Petrol,125,70,70,Light traffic,20,Local road,30
+45,50,Motorcycle,Bajaj,Platina,Petrol,125,57,82,Moderate traffic,80,Hill road,42
+35,40,Motorcycle,Bajaj,Platina,Petrol,125,62,77,Light traffic,40,Local road,38
+25,35,Motorcycle,Bajaj,Platina,Petrol,125,68,72,Normal traffic,10,Highway,35
+55,60,Motorcycle,Bajaj,Platina,Petrol,125,52,87,Heavy traffic,120,Hill road,47
+40,45,Motorcycle,Bajaj,Platina,Petrol,125,60,80,Moderate traffic,70,Local road,40
+30,40,Motorcycle,Bajaj,Platina,Petrol,125,65,75,Light traffic,30,Highway,35
+50,55,Motorcycle,Bajaj,Platina,Petrol,125,55,85,Normal traffic,20,Hill road,45
+45,50,Motorcycle,Bajaj,Platina,Petrol,125,57,82,Moderate traffic,80,Local road,42
+35,40,Motorcycle,Bajaj,Platina,Petrol,125,62,77,Light traffic,40,Highway,38
+25,35,Motorcycle,Bajaj,Platina,Petrol,125,68,72,Normal traffic,10,Hill road,35
+55,60,Motorcycle,Bajaj,Platina,Petrol,125,52,87,Heavy traffic,120,Highway,47
+40,45,Motorcycle,Bajaj,Platina,Petrol,125,60,80,Moderate traffic,70,Hill road,40
+30,40,Motorcycle,Bajaj,Platina,Petrol,125,65,75,Light traffic,30,Local road,35
+50,55,Motorcycle,Bajaj,Platina,Petrol,125,55,85,Normal traffic,20,Highway,45
+45,50,Motorcycle,Bajaj,Platina,Petrol,125,57,82,Moderate traffic,80,Hill road,42
+35,40,Motorcycle,Bajaj,Platina,Petrol,125,62,77,Light traffic,40,Local road,38
+25,35,Motorcycle,Bajaj,Platina,Petrol,125,68,72,Normal traffic,10,Highway,35
+55,60,Motorcycle,Bajaj,Platina,Petrol,125,52,87,Heavy traffic,120,Hill road,47
+40,45,Motorcycle,Bajaj,Platina,Petrol,125,60,80,Moderate traffic,70,Local road,40
+30,40,Motorcycle,Bajaj,Platina,Petrol,125,65,75,Light traffic,30,Highway,35
+35,40,Scooter,Honda,Dio,Petrol,109,55,75,Moderate traffic,40,Local road,45
+20,25,Scooter,Honda,Dio,Petrol,109,60,70,Light traffic,20,Hill road,35
+45,50,Scooter,Honda,Dio,Petrol,109,50,80,Heavy traffic,80,Highway,40
+30,35,Scooter,Honda,Dio,Petrol,109,58,72,Normal traffic,10,Hill road,38
+25,30,Scooter,Honda,Dio,Petrol,109,62,68,Moderate traffic,50,Highway,32
+40,45,Scooter,Honda,Dio,Petrol,109,53,78,Light traffic,30,Local road,47
+35,40,Scooter,Honda,Dio,Petrol,109,55,75,Moderate traffic,40,Hill road,45
+20,25,Scooter,Honda,Dio,Petrol,109,60,70,Light traffic,20,Highway,35
+45,50,Scooter,Honda,Dio,Petrol,109,50,80,Heavy traffic,80,Hill road,40
+30,35,Scooter,Honda,Dio,Petrol,109,58,72,Normal traffic,10,Local road,38
+25,30,Scooter,Honda,Dio,Petrol,109,62,68,Moderate traffic,50,Hill road,32
+40,45,Scooter,Honda,Dio,Petrol,109,53,78,Light traffic,30,Highway,47
+50,55,Scooter,Honda,Dio,Petrol,109,48,82,Heavy traffic,90,Hill road,43
+30,35,Scooter,Honda,Dio,Petrol,109,57,73,Moderate traffic,60,Highway,37
+20,25,Scooter,Honda,Dio,Petrol,109,62,68,Light traffic,30,Local road,32
+45,50,Scooter,Honda,Dio,Petrol,109,52,77,Normal traffic,20,Hill road,38
+35,40,Scooter,Honda,Dio,Petrol,109,55,75,Moderate traffic,40,Highway,45
+25,30,Scooter,Honda,Dio,Petrol,109,60,70,Light traffic,10,Local road,35
+40,45,Scooter,Honda,Dio,Petrol,109,53,78,Normal traffic,50,Hill road,47
+50,55,Scooter,Honda,Dio,Petrol,109,48,82,Heavy traffic,90,Highway,43
+30,35,Scooter,Honda,Dio,Petrol,109,57,73,Moderate traffic,60,Local road,37
+20,25,Scooter,Honda,Dio,Petrol,109,62,68,Light traffic,30,Hill road,32
+45,50,Scooter,Honda,Dio,Petrol,109,52,77,Normal traffic,20,Highway,38
+35,40,Scooter,Honda,Dio,Petrol,109,55,75,Moderate traffic,40,Local road,45
+25,30,Scooter,Honda,Dio,Petrol,109,60,70,Light traffic,10,Hill road,35
+40,45,Scooter,Honda,Dio,Petrol,109,53,78,Normal traffic,50,Highway,47
+10,15,Motorcycle,TVS,XL,Petrol,99,65,85,Light traffic,30,Local road,123.08
+15,20,Motorcycle,TVS,XL,Petrol,99,60,90,Moderate traffic,50,Hill road,133.33
+20,25,Motorcycle,TVS,XL,Petrol,99,55,95,Heavy traffic,100,Highway,144.44
+12,18,Motorcycle,TVS,XL,Petrol,99,63,87,Normal traffic,20,Local road,126.98
+18,22,Motorcycle,TVS,XL,Petrol,99,58,92,Light traffic,40,Hill road,137.93
+22,28,Motorcycle,TVS,XL,Petrol,99,53,97,Moderate traffic,60,Highway,148.94
+14,17,Motorcycle,TVS,XL,Petrol,99,62,88,Heavy traffic,80,Local road,127.42
+16,21,Motorcycle,TVS,XL,Petrol,99,57,93,Normal traffic,70,Hill road,136.44
+24,30,Motorcycle,TVS,XL,Petrol,99,51,99,Light traffic,90,Highway,150
+11,16,Motorcycle,TVS,XL,Petrol,99,64,86,Moderate traffic,10,Local road,125
+17,23,Motorcycle,TVS,XL,Petrol,99,59,91,Heavy traffic,80,Hill road,137.93
+21,27,Motorcycle,TVS,XL,Petrol,99,54,96,Normal traffic,50,Highway,147.06
+13,19,Motorcycle,TVS,XL,Petrol,99,61,89,Light traffic,40,Local road,129.41
+19,24,Motorcycle,TVS,XL,Petrol,99,56,94,Moderate traffic,60,Hill road,138.89
+23,29,Motorcycle,TVS,XL,Petrol,99,50,100,Heavy traffic,90,Highway,151.2
+10,15,Motorcycle,Bajaj,Avenger,Petrol,160,40,175,Light traffic,30,Local road,142.86
+15,20,Motorcycle,Bajaj,Avenger,Petrol,160,35,185,Moderate traffic,50,Hill road,171.43
+20,25,Motorcycle,Bajaj,Avenger,Petrol,160,30,195,Heavy traffic,100,Highway,200
+12,18,Motorcycle,Bajaj,Avenger,Petrol,160,38,180,Normal traffic,20,Local road,157.89
+18,22,Motorcycle,Bajaj,Avenger,Petrol,160,33,190,Light traffic,40,Hill road,181.82
+22,28,Motorcycle,Bajaj,Avenger,Petrol,160,28,200,Moderate traffic,60,Highway,214.29
+14,17,Motorcycle,Bajaj,Avenger,Petrol,160,36,182,Heavy traffic,80,Local road,155.56
+16,21,Motorcycle,Bajaj,Avenger,Petrol,160,31,192,Normal traffic,70,Hill road,180.65
+24,30,Motorcycle,Bajaj,Avenger,Petrol,160,26,202,Light traffic,90,Highway,230.77
+11,16,Motorcycle,Bajaj,Avenger,Petrol,160,39,178,Moderate traffic,10,Local road,150
+17,23,Motorcycle,Bajaj,Avenger,Petrol,160,34,188,Heavy traffic,80,Hill road,176.47
+21,27,Motorcycle,Bajaj,Avenger,Petrol,160,29,198,Normal traffic,50,Highway,206.9
+13,19,Motorcycle,Bajaj,Avenger,Petrol,160,37,184,Light traffic,40,Local road,162.16
+19,24,Motorcycle,Bajaj,Avenger,Petrol,160,32,194,Moderate traffic,60,Hill road,178.12
+23,29,Motorcycle,Bajaj,Avenger,Petrol,160,27,204,Heavy traffic,90,Highway,222.22
+10,15,Motorcycle,Bajaj,Hornet,Petrol,160,40,175,Light traffic,30,Local road,142.86
+15,20,Motorcycle,Bajaj,Hornet,Petrol,160,35,185,Moderate traffic,50,Hill road,171.43
+20,25,Motorcycle,Bajaj,Hornet,Petrol,160,30,195,Heavy traffic,100,Highway,200
+12,18,Motorcycle,Bajaj,Hornet,Petrol,160,38,180,Normal traffic,20,Local road,157.89
+18,22,Motorcycle,Bajaj,Hornet,Petrol,160,33,190,Light traffic,40,Hill road,181.82
+22,28,Motorcycle,Bajaj,Hornet,Petrol,160,28,200,Moderate traffic,60,Highway,214.29
+14,17,Motorcycle,Bajaj,Hornet,Petrol,160,36,182,Heavy traffic,80,Local road,155.56
+16,21,Motorcycle,Bajaj,Hornet,Petrol,160,31,192,Normal traffic,70,Hill road,180.65
+24,30,Motorcycle,Bajaj,Hornet,Petrol,160,26,202,Light traffic,90,Highway,230.77
+11,16,Motorcycle,Bajaj,Hornet,Petrol,160,39,178,Moderate traffic,10,Local road,150
+17,23,Motorcycle,Bajaj,Hornet,Petrol,160,34,188,Heavy traffic,80,Hill road,176.47
+21,27,Motorcycle,Bajaj,Hornet,Petrol,160,29,198,Normal traffic,50,Highway,206.9
+13,19,Motorcycle,Bajaj,Hornet,Petrol,160,37,184,Light traffic,40,Local road,162.16
+19,24,Motorcycle,Bajaj,Hornet,Petrol,160,32,194,Moderate traffic,60,Hill road,178.12
+23,29,Motorcycle,Bajaj,Hornet,Petrol,160,27,204,Heavy traffic,90,Highway,222.22
+10,15,Motorcycle,Bajaj,CT 100,Petrol,102,70,80,Light traffic,30,Local road,114.29
+15,20,Motorcycle,Bajaj,CT 100,Petrol,102,65,85,Moderate traffic,50,Hill road,123.08
+20,25,Motorcycle,Bajaj,CT 100,Petrol,102,60,90,Heavy traffic,100,Highway,133.33
+12,18,Motorcycle,Bajaj,CT 100,Petrol,102,68,82,Normal traffic,20,Local road,117.65
+18,22,Motorcycle,Bajaj,CT 100,Petrol,102,63,87,Light traffic,40,Hill road,126.98
+22,28,Motorcycle,Bajaj,CT 100,Petrol,102,58,92,Moderate traffic,60,Highway,137.93
+14,17,Motorcycle,Bajaj,CT 100,Petrol,102,67,83,Heavy traffic,80,Local road,119.4
+16,21,Motorcycle,Bajaj,CT 100,Petrol,102,64,86,Normal traffic,70,Hill road,125
+24,30,Motorcycle,Bajaj,CT 100,Petrol,102,56,94,Light traffic,90,Highway,142.86
+11,16,Motorcycle,Bajaj,CT 100,Petrol,102,69,81,Moderate traffic,10,Local road,115.94
+17,23,Motorcycle,Bajaj,CT 100,Petrol,102,62,88,Heavy traffic,80,Hill road,127.42
+21,27,Motorcycle,Bajaj,CT 100,Petrol,102,59,91,Normal traffic,50,Highway,136.44
+13,19,Motorcycle,Bajaj,CT 100,Petrol,102,66,84,Light traffic,40,Local road,118.18
+19,24,Motorcycle,Bajaj,CT 100,Petrol,102,61,89,Moderate traffic,60,Hill road,124.59
+23,29,Motorcycle,Bajaj,CT 100,Petrol,102,57,93,Heavy traffic,90,Highway,141.05
+25,32,Motorcycle,Bajaj,CT 100,Petrol,102,55,95,Light traffic,110,Hill road,163.64
+28,35,Motorcycle,Bajaj,CT 100,Petrol,102,52,98,Heavy traffic,120,Local road,188.46
+30,38,Motorcycle,Bajaj,CT 100,Petrol,102,50,100,Moderate traffic,130,Highway,200
+16,20,Motorcycle,Bajaj,CT 100,Petrol,102,63,87,Normal traffic,40,Hill road,126.98
+20,25,Motorcycle,Bajaj,CT 100,Petrol,102,60,90,Light traffic,60,Local road,133.33
+22,28,Motorcycle,Bajaj,CT 100,Petrol,102,58,92,Moderate traffic,70,Highway,137.93
+18,22,Motorcycle,Bajaj,CT 100,Petrol,102,62,88,Heavy traffic,50,Hill road,129.03
+12,15,Motorcycle,Bajaj,CT 100,Petrol,102,75,78,Normal traffic,20,Local road,153.85
+14,18,Motorcycle,Bajaj,CT 100,Petrol,102,71,81,Light traffic,30,Hill road,169.01
+27,34,Motorcycle,Bajaj,CT 100,Petrol,102,53,97,Heavy traffic,80,Highway,188.68
+31,39,Motorcycle,Bajaj,CT 100,Petrol,102,49,101,Moderate traffic,90,Local road,204.08
+19,24,Motorcycle,Bajaj,CT 100,Petrol,102,61,89,Normal traffic,40,Highway,124.59
+23,29,Motorcycle,Bajaj,CT 100,Petrol,102,57,93,Light traffic,50,Hill road,141.05
+29,36,Motorcycle,Bajaj,CT 100,Petrol,102,51,99,Moderate traffic,60,Highway,196.08
+10,15,Motorcycle,Suzuki,Burgman,Petrol,125,40,175,Light traffic,30,Local road,143.75
+15,20,Motorcycle,Suzuki,Burgman,Petrol,125,35,185,Moderate traffic,50,Hill road,171.43
+20,25,Motorcycle,Suzuki,Burgman,Petrol,125,30,195,Heavy traffic,100,Highway,200
+12,18,Motorcycle,Suzuki,Burgman,Petrol,125,38,180,Normal traffic,20,Local road,157.89
+18,22,Motorcycle,Suzuki,Burgman,Petrol,125,33,190,Light traffic,40,Hill road,181.82
+22,28,Motorcycle,Suzuki,Burgman,Petrol,125,28,200,Moderate traffic,60,Highway,214.29
+14,17,Motorcycle,Suzuki,Burgman,Petrol,125,36,182,Heavy traffic,80,Local road,155.56
+16,21,Motorcycle,Suzuki,Burgman,Petrol,125,31,192,Normal traffic,70,Hill road,180.65
+24,30,Motorcycle,Suzuki,Burgman,Petrol,125,26,202,Light traffic,90,Highway,230.77
+11,16,Motorcycle,Suzuki,Burgman,Petrol,125,39,178,Moderate traffic,10,Local road,150
+17,23,Motorcycle,Suzuki,Burgman,Petrol,125,34,188,Heavy traffic,80,Hill road,176.47
+21,27,Motorcycle,Suzuki,Burgman,Petrol,125,29,198,Normal traffic,50,Highway,206.9
+13,19,Motorcycle,Suzuki,Burgman,Petrol,125,37,184,Light traffic,40,Local road,162.16
+19,24,Motorcycle,Suzuki,Burgman,Petrol,125,32,194,Moderate traffic,60,Hill road,178.12
+23,29,Motorcycle,Suzuki,Burgman,Petrol,125,27,204,Heavy traffic,90,Highway,222.22
+25,32,Motorcycle,Suzuki,Burgman,Petrol,125,25,210,Light traffic,110,Highway,288
+16,22,Motorcycle,Suzuki,Burgman,Petrol,125,30,195,Normal traffic,70,Hill road,195
+30,38,Motorcycle,Suzuki,Burgman,Petrol,125,22,227,Moderate traffic,80,Local road,306.82
+18,25,Motorcycle,Suzuki,Burgman,Petrol,125,28,200,Heavy traffic,90,Local road,285.71
+20,27,Motorcycle,Suzuki,Burgman,Petrol,125,26,202,Light traffic,100,Hill road,215.38
+22,30,Motorcycle,Suzuki,Burgman,Petrol,125,24,208,Normal traffic,120,Highway,324
+14,20,Motorcycle,Suzuki,Burgman,Petrol,125,32,194,Moderate traffic,60,Local road,193.55
+28,35,Motorcycle,Suzuki,Burgman,Petrol,125,23,215,Heavy traffic,130,Hill road,313.04
+24,32,Motorcycle,Suzuki,Burgman,Petrol,125,25,210,Light traffic,140,Highway,300
+26,34,Motorcycle,Suzuki,Burgman,Petrol,125,24,208,Normal traffic,150,Hill road,308.33
+10,15,Scooter,Honda,Activa,Petrol,110,50,80,Moderate traffic,50,Local road,60
+15,20,Scooter,Honda,Activa,Petrol,110,48,82,Light traffic,100,Hill road,70
+20,25,Scooter,Honda,Activa,Petrol,110,45,85,Normal traffic,0,Highway,75
+5,10,Scooter,Honda,Activa,Petrol,110,55,75,Heavy traffic,30,Local road,65
+12,18,Scooter,Honda,Activa,Petrol,110,52,78,Moderate traffic,75,Hill road,68
+18,23,Scooter,Honda,Activa,Petrol,110,47,83,Light traffic,200,Highway,80
+8,12,Scooter,Honda,Activa,Petrol,110,60,70,Heavy traffic,40,Local road,75
+14,19,Scooter,Honda,Activa,Petrol,110,53,77,Moderate traffic,90,Hill road,68
+22,28,Scooter,Honda,Activa,Petrol,110,46,82,Light traffic,150,Highway,78
+6,11,Scooter,Honda,Activa,Petrol,110,58,72,Normal traffic,10,Local road,70
+16,21,Scooter,Honda,Activa,Petrol,110,50,80,Heavy traffic,80,Hill road,75
+24,30,Scooter,Honda,Activa,Petrol,110,44,86,Moderate traffic,120,Highway,83
+9,14,Scooter,Honda,Activa,Petrol,110,56,74,Light traffic,60,Local road,68
+17,22,Scooter,Honda,Activa,Petrol,110,49,81,Normal traffic,100,Hill road,77
+26,32,Scooter,Honda,Activa,Petrol,110,42,88,Heavy traffic,180,Highway,90
+7,13,Scooter,Honda,Activa,Petrol,110,54,76,Moderate traffic,70,Local road,72
+19,24,Scooter,Honda,Activa,Petrol,110,48,82,Light traffic,130,Hill road,79
+28,35,Scooter,Honda,Activa,Petrol,110,40,90,Normal traffic,160,Highway,100
+8,15,Scooter,Honda,Activa,Petrol,110,58,72,Heavy traffic,50,Local road,70
+20,27,Scooter,Honda,Activa,Petrol,110,46,82,Moderate traffic,110,Hill road,78
+30,38,Scooter,Honda,Activa,Petrol,110,38,92,Light traffic,180,Highway,94
+10,17,Scooter,Honda,Activa,Petrol,110,52,78,Normal traffic,60,Local road,75
+22,29,Scooter,Honda,Activa,Petrol,110,44,86,Heavy traffic,100,Hill road,83
+32,40,Scooter,Honda,Activa,Petrol,110,36,94,Moderate traffic,140,Highway,97
+12,19,Scooter,Honda,Activa,Petrol,110,50,80,Light traffic,70,Local road,78
+24,31,Scooter,Honda,Activa,Petrol,110,42,88,Normal traffic,120,Hill road,85
+34,42,Scooter,Honda,Activa,Petrol,110,34,96,Heavy traffic,160,Highway,102
+14,21,Scooter,Honda,Activa,Petrol,110,48,82,Moderate traffic,80,Local road,80
+26,33,Scooter,Honda,Activa,Petrol,110,40,90,Light traffic,130,Hill road,88
+36,45,Scooter,Honda,Activa,Petrol,110,32,98,Normal traffic,180,Highway,105
+16,23,Scooter,Honda,Activa,Petrol,110,46,84,Heavy traffic,90,Local road,83
+28,36,Scooter,Honda,Activa,Petrol,110,38,92,Moderate traffic,140,Hill road,90
+38,48,Scooter,Honda,Activa,Petrol,110,30,100,Light traffic,200,Highway,110
+18,25,Scooter,Honda,Activa,Petrol,110,44,86,Normal traffic,100,Local road,88
+30,39,Scooter,Honda,Activa,Petrol,110,36,94,Heavy traffic,160,Hill road,97
+40,50,Scooter,Honda,Activa,Petrol,110,28,102,Moderate traffic,180,Highway,115
+20,27,Scooter,Honda,Activa,Petrol,110,42,88,Light traffic,120,Local road,90
+32,41,Scooter,Honda,Activa,Petrol,110,34,96,Normal traffic,140,Hill road,97
+42,52,Scooter,Honda,Activa,Petrol,110,26,104,Heavy traffic,200,Highway,120
+22,29,Scooter,Honda,Activa,Petrol,110,40,90,Moderate traffic,90,Local road,88
+34,43,Scooter,Honda,Activa,Petrol,110,32,98,Light traffic,130,Hill road,97
+44,54,Scooter,Honda,Activa,Petrol,110,24,106,Normal traffic,180,Highway,125
+24,31,Scooter,Honda,Activa,Petrol,110,38,92,Heavy traffic,100,Local road,90
+36,45,Scooter,Honda,Activa,Petrol,110,30,100,Moderate traffic,140,Hill road,97
+46,57,Scooter,Honda,Activa,Petrol,110,22,108,Light traffic,200,Highway,130
+26,34,Scooter,Honda,Activa,Petrol,110,36,94,Normal traffic,120,Local road,88
+38,47,Scooter,Honda,Activa,Petrol,110,28,102,Heavy traffic,160,Hill road,97
+48,59,Scooter,Honda,Activa,Petrol,110,20,110,Moderate traffic,180,Highway,140
+28,37,Scooter,Honda,Activa,Petrol,110,34,98,Light traffic,140,Local road,97
+40,49,Scooter,Honda,Activa,Petrol,110,26,104,Normal traffic,180,Hill road,97
+50,62,Scooter,Honda,Activa,Petrol,110,18,112,Heavy traffic,200,Highway,150
+50,60,Bike,Hero,Splendor,Petrol,97cc,70,140,Heavy traffic,100,Highway,200
+30,45,Bike,Hero,Splendor,Petrol,97cc,70,140,Moderate traffic,50,Local road,200
+20,30,Bike,Hero,Splendor,Petrol,97cc,70,140,Light traffic,20,Hill road,200
+40,55,Bike,Hero,Splendor,Petrol,97cc,70,140,Normal traffic,0,Highway,200
+50,60,Bike,Hero,Splendor,Petrol,97cc,70,140,Heavy traffic,100,Hill road,200
+30,45,Bike,Hero,Splendor,Petrol,97cc,70,140,Moderate traffic,50,Highway,200
+20,30,Bike,Hero,Splendor,Petrol,97cc,70,140,Light traffic,20,Local road,200
+40,55,Bike,Hero,Splendor,Petrol,97cc,70,140,Normal traffic,0,Hill road,200
+50,60,Bike,Hero,Splendor,Petrol,97cc,70,140,Heavy traffic,100,Highway,200
+30,45,Bike,Hero,Splendor,Petrol,97cc,70,140,Moderate traffic,50,Local road,200
+20,30,Bike,Hero,Splendor,Petrol,97cc,70,140,Light traffic,20,Hill road,200
+40,55,Bike,Hero,Splendor,Petrol,97cc,70,140,Normal traffic,0,Highway,200
+50,60,Bike,Hero,Splendor,Petrol,97cc,70,140,Heavy traffic,100,Hill road,200
+30,45,Bike,Hero,Splendor,Petrol,97cc,70,140,Moderate traffic,50,Highway,200
+20,30,Bike,Hero,Splendor,Petrol,97cc,70,140,Light traffic,20,Local road,200
+40,55,Bike,Hero,Splendor,Petrol,97cc,70,140,Normal traffic,0,Hill road,200
+50,60,Bike,Hero,Splendor,Petrol,97cc,70,140,Heavy traffic,100,Highway,200
+30,45,Bike,Hero,Splendor,Petrol,97cc,70,140,Moderate traffic,50,Local road,200
+20,30,Bike,Hero,Splendor,Petrol,97cc,70,140,Light traffic,20,Hill road,200
+40,55,Bike,Hero,Splendor,Petrol,97cc,70,140,Normal traffic,0,Highway,200
+50,60,Bike,Hero,Splendor,Petrol,97cc,70,140,Heavy traffic,100,Hill road,200
+30,45,Bike,Hero,Splendor,Petrol,97cc,70,140,Moderate traffic,50,Highway,200
+20,30,Bike,Hero,Splendor,Petrol,97cc,70,140,Light traffic,20,Local road,200
+40,55,Bike,Hero,Splendor,Petrol,97cc,70,140,Normal traffic,0,Hill road,200
+50,60,Bike,Hero,Splendor,Petrol,97cc,70,140,Heavy traffic,100,Highway,200
+30,45,Bike,Hero,Splendor,Petrol,97cc,70,140,Moderate traffic,50,Local road,200
+20,30,Bike,Hero,Splendor,Petrol,97cc,70,140,Light traffic,20,Hill road,200
+40,55,Bike,Hero,Splendor,Petrol,97cc,70,140,Normal traffic,0,Highway,200
+10,15,Scooter,TVS,Jupiter,Petrol,110,50,80,Moderate traffic,50,Local road,60
+15,20,Scooter,TVS,Jupiter,Petrol,110,48,82,Light traffic,100,Hill road,70
+20,25,Scooter,TVS,Jupiter,Petrol,110,45,85,Normal traffic,0,Highway,75
+5,10,Scooter,TVS,Jupiter,Petrol,110,55,75,Heavy traffic,30,Local road,65
+12,18,Scooter,TVS,Jupiter,Petrol,110,52,78,Moderate traffic,75,Hill road,68
+18,23,Scooter,TVS,Jupiter,Petrol,110,47,83,Light traffic,200,Highway,80
+8,12,Scooter,TVS,Jupiter,Petrol,110,60,70,Heavy traffic,40,Local road,75
+14,19,Scooter,TVS,Jupiter,Petrol,110,53,77,Moderate traffic,90,Hill road,68
+22,28,Scooter,TVS,Jupiter,Petrol,110,46,82,Light traffic,150,Highway,78
+6,11,Scooter,TVS,Jupiter,Petrol,110,58,72,Normal traffic,10,Local road,70
+16,21,Scooter,TVS,Jupiter,Petrol,110,50,80,Heavy traffic,80,Hill road,75
+24,30,Scooter,TVS,Jupiter,Petrol,110,44,86,Moderate traffic,120,Highway,83
+9,14,Scooter,TVS,Jupiter,Petrol,110,56,74,Light traffic,60,Local road,68
+17,22,Scooter,TVS,Jupiter,Petrol,110,49,81,Normal traffic,100,Hill road,77
+26,32,Scooter,TVS,Jupiter,Petrol,110,42,88,Heavy traffic,180,Highway,90
+7,13,Scooter,TVS,Jupiter,Petrol,110,54,76,Moderate traffic,70,Local road,72
+19,24,Scooter,TVS,Jupiter,Petrol,110,48,82,Light traffic,130,Hill road,79
+28,35,Scooter,TVS,Jupiter,Petrol,110,40,90,Normal traffic,160,Highway,100
+8,15,Scooter,TVS,Jupiter,Petrol,110,58,72,Heavy traffic,50,Local road,70
+20,27,Scooter,TVS,Jupiter,Petrol,110,46,82,Moderate traffic,110,Hill road,78
+30,38,Scooter,TVS,Jupiter,Petrol,110,38,92,Light traffic,180,Highway,94
+10,17,Scooter,TVS,Jupiter,Petrol,110,52,78,Normal traffic,60,Local road,75
+22,29,Scooter,TVS,Jupiter,Petrol,110,44,86,Heavy traffic,100,Hill road,83
+32,40,Scooter,TVS,Jupiter,Petrol,110,36,94,Moderate traffic,140,Highway,97
+12,19,Scooter,TVS,Jupiter,Petrol,110,50,80,Light traffic,70,Local road,78
+24,31,Scooter,TVS,Jupiter,Petrol,110,42,88,Normal traffic,120,Hill road,85
+34,42,Scooter,TVS,Jupiter,Petrol,110,34,96,Heavy traffic,160,Highway,102
+14,21,Scooter,TVS,Jupiter,Petrol,110,48,82,Moderate traffic,80,Local road,80
+26,33,Scooter,TVS,Jupiter,Petrol,110,40,90,Light traffic,130,Hill road,88
+36,45,Scooter,TVS,Jupiter,Petrol,110,32,98,Normal traffic,180,Highway,105
+16,23,Scooter,TVS,Jupiter,Petrol,110,46,84,Heavy traffic,90,Local road,83
+28,36,Scooter,TVS,Jupiter,Petrol,110,38,92,Moderate traffic,140,Hill road,90
+38,48,Scooter,TVS,Jupiter,Petrol,110,30,100,Light traffic,200,Highway,110
+18,25,Scooter,TVS,Jupiter,Petrol,110,44,86,Normal traffic,100,Local road,88
+30,39,Scooter,TVS,Jupiter,Petrol,110,36,94,Heavy traffic,160,Hill road,97
+40,50,Scooter,TVS,Jupiter,Petrol,110,28,102,Moderate traffic,180,Highway,115
+20,27,Scooter,TVS,Jupiter,Petrol,110,42,88,Light traffic,120,Local road,90
+32,41,Scooter,TVS,Jupiter,Petrol,110,34,96,Normal traffic,140,Hill road,97
+42,52,Scooter,TVS,Jupiter,Petrol,110,26,104,Heavy traffic,200,Highway,120
+22,29,Scooter,TVS,Jupiter,Petrol,110,40,90,Moderate traffic,90,Local road,88
+34,43,Scooter,TVS,Jupiter,Petrol,110,32,98,Light traffic,130,Hill road,97
+44,54,Scooter,TVS,Jupiter,Petrol,110,24,106,Normal traffic,180,Highway,125
+24,31,Scooter,TVS,Jupiter,Petrol,110,38,92,Heavy traffic,100,Local road,90
+36,45,Scooter,TVS,Jupiter,Petrol,110,30,100,Moderate traffic,140,Hill road,97
+46,57,Scooter,TVS,Jupiter,Petrol,110,22,108,Light traffic,200,Highway,130
+26,34,Scooter,TVS,Jupiter,Petrol,110,36,94,Normal traffic,120,Local road,88
+38,47,Scooter,TVS,Jupiter,Petrol,110,28,102,Heavy traffic,160,Hill road,97
+48,59,Scooter,TVS,Jupiter,Petrol,110,20,110,Moderate traffic,180,Highway,140
+28,37,Scooter,TVS,Jupiter,Petrol,110,34,98,Light traffic,140,Local road,97
+40,49,Scooter,TVS,Jupiter,Petrol,110,26,104,Normal traffic,180,Hill road,97
+50,62,Scooter,TVS,Jupiter,Petrol,110,18,112,Heavy traffic,200,Highway,150
+50,60,Bike,Suzuki,Access,Petrol,125cc,50,100,Heavy traffic,100,Local road,200
+30,45,Bike,Suzuki,Access,Petrol,125cc,50,100,Moderate traffic,50,Hill road,200
+20,30,Bike,Suzuki,Access,Petrol,125cc,50,100,Light traffic,20,Highway,200
+40,55,Bike,Suzuki,Access,Petrol,125cc,50,100,Normal traffic,0,Local road,200
+50,60,Bike,Suzuki,Access,Petrol,125cc,50,100,Heavy traffic,100,Hill road,200
+30,45,Bike,Suzuki,Access,Petrol,125cc,50,100,Moderate traffic,50,Highway,200
+20,30,Bike,Suzuki,Access,Petrol,125cc,50,100,Light traffic,20,Local road,200
+40,55,Bike,Suzuki,Access,Petrol,125cc,50,100,Normal traffic,0,Hill road,200
+50,60,Bike,Suzuki,Access,Petrol,125cc,50,100,Heavy traffic,100,Local road,200
+30,45,Bike,Suzuki,Access,Petrol,125cc,50,100,Moderate traffic,50,Hill road,200
+20,30,Bike,Suzuki,Access,Petrol,125cc,50,100,Light traffic,20,Highway,200
+40,55,Bike,Suzuki,Access,Petrol,125cc,50,100,Normal traffic,0,Local road,200
+50,60,Bike,Suzuki,Access,Petrol,125cc,50,100,Heavy traffic,100,Hill road,200
+30,45,Bike,Suzuki,Access,Petrol,125cc,50,100,Moderate traffic,50,Highway,200
+20,30,Bike,Suzuki,Access,Petrol,125cc,50,100,Light traffic,20,Local road,200
+40,55,Bike,Suzuki,Access,Petrol,125cc,50,100,Normal traffic,0,Hill road,200
+50,60,Bike,Suzuki,Access,Petrol,125cc,50,100,Heavy traffic,100,Local road,200
+30,45,Bike,Suzuki,Access,Petrol,125cc,50,100,Moderate traffic,50,Hill road,200
+20,30,Bike,Suzuki,Access,Petrol,125cc,50,100,Light traffic,20,Highway,200
+40,55,Bike,Suzuki,Access,Petrol,125cc,50,100,Normal traffic,0,Local road,200
+50,60,Bike,Yamaha,FZ,Petrol,149cc,45,120,Heavy traffic,100,Local road,160
+30,45,Bike,Yamaha,FZ,Petrol,149cc,45,120,Moderate traffic,50,Hill road,160
+20,30,Bike,Yamaha,FZ,Petrol,149cc,45,120,Light traffic,20,Highway,160
+40,55,Bike,Yamaha,FZ,Petrol,149cc,45,120,Normal traffic,0,Local road,160
+50,60,Bike,Yamaha,FZ,Petrol,149cc,45,120,Heavy traffic,100,Hill road,160
+30,45,Bike,Yamaha,FZ,Petrol,149cc,45,120,Moderate traffic,50,Highway,160
+20,30,Bike,Yamaha,FZ,Petrol,149cc,45,120,Light traffic,20,Local road,160
+40,55,Bike,Yamaha,FZ,Petrol,149cc,45,120,Normal traffic,0,Hill road,160
+50,60,Bike,Yamaha,FZ,Petrol,149cc,45,120,Heavy traffic,100,Local road,160
+30,45,Bike,Yamaha,FZ,Petrol,149cc,45,120,Moderate traffic,50,Hill road,160
+20,30,Bike,Yamaha,FZ,Petrol,149cc,45,120,Light traffic,20,Highway,160
+40,55,Bike,Yamaha,FZ,Petrol,149cc,45,120,Normal traffic,0,Local road,160
+50,60,Bike,Yamaha,FZ,Petrol,149cc,45,120,Heavy traffic,100,Hill road,160
+30,45,Bike,Yamaha,FZ,Petrol,149cc,45,120,Moderate traffic,50,Highway,160
+20,30,Bike,Yamaha,FZ,Petrol,149cc,45,120,Light traffic,20,Local road,160
+40,55,Bike,Yamaha,FZ,Petrol,149cc,45,120,Normal traffic,0,Hill road,160
+50,60,Bike,Yamaha,FZ,Petrol,149cc,45,120,Heavy traffic,100,Local road,160
+30,45,Bike,Yamaha,FZ,Petrol,149cc,45,120,Moderate traffic,50,Hill road,160
+20,30,Bike,Yamaha,FZ,Petrol,149cc,45,120,Light traffic,20,Highway,160
+40,55,Bike,Yamaha,FZ,Petrol,149cc,45,120,Normal traffic,0,Local road,160
+50,60,Bike,Bajaj,Pulsar,Petrol,150,45,85,Heavy traffic,100,Highway,94
+30,45,Bike,Bajaj,Pulsar,Petrol,150,45,85,Moderate traffic,50,Local road,94
+20,30,Bike,Bajaj,Pulsar,Petrol,150,45,85,Light traffic,20,Hill road,94
+40,55,Bike,Bajaj,Pulsar,Petrol,150,45,85,Normal traffic,0,Highway,94
+50,60,Bike,Bajaj,Pulsar,Petrol,150,45,85,Heavy traffic,100,Local road,94
+30,45,Bike,Bajaj,Pulsar,Petrol,150,45,85,Moderate traffic,50,Hill road,94
+20,30,Bike,Bajaj,Pulsar,Petrol,150,45,85,Light traffic,20,Highway,94
+40,55,Bike,Bajaj,Pulsar,Petrol,150,45,85,Normal traffic,0,Local road,94
+50,60,Bike,Bajaj,Pulsar,Petrol,150,45,85,Heavy traffic,100,Hill road,94
+30,45,Bike,Bajaj,Pulsar,Petrol,150,45,85,Moderate traffic,50,Highway,94
+20,30,Bike,Bajaj,Pulsar,Petrol,150,45,85,Light traffic,20,Local road,94
+40,55,Bike,Bajaj,Pulsar,Petrol,150,45,85,Normal traffic,0,Hill road,94
+50,60,Bike,Bajaj,Pulsar,Petrol,150,45,85,Heavy traffic,100,Highway,94
+30,45,Bike,Bajaj,Pulsar,Petrol,150,45,85,Moderate traffic,50,Local road,94
+20,30,Bike,Bajaj,Pulsar,Petrol,150,45,85,Light traffic,20,Hill road,94
+40,55,Bike,Bajaj,Pulsar,Petrol,150,45,85,Normal traffic,0,Highway,94
+50,60,Bike,Bajaj,Pulsar,Petrol,150,45,85,Heavy traffic,100,Local road,94
+30,45,Bike,Bajaj,Pulsar,Petrol,150,45,85,Moderate traffic,50,Hill road,94
+20,30,Bike,Bajaj,Pulsar,Petrol,150,45,85,Light traffic,20,Highway,94
+40,55,Bike,Bajaj,Pulsar,Petrol,150,45,85,Normal traffic,0,Local road,94
+50,60,Bike,Bajaj,Pulsar,Petrol,150,45,85,Heavy traffic,100,Hill road,94
+30,45,Bike,Bajaj,Pulsar,Petrol,150,45,85,Moderate traffic,50,Highway,94
+20,30,Bike,Bajaj,Pulsar,Petrol,150,45,85,Light traffic,20,Local road,94
+40,55,Bike,Bajaj,Pulsar,Petrol,150,45,85,Normal traffic,0,Hill road,94
+50,60,Bike,Bajaj,Pulsar,Petrol,150,45,85,Heavy traffic,100,Highway,94
+30,45,Bike,Bajaj,Pulsar,Petrol,150,45,85,Moderate traffic,50,Local road,94
+20,30,Bike,Bajaj,Pulsar,Petrol,150,45,85,Light traffic,20,Hill road,94
+40,55,Bike,Bajaj,Pulsar,Petrol,150,45,85,Normal traffic,0,Highway,94
+50,60,Bike,Bajaj,Pulsar,Petrol,150,45,85,Heavy traffic,100,Local road,94
+30,45,Bike,Bajaj,Pulsar,Petrol,150,45,85,Moderate traffic,50,Hill road,94
+20,30,Bike,Bajaj,Pulsar,Petrol,150,45,85,Light traffic,20,Highway,94
+40,55,Bike,Bajaj,Pulsar,Petrol,150,45,85,Normal traffic,0,Local road,94
+50,60,Bike,Bajaj,Pulsar,Petrol,150,45,85,Heavy traffic,100,Hill road,94
+30,45,Bike,Bajaj,Pulsar,Petrol,150,45,85,Moderate traffic,50,Highway,94
+20,30,Bike,Bajaj,Pulsar,Petrol,150,45,85,Light traffic,20,Local road,94
+40,55,Bike,Bajaj,Pulsar,Petrol,150,45,85,Normal traffic,0,Hill road,94
+50,60,Bike,Bajaj,Pulsar,Petrol,150,45,85,Heavy traffic,100,Highway,94
+30,45,Bike,Bajaj,Pulsar,Petrol,150,45,85,Moderate traffic,50,Local road,94
+20,30,Bike,Bajaj,Pulsar,Petrol,150,45,85,Light traffic,20,Hill road,94
+40,55,Bike,Bajaj,Pulsar,Petrol,150,45,85,Normal traffic,0,Highway,94
+50,60,Bike,Bajaj,Pulsar,Petrol,150,45,85,Heavy traffic,100,Local road,94
+30,45,Bike,Bajaj,Pulsar,Petrol,150,45,85,Moderate traffic,50,Hill road,94
+20,30,Bike,Bajaj,Pulsar,Petrol,150,45,85,Light traffic,20,Highway,94
+40,55,Bike,Bajaj,Pulsar,Petrol,150,45,85,Normal traffic,0,Local road,94
+50,60,Bike,Bajaj,Pulsar,Petrol,150,45,85,Heavy traffic,100,Hill road,94
+30,45,Bike,Bajaj,Pulsar,Petrol,150,45,85,Moderate traffic,50,Highway,94
+20,30,Bike,Bajaj,Pulsar,Petrol,150,45,85,Light traffic,20,Local road,94
+40,55,Bike,Bajaj,Pulsar,Petrol,150,45,85,Normal traffic,0,Hill road,94
+50,60,Bike,Bajaj,Pulsar,Petrol,150,45,85,Heavy traffic,100,Highway,94
+30,45,Bike,Bajaj,Pulsar,Petrol,150,45,85,Moderate traffic,50,Local road,94
+20,30,Bike,Bajaj,Pulsar,Petrol,150,45,85,Light traffic,20,Hill road,94
+40,55,Bike,Bajaj,Pulsar,Petrol,150,45,85,Normal traffic,0,Highway,94
+50,60,Bike,Bajaj,Pulsar,Petrol,150,45,85,Heavy traffic,100,Local road,94
+30,45,Bike,Bajaj,Pulsar,Petrol,150,45,85,Moderate traffic,50,Hill road,94
+20,30,Bike,Bajaj,Pulsar,Petrol,150,45,85,Light traffic,20,Highway,94
+40,55,Bike,Bajaj,Pulsar,Petrol,150,45,85,Normal traffic,0,Local road,94
+50,60,Bike,Bajaj,Pulsar,Petrol,150,45,85,Heavy traffic,100,Hill road,94
+30,45,Bike,Bajaj,Pulsar,Petrol,150,45,85,Moderate traffic,50,Highway,94
+20,30,Bike,Bajaj,Pulsar,Petrol,150,45,85,Light traffic,20,Local road,94
+40,55,Bike,Bajaj,Pulsar,Petrol,150,45,85,Normal traffic,0,Hill road,94
+50,60,Bike,Bajaj,Pulsar,Petrol,150,45,85,Heavy traffic,100,Highway,94
+30,45,Bike,Bajaj,Pulsar,Petrol,150,45,85,Moderate traffic,50,Local road,94
+20,30,Bike,Bajaj,Pulsar,Petrol,150,45,85,Light traffic,20,Hill road,94
+40,55,Bike,Bajaj,Pulsar,Petrol,150,45,85,Normal traffic,0,Highway,94
+50,60,Bike,Bajaj,Pulsar,Petrol,150,45,85,Heavy traffic,100,Local road,94
+30,45,Bike,Bajaj,Pulsar,Petrol,150,45,85,Moderate traffic,50,Hill road,94
+20,30,Bike,Bajaj,Pulsar,Petrol,150,45,85,Light traffic,20,Highway,94
+40,55,Bike,Bajaj,Pulsar,Petrol,150,45,85,Normal traffic,0,Local road,94
+50,60,Bike,Bajaj,Pulsar,Petrol,150,45,85,Heavy traffic,100,Hill road,94
+30,45,Bike,Bajaj,Pulsar,Petrol,150,45,85,Moderate traffic,50,Highway,94
+20,30,Bike,Bajaj,Pulsar,Petrol,150,45,85,Light traffic,20,Local road,94
+40,55,Bike,Bajaj,Pulsar,Petrol,150,45,85,Normal traffic,0,Hill road,94
+50,60,Bike,Bajaj,Pulsar,Petrol,150,45,85,Heavy traffic,100,Highway,94
+30,45,Bike,Bajaj,Pulsar,Petrol,150,45,85,Moderate traffic,50,Local road,94
+20,30,Bike,Bajaj,Pulsar,Petrol,150,45,85,Light traffic,20,Hill road,94
+40,55,Bike,Bajaj,Pulsar,Petrol,150,45,85,Normal traffic,0,Highway,94
+50,60,Bike,Bajaj,Pulsar,Petrol,150,45,85,Heavy traffic,100,Local road,94
+30,45,Bike,Bajaj,Pulsar,Petrol,150,45,85,Moderate traffic,50,Hill road,94
+20,30,Bike,Bajaj,Pulsar,Petrol,150,45,85,Light traffic,20,Highway,94
+40,55,Bike,Bajaj,Pulsar,Petrol,150,45,85,Normal traffic,0,Local road,94
+50,60,Bike,Bajaj,Pulsar,Petrol,150,45,85,Heavy traffic,100,Hill road,94
+30,45,Bike,Bajaj,Pulsar,Petrol,150,45,85,Moderate traffic,50,Highway,94
+20,30,Bike,Bajaj,Pulsar,Petrol,150,45,85,Light traffic,20,Local road,94
+40,55,Bike,Bajaj,Pulsar,Petrol,150,45,85,Normal traffic,0,Hill road,94
+50,60,Bike,Bajaj,Pulsar,Petrol,150,45,85,Heavy traffic,100,Highway,94
+30,45,Bike,Bajaj,Pulsar,Petrol,150,45,85,Moderate traffic,50,Local road,94
+20,30,Bike,Bajaj,Pulsar,Petrol,150,45,85,Light traffic,20,Hill road,94
+40,55,Bike,Bajaj,Pulsar,Petrol,150,45,85,Normal traffic,0,Highway,94
+50,60,Bike,Bajaj,Pulsar,Petrol,150,45,85,Heavy traffic,100,Local road,94
+30,45,Bike,Bajaj,Pulsar,Petrol,150,45,85,Moderate traffic,50,Hill road,94
+20,30,Bike,Bajaj,Pulsar,Petrol,150,45,85,Light traffic,20,Highway,94
+40,55,Bike,Bajaj,Pulsar,Petrol,150,45,85,Normal traffic,0,Local road,94
+50,60,Bike,Bajaj,Pulsar,Petrol,150,45,85,Heavy traffic,100,Hill road,94
+30,45,Bike,Bajaj,Pulsar,Petrol,150,45,85,Moderate traffic,50,Highway,94
+20,30,Bike,Bajaj,Pulsar,Petrol,150,45,85,Light traffic,20,Local road,94
+40,55,Bike,Bajaj,Pulsar,Petrol,150,45,85,Normal traffic,0,Hill road,94
+50,60,Bike,Bajaj,Pulsar,Petrol,150,45,85,Heavy traffic,100,Highway,94
+30,45,Bike,Bajaj,Pulsar,Petrol,150,45,85,Moderate traffic,50,Local road,94
+20,30,Bike,Bajaj,Pulsar,Petrol,150,45,85,Light traffic,20,Hill road,94
+40,55,Bike,Bajaj,Pulsar,Petrol,150,45,85,Normal traffic,0,Highway,94
+50,60,Bike,Bajaj,Pulsar,Petrol,150,45,85,Heavy traffic,100,Local road,94
+50,60,Bike,Royal Enfield,Classic,Petrol,500,25,120,Moderate traffic,100,Local road,48
+30,45,Bike,Royal Enfield,Classic,Petrol,500,25,120,Normal traffic,50,Hill road,48
+20,30,Bike,Royal Enfield,Classic,Petrol,500,25,120,Light traffic,20,Highway,48
+40,55,Bike,Royal Enfield,Classic,Petrol,500,25,120,Heavy traffic,0,Local road,48
+50,60,Bike,Royal Enfield,Classic,Petrol,500,25,120,Moderate traffic,100,Hill road,48
+30,45,Bike,Royal Enfield,Classic,Petrol,500,25,120,Normal traffic,50,Highway,48
+20,30,Bike,Royal Enfield,Classic,Petrol,500,25,120,Light traffic,20,Local road,48
+40,55,Bike,Royal Enfield,Classic,Petrol,500,25,120,Heavy traffic,0,Hill road,48
+50,60,Bike,Royal Enfield,Classic,Petrol,500,25,120,Moderate traffic,100,Highway,48
+30,45,Bike,Royal Enfield,Classic,Petrol,500,25,120,Normal traffic,50,Local road,48
+20,30,Bike,Royal Enfield,Classic,Petrol,500,25,120,Light traffic,20,Hill road,48
+40,55,Bike,Royal Enfield,Classic,Petrol,500,25,120,Heavy traffic,0,Highway,48
+50,60,Bike,Royal Enfield,Classic,Petrol,500,25,120,Moderate traffic,100,Local road,48
+30,45,Bike,Royal Enfield,Classic,Petrol,500,25,120,Normal traffic,50,Hill road,48
+20,30,Bike,Royal Enfield,Classic,Petrol,500,25,120,Light traffic,20,Highway,48
+40,55,Bike,Royal Enfield,Classic,Petrol,500,25,120,Heavy traffic,0,Local road,48
+10,15,Motorcycle,Yamaha,MT,Petrol,321,30,200,Light traffic,30,Local road,200
+15,20,Motorcycle,Yamaha,MT,Petrol,321,25,225,Moderate traffic,50,Hill road,250
+20,25,Motorcycle,Yamaha,MT,Petrol,321,20,250,Heavy traffic,100,Highway,300
+12,18,Motorcycle,Yamaha,MT,Petrol,321,32,187,Normal traffic,20,Local road,187.5
+18,22,Motorcycle,Yamaha,MT,Petrol,321,27,222,Light traffic,40,Hill road,244.44
+22,28,Motorcycle,Yamaha,MT,Petrol,321,22,272,Moderate traffic,60,Highway,327.27
+14,17,Motorcycle,Yamaha,MT,Petrol,321,31,193,Heavy traffic,80,Local road,193.55
+16,21,Motorcycle,Yamaha,MT,Petrol,321,28,214,Normal traffic,70,Hill road,228.57
+24,30,Motorcycle,Yamaha,MT,Petrol,321,18,278,Light traffic,90,Highway,333.33
+11,16,Motorcycle,Yamaha,MT,Petrol,321,34,176,Moderate traffic,10,Local road,176.47
+17,23,Motorcycle,Yamaha,MT,Petrol,321,26,231,Heavy traffic,80,Hill road,253.85
+21,27,Motorcycle,Yamaha,MT,Petrol,321,21,263,Normal traffic,50,Highway,315
+13,19,Motorcycle,Yamaha,MT,Petrol,321,29,207,Light traffic,40,Local road,207.69
+19,24,Motorcycle,Yamaha,MT,Petrol,321,24,250,Moderate traffic,60,Hill road,292.31
+23,29,Motorcycle,Yamaha,MT,Petrol,321,19,263,Heavy traffic,90,Highway,315
+25,32,Motorcycle,Yamaha,MT,Petrol,321,18,278,Light traffic,110,Highway,333.33
+16,22,Motorcycle,Yamaha,MT,Petrol,321,23,250,Normal traffic,70,Hill road,326.09
+30,38,Motorcycle,Yamaha,MT,Petrol,321,15,333,Moderate traffic,80,Local road,400
+18,25,Motorcycle,Yamaha,MT,Petrol,321,21,263,Heavy traffic,90,Local road,315
+20,27,Motorcycle,Yamaha,MT,Petrol,321,20,275,Light traffic,100,Hill road,300
+22,30,Motorcycle,Yamaha,MT,Petrol,321,17,294,Moderate traffic,120,Highway,352.94
+14,20,Motorcycle,Yamaha,MT,Petrol,321,25,225,Heavy traffic,80,Local road,225
+28,35,Motorcycle,Yamaha,MT,Petrol,321,16,313,Normal traffic,130,Hill road,375
+24,32,Motorcycle,Yamaha,MT,Petrol,321,18,278,Light traffic,140,Highway,333.33
+26,34,Motorcycle,Yamaha,MT,Petrol,321,17,294,Normal traffic,150,Hill road,352.94
+17,23,Motorcycle,Yamaha,MT,Petrol,321,22,272,Heavy traffic,80,Hill road,327.27
+21,27,Motorcycle,Yamaha,MT,Petrol,321,19,263,Normal traffic,50,Highway,315
+13,19,Motorcycle,Yamaha,MT,Petrol,321,24,250,Light traffic,40,Local road,250
+19,24,Motorcycle,Yamaha,MT,Petrol,321,20,275,Moderate traffic,60,Hill road,300
+23,29,Motorcycle,Yamaha,MT,Petrol,321,17,294,Heavy traffic,90,Highway,352.94
+12,18,Motorcycle,Honda,Grazia,Petrol,125,45,150,Light traffic,20,Local road,150
+15,20,Motorcycle,Honda,Grazia,Petrol,125,40,175,Moderate traffic,40,Hill road,200
+18,25,Motorcycle,Honda,Grazia,Petrol,125,35,200,Heavy traffic,80,Highway,235.29
+20,30,Motorcycle,Honda,Grazia,Petrol,125,30,225,Normal traffic,100,Local road,225
+22,32,Motorcycle,Honda,Grazia,Petrol,125,28,240,Light traffic,120,Hill road,257.14
+25,35,Motorcycle,Honda,Grazia,Petrol,125,25,250,Moderate traffic,140,Highway,300
+28,40,Motorcycle,Honda,Grazia,Petrol,125,22,272,Heavy traffic,160,Local road,328.57
+30,45,Motorcycle,Honda,Grazia,Petrol,125,20,285,Normal traffic,180,Hill road,342.86
+32,48,Motorcycle,Honda,Grazia,Petrol,125,18,300,Light traffic,200,Highway,352.94
+35,50,Motorcycle,Honda,Grazia,Petrol,125,17,310,Moderate traffic,220,Local road,364.71
+38,55,Motorcycle,Honda,Grazia,Petrol,125,15,333,Heavy traffic,240,Hill road,375
+40,60,Motorcycle,Honda,Grazia,Petrol,125,14,343,Normal traffic,260,Highway,385.71
+42,62,Motorcycle,Honda,Grazia,Petrol,125,13,353,Light traffic,280,Local road,396.43
+45,65,Motorcycle,Honda,Grazia,Petrol,125,12,366,Moderate traffic,300,Hill road,408.33
+48,70,Motorcycle,Honda,Grazia,Petrol,125,11,378,Heavy traffic,320,Highway,420
+50,72,Motorcycle,Honda,Grazia,Petrol,125,10,390,Normal traffic,340,Local road,431.25
+52,75,Motorcycle,Honda,Grazia,Petrol,125,9,400,Light traffic,360,Hill road,442.5
+55,80,Motorcycle,Honda,Grazia,Petrol,125,9,400,Moderate traffic,380,Highway,444.44
+58,85,Motorcycle,Honda,Grazia,Petrol,125,8,412,Heavy traffic,400,Local road,456
+60,90,Motorcycle,Honda,Grazia,Petrol,125,8,412,Normal traffic,420,Hill road,457.5
+62,95,Motorcycle,Honda,Grazia,Petrol,125,7,428,Light traffic,440,Highway,471.43
+65,100,Motorcycle,Honda,Grazia,Petrol,125,7,428,Moderate traffic,460,Local road,472.5
+68,105,Motorcycle,Honda,Grazia,Petrol,125,6,444,Heavy traffic,480,Hill road,486.67
+70,110,Motorcycle,Honda,Grazia,Petrol,125,6,444,Normal traffic,500,Highway,487.5
+72,115,Motorcycle,Honda,Grazia,Petrol,125,5,460,Light traffic,520,Local road,502.5
+75,120,Motorcycle,Honda,Grazia,Petrol,125,5,460,Moderate traffic,540,Hill road,504
+78,125,Motorcycle,Honda,Grazia,Petrol,125,5,460,Heavy traffic,560,Highway,505.71
+80,130,Motorcycle,Honda,Grazia,Petrol,125,4,475,Normal traffic,580,Local road,517.5
+82,135,Motorcycle,Honda,Grazia,Petrol,125,4,475,Light traffic,600,Hill road,518.57
+85,140,Motorcycle,Honda,Grazia,Petrol,125,4,475,Moderate traffic,620,Highway,520
+88,145,Motorcycle,Honda,Grazia,Petrol,125,3,490,Heavy traffic,640,Local road,531.43
+90,150,Motorcycle,Honda,Grazia,Petrol,125,3,490,Normal traffic,660,Hill road,533.33
+92,155,Motorcycle,Honda,Grazia,Petrol,125,3,490,Light traffic,680,Highway,535.29
+95,160,Motorcycle,Honda,Grazia,Petrol,125,3,490,Moderate traffic,700,Local road,537.14
+98,165,Motorcycle,Honda,Grazia,Petrol,125,2,500,Heavy traffic,720,Hill road,540
+100,170,Motorcycle,Honda,Grazia,Petrol,125,2,500,Normal traffic,740,Highway,540
+102,175,Motorcycle,Honda,Grazia,Petrol,125,2,500,Light traffic,760,Local road,542.5
+105,180,Motorcycle,Honda,Grazia,Petrol,125,2,500,Moderate traffic,780,Hill road,544.29
+108,185,Motorcycle,Honda,Grazia,Petrol,125,2,500,Heavy traffic,800,Highway,545.45
+110,190,Motorcycle,Honda,Grazia,Petrol,125,1,510,Normal traffic,820,Local road,546
+112,195,Motorcycle,Honda,Grazia,Petrol,125,1,510,Light traffic,840,Hill road,546.43
+115,200,Motorcycle,Honda,Grazia,Petrol,125,1,510,Moderate traffic,860,Highway,547.5
+118,205,Motorcycle,Honda,Grazia,Petrol,125,1,510,Heavy traffic,880,Local road,548.18
+120,210,Motorcycle,Honda,Grazia,Petrol,125,1,510,Normal traffic,900,Hill road,548.57
+122,215,Motorcycle,Honda,Grazia,Petrol,125,1,510,Light traffic,920,Highway,548.98
+125,220,Motorcycle,Honda,Grazia,Petrol,125,1,510,Moderate traffic,940,Local road,549.47
+128,225,Motorcycle,Honda,Grazia,Petrol,125,1,510,Heavy traffic,960,Hill road,549.86
+130,230,Motorcycle,Honda,Grazia,Petrol,125,1,510,Normal traffic,980,Highway,550
+132,235,Motorcycle,Honda,Grazia,Petrol,125,1,510,Light traffic,1000,Local road,550.2
+135,240,Motorcycle,Honda,Grazia,Petrol,125,1,510,Moderate traffic,1020,Hill road,550.37
+138,245,Motorcycle,Honda,Grazia,Petrol,125,1,510,Heavy traffic,1040,Highway,550.53
+140,250,Motorcycle,Honda,Grazia,Petrol,125,1,510,Normal traffic,1060,Local road,550.62
+142,255,Motorcycle,Honda,Grazia,Petrol,125,1,510,Light traffic,1080,Hill road,550.71
+145,260,Motorcycle,Honda,Grazia,Petrol,125,1,510,Moderate traffic,1100,Highway,550.91
+148,265,Motorcycle,Honda,Grazia,Petrol,125,1,510,Heavy traffic,1120,Local road,551.07
+150,270,Motorcycle,Honda,Grazia,Petrol,125,1,510,Normal traffic,1140,Hill road,551.11
+152,275,Motorcycle,Honda,Grazia,Petrol,125,1,510,Light traffic,1160,Highway,551.18
+155,280,Motorcycle,Honda,Grazia,Petrol,125,1,510,Heavy traffic,1350,Hill road,551.32
+10,15,Motorcycle,TVS,Star City,Petrol,110,60,85,Light traffic,20,Local road,85
+12,18,Motorcycle,TVS,Star City,Petrol,110,55,90,Moderate traffic,40,Hill road,95.45
+15,20,Motorcycle,TVS,Star City,Petrol,110,50,100,Heavy traffic,80,Highway,108
+18,25,Motorcycle,TVS,Star City,Petrol,110,45,110,Normal traffic,100,Local road,122.22
+20,30,Motorcycle,TVS,Star City,Petrol,110,40,120,Light traffic,120,Hill road,135
+22,32,Motorcycle,TVS,Star City,Petrol,110,35,130,Moderate traffic,140,Highway,148.57
+25,35,Motorcycle,TVS,Star City,Petrol,110,30,140,Heavy traffic,160,Local road,154.29
+28,40,Motorcycle,TVS,Star City,Petrol,110,25,150,Normal traffic,180,Hill road,168
+30,45,Motorcycle,TVS,Star City,Petrol,110,20,160,Light traffic,200,Highway,180
+32,48,Motorcycle,TVS,Star City,Petrol,110,18,165,Moderate traffic,220,Local road,183.53
+35,50,Motorcycle,TVS,Star City,Petrol,110,15,170,Heavy traffic,240,Hill road,186
+38,55,Motorcycle,TVS,Star City,Petrol,110,12,175,Normal traffic,260,Highway,192
+40,60,Motorcycle,TVS,Star City,Petrol,110,10,180,Light traffic,280,Local road,192
+42,62,Motorcycle,TVS,Star City,Petrol,110,9,185,Moderate traffic,300,Hill road,195.65
+45,65,Motorcycle,TVS,Star City,Petrol,110,8,190,Heavy traffic,320,Highway,192
+48,70,Motorcycle,TVS,Star City,Petrol,110,7,195,Normal traffic,340,Local road,196.57
+50,72,Motorcycle,TVS,Star City,Petrol,110,6,200,Light traffic,360,Hill road,200
+52,75,Motorcycle,TVS,Star City,Petrol,110,5,205,Moderate traffic,380,Highway,204
+55,80,Motorcycle,TVS,Star City,Petrol,110,5,205,Heavy traffic,400,Local road,204
+58,85,Motorcycle,TVS,Star City,Petrol,110,4,210,Normal traffic,420,Hill road,210
+60,90,Motorcycle,TVS,Star City,Petrol,110,4,210,Light traffic,440,Highway,210
+62,95,Motorcycle,TVS,Star City,Petrol,110,3,215,Moderate traffic,460,Local road,216.67
+65,100,Motorcycle,TVS,Star City,Petrol,110,3,215,Heavy traffic,480,Hill road,216.67
+68,105,Motorcycle,TVS,Star City,Petrol,110,3,215,Normal traffic,500,Highway,216.67
+70,110,Motorcycle,TVS,Star City,Petrol,110,2,220,Light traffic,520,Local road,220
+72,115,Motorcycle,TVS,Star City,Petrol,110,2,220,Moderate traffic,540,Hill road,220
+75,120,Motorcycle,TVS,Star City,Petrol,110,2,220,Heavy traffic,560,Highway,220
+78,125,Motorcycle,TVS,Star City,Petrol,110,2,220,Normal traffic,580,Local road,220
+80,130,Motorcycle,TVS,Star City,Petrol,110,2,220,Light traffic,600,Hill road,220
+82,135,Motorcycle,TVS,Star City,Petrol,110,2,220,Moderate traffic,620,Highway,220
+85,140,Motorcycle,TVS,Star City,Petrol,110,2,220,Heavy traffic,640,Local road,220
+88,145,Motorcycle,TVS,Star City,Petrol,110,2,220,Normal traffic,660,Hill road,220
+90,150,Motorcycle,TVS,Star City,Petrol,110,2,220,Light traffic,680,Highway,220
+92,155,Motorcycle,TVS,Star City,Petrol,110,2,220,Moderate traffic,700,Local road,220
+95,160,Motorcycle,TVS,Star City,Petrol,110,2,220,Heavy traffic,720,Hill road,220
+98,165,Motorcycle,TVS,Star City,Petrol,110,2,220,Normal traffic,740,Highway,220
+100,170,Motorcycle,TVS,Star City,Petrol,110,2,220,Light traffic,760,Local road,220
+102,175,Motorcycle,TVS,Star City,Petrol,110,2,220,Moderate traffic,780,Hill road,220
+105,180,Motorcycle,TVS,Star City,Petrol,110,2,220,Heavy traffic,800,Highway,220
+108,185,Motorcycle,TVS,Star City,Petrol,110,2,220,Normal traffic,820,Local road,220
+110,190,Motorcycle,TVS,Star City,Petrol,110,2,220,Light traffic,840,Hill road,220
+112,195,Motorcycle,TVS,Star City,Petrol,110,2,220,Moderate traffic,860,Highway,220
+115,200,Motorcycle,TVS,Star City,Petrol,110,2,220,Heavy traffic,880,Local road,220
+118,205,Motorcycle,TVS,Star City,Petrol,110,2,220,Normal traffic,900,Hill road,220
+120,210,Motorcycle,TVS,Star City,Petrol,110,2,220,Light traffic,920,Highway,220
+122,215,Motorcycle,TVS,Star City,Petrol,110,2,220,Moderate traffic,940,Local road,220
+10,15,Motorcycle,Yamaha,R15,Petrol,155,45,160,Light traffic,30,Local road,133.33
+15,20,Motorcycle,Yamaha,R15,Petrol,155,40,170,Moderate traffic,50,Hill road,150
+20,25,Motorcycle,Yamaha,R15,Petrol,155,35,180,Heavy traffic,100,Highway,166.67
+12,18,Motorcycle,Yamaha,R15,Petrol,155,43,165,Normal traffic,20,Local road,138.1
+18,22,Motorcycle,Yamaha,R15,Petrol,155,38,175,Light traffic,40,Hill road,157.89
+22,28,Motorcycle,Yamaha,R15,Petrol,155,33,185,Moderate traffic,60,Highway,181.82
+14,17,Motorcycle,Yamaha,R15,Petrol,155,42,162,Heavy traffic,80,Local road,142.86
+16,21,Motorcycle,Yamaha,R15,Petrol,155,37,172,Normal traffic,70,Hill road,162.16
+24,30,Motorcycle,Yamaha,R15,Petrol,155,32,182,Light traffic,90,Highway,187.5
+11,16,Motorcycle,Yamaha,R15,Petrol,155,44,158,Moderate traffic,10,Local road,126.98
+17,23,Motorcycle,Yamaha,R15,Petrol,155,39,168,Heavy traffic,80,Hill road,157.89
+21,27,Motorcycle,Yamaha,R15,Petrol,155,34,178,Normal traffic,50,Highway,194.12
+13,19,Motorcycle,Yamaha,R15,Petrol,155,41,163,Light traffic,40,Local road,136.59
+19,24,Motorcycle,Yamaha,R15,Petrol,155,36,173,Moderate traffic,60,Hill road,157.89
+23,29,Motorcycle,Yamaha,R15,Petrol,155,31,183,Heavy traffic,90,Highway,193.55
+25,35,Motorcycle,Yamaha,R15,Petrol,155,45,160,Light traffic,50,Local road,112.5
+30,40,Motorcycle,Yamaha,R15,Petrol,155,40,170,Moderate traffic,100,Hill road,135
+35,45,Motorcycle,Yamaha,R15,Petrol,155,35,180,Heavy traffic,150,Highway,157.5
+20,30,Motorcycle,Yamaha,R15,Petrol,155,50,155,Normal traffic,20,Local road,100
+27,37,Motorcycle,Yamaha,R15,Petrol,155,43,165,Light traffic,70,Hill road,127.91
+32,42,Motorcycle,Yamaha,R15,Petrol,155,38,175,Moderate traffic,120,Highway,147.37
+18,28,Motorcycle,Yamaha,R15,Petrol,155,53,150,Heavy traffic,10,Local road,90
+22,32,Motorcycle,Yamaha,R15,Petrol,155,48,160,Normal traffic,30,Hill road,112.5
+28,38,Motorcycle,Yamaha,R15,Petrol,155,41,170,Light traffic,80,Highway,146.34
+15,25,Motorcycle,Yamaha,R15,Petrol,155,57,145,Moderate traffic,5,Local road,79.31
+23,33,Motorcycle,Yamaha,R15,Petrol,155,47,155,Heavy traffic,40,Hill road,108.51
+29,39,Motorcycle,Yamaha,R15,Petrol,155,42,165,Normal traffic,90,Highway,141.43
+17,27,Motorcycle,Yamaha,R15,Petrol,155,55,150,Light traffic,15,Local road,81.82
+24,34,Motorcycle,Yamaha,R15,Petrol,155,46,160,Moderate traffic,50,Hill road,130.43
+31,41,Motorcycle,Yamaha,R15,Petrol,155,39,170,Heavy traffic,100,Highway,153.85
+10,20,Scooter,TVS,Scooty,Petrol,110,45,160,Light traffic,20,Local road,133.33
+15,25,Scooter,TVS,Scooty,Petrol,110,40,170,Moderate traffic,40,Hill road,187.5
+20,30,Scooter,TVS,Scooty,Petrol,110,35,180,Heavy traffic,60,Highway,257.14
+12,22,Scooter,TVS,Scooty,Petrol,110,50,150,Normal traffic,30,Local road,120
+18,28,Scooter,TVS,Scooty,Petrol,110,42,165,Light traffic,50,Hill road,214.29
+22,32,Scooter,TVS,Scooty,Petrol,110,38,175,Moderate traffic,70,Highway,231.58
+14,24,Scooter,TVS,Scooty,Petrol,110,48,155,Heavy traffic,40,Local road,154.29
+16,26,Scooter,TVS,Scooty,Petrol,110,44,165,Normal traffic,60,Hill road,200
+24,34,Scooter,TVS,Scooty,Petrol,110,36,175,Light traffic,80,Highway,257.14
+11,21,Scooter,TVS,Scooty,Petrol,110,47,155,Moderate traffic,20,Local road,153.85
+17,27,Scooter,TVS,Scooty,Petrol,110,41,165,Heavy traffic,50,Hill road,239.02
+21,31,Scooter,TVS,Scooty,Petrol,110,37,175,Normal traffic,70,Highway,270.27
+13,23,Scooter,TVS,Scooty,Petrol,110,46,160,Light traffic,40,Local road,144.44
+19,29,Scooter,TVS,Scooty,Petrol,110,40,170,Moderate traffic,60,Hill road,212.5
+23,33,Scooter,TVS,Scooty,Petrol,110,35,180,Heavy traffic,80,Highway,314.29
+18,25,Motorcycle,Kawasaki,Ninja 300,Petrol,296,25,120,Light traffic,50,Highway,125
+12,20,Motorcycle,Kawasaki,Ninja 300,Petrol,295,22,118,Moderate traffic,40,Local Road,123
+50,45,Motorcycle,Kawasaki,Ninja 300,Petrol,305,30,125,Heavy traffic,200,Hill Road,140
+35,40,Motorcycle,Kawasaki,Ninja 300,Petrol,300,28,123,Moderate traffic,100,Local Road,137
+60,55,Motorcycle,Kawasaki,Ninja 300,Petrol,310,31,127,Heavy traffic,250,Highway,145
+20,30,Motorcycle,Kawasaki,Ninja 300,Petrol,295,23,119,Light traffic,60,Hill Road,120
+30,35,Motorcycle,Kawasaki,Ninja 300,Petrol,300,26,122,Moderate traffic,80,Local Road,135
+45,50,Motorcycle,Kawasaki,Ninja 300,Petrol,305,29,124,Moderate traffic,150,Hill Road,140
+55,60,Motorcycle,Kawasaki,Ninja 300,Petrol,310,32,128,Heavy traffic,180,Local Road,145
+25,32,Motorcycle,Kawasaki,Ninja 300,Petrol,300,27,123,Moderate traffic,70,Highway,129
+15,22,Motorcycle,Kawasaki,Ninja 300,Petrol,295,21,117,Light traffic,45,Local Road,125
+40,43,Motorcycle,Kawasaki,Ninja 300,Petrol,305,29,124,Heavy traffic,130,Hill Road,138
+22,28,Motorcycle,Kawasaki,Ninja 300,Petrol,300,24,121,Light traffic,55,Local Road,127
+33,39,Motorcycle,Kawasaki,Ninja 300,Petrol,295,25,120,Moderate traffic,90,Hill Road,136
+28,35,Motorcycle,Kawasaki,Ninja 300,Petrol,300,26,122,Moderate traffic,75,Local Road,132
+38,42,Motorcycle,Kawasaki,Ninja 300,Petrol,305,29,124,Heavy traffic,120,Highway,138
+26,33,Motorcycle,Kawasaki,Ninja 300,Petrol,310,30,125,Light traffic,65,Local Road,131
+42,45,Motorcycle,Kawasaki,Ninja 300,Petrol,295,27,123,Heavy traffic,170,Hill Road,140
+27,36,Motorcycle,Kawasaki,Ninja 300,Petrol,300,26,122,Moderate traffic,80,Local Road,133
+48,48,Motorcycle,Kawasaki,Ninja 300,Petrol,305,30,125,Moderate traffic,110,Highway,142
+36,41,Motorcycle,Kawasaki,Ninja 300,Petrol,310,31,127,Moderate traffic,95,Local Road,139
+31,38,Motorcycle,Kawasaki,Ninja 300,Petrol,295,24,121,Light traffic,70,Hill Road,134
+52,58,Motorcycle,Kawasaki,Ninja 300,Petrol,300,27,123,Heavy traffic,200,Local Road,143
+23,31,Motorcycle,Kawasaki,Ninja 300,Petrol,305,28,124,Moderate traffic,85,Hill Road,128
+44,47,Motorcycle,Kawasaki,Ninja 300,Petrol,310,32,128,Moderate traffic,105,Local Road,140
+34,39,Motorcycle,Kawasaki,Ninja 300,Petrol,295,25,120,Moderate traffic,88,Hill Road,137
+24,30,Motorcycle,Kawasaki,Ninja 300,Petrol,300,25,120,Light traffic,50,Local Road,128
+20,28,Motorcycle,Bajaj,Discover,Petrol,125,55,95,Light traffic,40,Urban,110
+15,22,Motorcycle,Bajaj,Discover,Petrol,110,60,90,Moderate traffic,30,Local Road,100
+40,45,Motorcycle,Bajaj,Discover,Petrol,150,50,100,Heavy traffic,100,Hill Road,120
+30,35,Motorcycle,Bajaj,Discover,Petrol,135,52,98,Moderate traffic,70,Local Road,115
+50,55,Motorcycle,Bajaj,Discover,Petrol,180,48,105,Heavy traffic,150,Highway,125
+25,32,Motorcycle,Bajaj,Discover,Petrol,125,54,96,Light traffic,50,Hill Road,105
+35,40,Motorcycle,Bajaj,Discover,Petrol,150,51,99,Moderate traffic,80,Local Road,118
+45,50,Motorcycle,Bajaj,Discover,Petrol,160,49,102,Moderate traffic,90,Hill Road,122
+55,60,Motorcycle,Bajaj,Discover,Petrol,180,47,104,Heavy traffic,120,Highway,128
+28,36,Motorcycle,Bajaj,Discover,Petrol,125,53,97,Moderate traffic,60,Local Road,112
+18,25,Motorcycle,Bajaj,Discover,Petrol,110,58,92,Light traffic,35,Urban,103
+38,42,Motorcycle,Bajaj,Discover,Petrol,150,50,100,Heavy traffic,85,Hill Road,121
+22,28,Motorcycle,Bajaj,Discover,Petrol,125,54,96,Light traffic,45,Urban,108
+33,39,Motorcycle,Bajaj,Discover,Petrol,135,52,98,Moderate traffic,75,Local Road,116
+26,33,Motorcycle,Bajaj,Discover,Petrol,120,56,94,Moderate traffic,55,Hill Road,107
+37,41,Motorcycle,Bajaj,Discover,Petrol,140,51,99,Moderate traffic,80,Local Road,118
+48,48,Motorcycle,Bajaj,Discover,Petrol,155,49,102,Heavy traffic,95,Highway,123
+42,45,Motorcycle,Bajaj,Discover,Petrol,150,50,100,Heavy traffic,90,Hill Road,121
+31,38,Motorcycle,Bajaj,Discover,Petrol,130,55,95,Light traffic,65,Local Road,114
+24,30,Motorcycle,Bajaj,Discover,Petrol,115,57,93,Light traffic,40,Urban,104
+20,28,Motorcycle,Suzuki,Gixxer,Petrol,155,50,100,Light traffic,40,Urban,110
+15,22,Motorcycle,Suzuki,Gixxer,Petrol,150,55,95,Moderate traffic,30,Local Road,100
+40,45,Motorcycle,Suzuki,Gixxer,Petrol,160,48,105,Heavy traffic,100,Hill Road,120
+30,35,Motorcycle,Suzuki,Gixxer,Petrol,155,52,98,Moderate traffic,70,Local Road,115
+50,55,Motorcycle,Suzuki,Gixxer,Petrol,165,46,110,Heavy traffic,150,Highway,125
+25,32,Motorcycle,Suzuki,Gixxer,Petrol,150,53,97,Light traffic,50,Hill Road,105
+35,40,Motorcycle,Suzuki,Gixxer,Petrol,160,49,102,Moderate traffic,80,Local Road,118
+45,50,Motorcycle,Suzuki,Gixxer,Petrol,170,47,104,Moderate traffic,90,Hill Road,122
+55,60,Motorcycle,Suzuki,Gixxer,Petrol,180,45,108,Heavy traffic,120,Highway,128
+28,36,Motorcycle,Suzuki,Gixxer,Petrol,155,51,99,Moderate traffic,60,Local Road,112
+18,25,Motorcycle,Suzuki,Gixxer,Petrol,145,56,94,Light traffic,35,Urban,103
+38,42,Motorcycle,Suzuki,Gixxer,Petrol,165,47,104,Heavy traffic,85,Hill Road,121
+22,28,Motorcycle,Suzuki,Gixxer,Petrol,150,54,96,Light traffic,45,Urban,108
+33,39,Motorcycle,Suzuki,Gixxer,Petrol,160,50,100,Moderate traffic,75,Local Road,116
+26,33,Motorcycle,Suzuki,Gixxer,Petrol,140,52,98,Moderate traffic,55,Hill Road,107
+37,41,Motorcycle,Suzuki,Gixxer,Petrol,165,48,105,Moderate traffic,80,Local Road,118
+48,48,Motorcycle,Suzuki,Gixxer,Petrol,175,46,110,Heavy traffic,95,Highway,123
+42,45,Motorcycle,Suzuki,Gixxer,Petrol,170,47,104,Heavy traffic,90,Hill Road,121
+31,38,Motorcycle,Suzuki,Gixxer,Petrol,155,50,100,Light traffic,65,Local Road,114
+24,30,Motorcycle,Suzuki,Gixxer,Petrol,135,54,96,Light traffic,40,Urban,104
+25,30,Motorcycle,TVS,Apache RTR,Petrol,160,45,110,Light traffic,50,Urban,115
+18,25,Motorcycle,TVS,Apache RTR,Petrol,180,42,115,Moderate traffic,40,Local Road,120
+40,45,Motorcycle,TVS,Apache RTR,Petrol,200,40,120,Heavy traffic,100,Hill Road,130
+30,35,Motorcycle,TVS,Apache RTR,Petrol,160,44,112,Moderate traffic,70,Local Road,118
+50,55,Motorcycle,TVS,Apache RTR,Petrol,220,38,125,Heavy traffic,150,Highway,135
+20,28,Motorcycle,TVS,Apache RTR,Petrol,180,42,115,Light traffic,60,Hill Road,122
+35,40,Motorcycle,TVS,Apache RTR,Petrol,200,39,122,Moderate traffic,80,Local Road,127
+45,50,Motorcycle,TVS,Apache RTR,Petrol,210,37,128,Moderate traffic,90,Hill Road,132
+55,60,Motorcycle,TVS,Apache RTR,Petrol,230,35,132,Heavy traffic,120,Highway,140
+28,36,Motorcycle,TVS,Apache RTR,Petrol,160,43,113,Moderate traffic,65,Local Road,119
+15,22,Motorcycle,TVS,Apache RTR,Petrol,150,47,108,Light traffic,35,Urban,110
+38,42,Motorcycle,TVS,Apache RTR,Petrol,210,36,127,Heavy traffic,85,Hill Road,133
+22,28,Motorcycle,TVS,Apache RTR,Petrol,170,41,118,Light traffic,55,Urban,117
+33,39,Motorcycle,TVS,Apache RTR,Petrol,190,38,125,Moderate traffic,75,Local Road,126
+26,33,Motorcycle,TVS,Apache RTR,Petrol,180,40,120,Moderate traffic,55,Hill Road,123
+37,41,Motorcycle,TVS,Apache RTR,Petrol,200,37,128,Moderate traffic,80,Local Road,129
+48,48,Motorcycle,TVS,Apache RTR,Petrol,220,35,132,Heavy traffic,95,Highway,136
+42,45,Motorcycle,TVS,Apache RTR,Petrol,210,36,127,Heavy traffic,90,Hill Road,135
+31,38,Motorcycle,TVS,Apache RTR,Petrol,170,40,120,Light traffic,70,Local Road,125
+24,30,Motorcycle,TVS,Apache RTR,Petrol,160,42,115,Light traffic,45,Urban,118
+30,25,Motorcycle,Yamaha,YZF-R1,Petrol,998,20,150,Light traffic,60,Highway,155
+15,10,Motorcycle,Yamaha,YZF-R1,Petrol,998,18,160,Moderate traffic,30,Urban,165
+50,40,Motorcycle,Yamaha,YZF-R1,Petrol,998,22,145,Heavy traffic,100,Hill Road,148
+35,30,Motorcycle,Yamaha,YZF-R1,Petrol,998,21,148,Moderate traffic,70,Local Road,160
+60,50,Motorcycle,Yamaha,YZF-R1,Petrol,998,24,140,Heavy traffic,150,Highway,165
+25,20,Motorcycle,Yamaha,YZF-R1,Petrol,998,19,158,Light traffic,50,Hill Road,152
+40,35,Motorcycle,Yamaha,YZF-R1,Petrol,998,23,143,Moderate traffic,80,Local Road,157
+45,38,Motorcycle,Yamaha,YZF-R1,Petrol,998,24,140,Moderate traffic,90,Hill Road,158
+55,45,Motorcycle,Yamaha,YZF-R1,Petrol,998,25,138,Heavy traffic,120,Highway,170
+28,22,Motorcycle,Yamaha,YZF-R1,Petrol,998,20,150,Moderate traffic,65,Local Road,163
+18,15,Motorcycle,Yamaha,YZF-R1,Petrol,998,17,165,Light traffic,35,Urban,160
+38,32,Motorcycle,Yamaha,YZF-R1,Petrol,998,22,145,Heavy traffic,85,Hill Road,155
+22,18,Motorcycle,Yamaha,YZF-R1,Petrol,998,18,160,Light traffic,55,Urban,162
+33,28,Motorcycle,Yamaha,YZF-R1,Petrol,998,21,148,Moderate traffic,75,Local Road,159
+26,21,Motorcycle,Yamaha,YZF-R1,Petrol,998,19,158,Moderate traffic,55,Hill Road,153
+37,31,Motorcycle,Yamaha,YZF-R1,Petrol,998,22,145,Moderate traffic,80,Local Road,157
+48,40,Motorcycle,Yamaha,YZF-R1,Petrol,998,23,143,Heavy traffic,95,Highway,168
+42,36,Motorcycle,Yamaha,YZF-R1,Petrol,998,24,140,Heavy traffic,90,Hill Road,160
+31,26,Motorcycle,Yamaha,YZF-R1,Petrol,998,20,150,Light traffic,70,Local Road,155
+24,18,Motorcycle,Yamaha,YZF-R1,Petrol,998,17,165,Light traffic,40,Urban,160
+25,20,Motorcycle,KTM,Duke 390,Petrol,373,30,120,Light traffic,60,Highway,125
+15,12,Motorcycle,KTM,Duke 390,Petrol,373,28,125,Moderate traffic,30,Urban,130
+40,35,Motorcycle,KTM,Duke 390,Petrol,373,32,115,Heavy traffic,100,Hill Road,135
+30,25,Motorcycle,KTM,Duke 390,Petrol,373,31,118,Moderate traffic,70,Local Road,128
+50,45,Motorcycle,KTM,Duke 390,Petrol,373,33,113,Heavy traffic,150,Highway,140
+20,18,Motorcycle,KTM,Duke 390,Petrol,373,29,123,Light traffic,50,Hill Road,130
+35,30,Motorcycle,KTM,Duke 390,Petrol,373,32,115,Moderate traffic,80,Local Road,135
+45,40,Motorcycle,KTM,Duke 390,Petrol,373,34,110,Moderate traffic,90,Hill Road,138
+55,50,Motorcycle,KTM,Duke 390,Petrol,373,35,108,Heavy traffic,120,Highway,145
+28,22,Motorcycle,KTM,Duke 390,Petrol,373,30,120,Moderate traffic,65,Local Road,132
+18,15,Motorcycle,KTM,Duke 390,Petrol,373,27,128,Light traffic,35,Urban,135
+38,33,Motorcycle,KTM,Duke 390,Petrol,373,33,113,Heavy traffic,85,Hill Road,140
+22,20,Motorcycle,KTM,Duke 390,Petrol,373,28,125,Light traffic,55,Urban,127
+33,28,Motorcycle,KTM,Duke 390,Petrol,373,31,118,Moderate traffic,75,Local Road,133
+26,23,Motorcycle,KTM,Duke 390,Petrol,373,29,123,Moderate traffic,55,Hill Road,136
+37,32,Motorcycle,KTM,Duke 390,Petrol,373,32,115,Moderate traffic,80,Local Road,137
+48,42,Motorcycle,KTM,Duke 390,Petrol,373,34,110,Heavy traffic,95,Highway,150
+42,38,Motorcycle,KTM,Duke 390,Petrol,373,33,113,Heavy traffic,90,Hill Road,145
+31,27,Motorcycle,KTM,Duke 390,Petrol,373,29,123,Light traffic,70,Local Road,138
+24,20,Motorcycle,KTM,Duke 390,Petrol,373,28,125,Light traffic,40,Urban,133
+25,20,Motorcycle,Honda,CB Hornet 160R,Petrol,162,45,110,Light traffic,60,Highway,115
+15,12,Motorcycle,Honda,CB Hornet 160R,Petrol,162,40,120,Moderate traffic,30,Urban,120
+40,35,Motorcycle,Honda,CB Hornet 160R,Petrol,162,50,100,Heavy traffic,100,Hill Road,130
+30,25,Motorcycle,Honda,CB Hornet 160R,Petrol,162,48,105,Moderate traffic,70,Local Road,125
+50,45,Motorcycle,Honda,CB Hornet 160R,Petrol,162,55,95,Heavy traffic,150,Highway,135
+20,18,Motorcycle,Honda,CB Hornet 160R,Petrol,162,42,115,Light traffic,50,Hill Road,120
+35,30,Motorcycle,Honda,CB Hornet 160R,Petrol,162,52,98,Moderate traffic,80,Local Road,128
+45,40,Motorcycle,Honda,CB Hornet 160R,Petrol,162,58,90,Moderate traffic,90,Hill Road,132
+55,50,Motorcycle,Honda,CB Hornet 160R,Petrol,162,60,88,Heavy traffic,120,Highway,140
+28,22,Motorcycle,Honda,CB Hornet 160R,Petrol,162,46,108,Moderate traffic,65,Local Road,123
+18,15,Motorcycle,Honda,CB Hornet 160R,Petrol,162,38,125,Light traffic,35,Urban,120
+38,33,Motorcycle,Honda,CB Hornet 160R,Petrol,162,53,97,Heavy traffic,85,Hill Road,130
+22,20,Motorcycle,Honda,CB Hornet 160R,Petrol,162,40,120,Light traffic,55,Urban,125
+33,28,Motorcycle,Honda,CB Hornet 160R,Petrol,162,50,100,Moderate traffic,75,Local Road,128
+26,23,Motorcycle,Honda,CB Hornet 160R,Petrol,162,45,110,Moderate traffic,55,Hill Road,127
+37,32,Motorcycle,Honda,CB Hornet 160R,Petrol,162,52,98,Moderate traffic,80,Local Road,130
+48,42,Motorcycle,Honda,CB Hornet 160R,Petrol,162,58,90,Heavy traffic,95,Highway,135
+42,38,Motorcycle,Honda,CB Hornet 160R,Petrol,162,54,95,Heavy traffic,90,Hill Road,133
+31,27,Motorcycle,Honda,CB Hornet 160R,Petrol,162,48,105,Light traffic,70,Local Road,126
+24,20,Motorcycle,Honda,CB Hornet 160R,Petrol,162,42,115,Light traffic,40,Urban,123
+25,30,Motorcycle,Royal Enfield,Classic 350,Petrol,346,30,120,Light traffic,60,Highway,125
+15,20,Motorcycle,Royal Enfield,Classic 350,Petrol,346,28,125,Moderate traffic,30,Urban,130
+40,50,Motorcycle,Royal Enfield,Classic 350,Petrol,346,32,115,Heavy traffic,100,Hill Road,135
+30,40,Motorcycle,Royal Enfield,Classic 350,Petrol,346,31,118,Moderate traffic,70,Local Road,128
+50,60,Motorcycle,Royal Enfield,Classic 350,Petrol,346,33,113,Heavy traffic,150,Highway,135
+20,25,Motorcycle,Royal Enfield,Classic 350,Petrol,346,29,123,Light traffic,50,Hill Road,130
+35,45,Motorcycle,Royal Enfield,Classic 350,Petrol,346,32,115,Moderate traffic,80,Local Road,128
+45,55,Motorcycle,Royal Enfield,Classic 350,Petrol,346,34,110,Moderate traffic,90,Hill Road,132
+55,65,Motorcycle,Royal Enfield,Classic 350,Petrol,346,35,108,Heavy traffic,120,Highway,135
+28,35,Motorcycle,Royal Enfield,Classic 350,Petrol,346,31,118,Moderate traffic,65,Local Road,128
+18,22,Motorcycle,Royal Enfield,Classic 350,Petrol,346,27,128,Light traffic,35,Urban,130
+38,48,Motorcycle,Royal Enfield,Classic 350,Petrol,346,33,113,Heavy traffic,85,Hill Road,135
+22,28,Motorcycle,Royal Enfield,Classic 350,Petrol,346,28,125,Light traffic,55,Urban,127
+33,42,Motorcycle,Royal Enfield,Classic 350,Petrol,346,31,118,Moderate traffic,75,Local Road,128
+26,33,Motorcycle,Royal Enfield,Classic 350,Petrol,346,30,120,Moderate traffic,55,Hill Road,127
+37,47,Motorcycle,Royal Enfield,Classic 350,Petrol,346,32,115,Moderate traffic,80,Local Road,128
+48,58,Motorcycle,Royal Enfield,Classic 350,Petrol,346,34,110,Heavy traffic,95,Highway,135
+42,52,Motorcycle,Royal Enfield,Classic 350,Petrol,346,33,113,Heavy traffic,90,Hill Road,135
+31,38,Motorcycle,Royal Enfield,Classic 350,Petrol,346,29,123,Light traffic,70,Local Road,128
+24,30,Motorcycle,Royal Enfield,Classic 350,Petrol,346,28,125,Light traffic,40,Urban,130
+25,30,Motorcycle,Yamaha,MT-15,Petrol,155,40,115,Light traffic,60,Highway,120
+15,20,Motorcycle,Yamaha,MT-15,Petrol,155,38,120,Moderate traffic,30,Urban,125
+40,50,Motorcycle,Yamaha,MT-15,Petrol,155,42,110,Heavy traffic,100,Hill Road,130
+30,40,Motorcycle,Yamaha,MT-15,Petrol,155,41,112,Moderate traffic,70,Local Road,128
+50,60,Motorcycle,Yamaha,MT-15,Petrol,155,44,105,Heavy traffic,150,Highway,135
+20,25,Motorcycle,Yamaha,MT-15,Petrol,155,39,118,Light traffic,50,Hill Road,125
+35,45,Motorcycle,Yamaha,MT-15,Petrol,155,43,108,Moderate traffic,80,Local Road,130
+45,55,Motorcycle,Yamaha,MT-15,Petrol,155,45,105,Moderate traffic,90,Hill Road,132
+55,65,Motorcycle,Yamaha,MT-15,Petrol,155,46,102,Heavy traffic,120,Highway,138
+28,35,Motorcycle,Yamaha,MT-15,Petrol,155,40,115,Moderate traffic,65,Local Road,125
+18,22,Motorcycle,Yamaha,MT-15,Petrol,155,37,123,Light traffic,35,Urban,127
+38,48,Motorcycle,Yamaha,MT-15,Petrol,155,42,110,Heavy traffic,85,Hill Road,130
+22,28,Motorcycle,Yamaha,MT-15,Petrol,155,38,120,Light traffic,55,Urban,128
+33,42,Motorcycle,Yamaha,MT-15,Petrol,155,41,112,Moderate traffic,75,Local Road,128
+26,33,Motorcycle,Yamaha,MT-15,Petrol,155,39,118,Moderate traffic,55,Hill Road,126
+37,47,Motorcycle,Yamaha,MT-15,Petrol,155,43,108,Moderate traffic,80,Local Road,130
+48,58,Motorcycle,Yamaha,MT-15,Petrol,155,45,105,Light traffic,95,Highway,135
+42,52,Motorcycle,Yamaha,MT-15,Petrol,155,44,105,Heavy traffic,90,Hill Road,132
+31,38,Motorcycle,Yamaha,MT-15,Petrol,155,40,115,Light traffic,70,Local Road,128
+24,30,Motorcycle,Yamaha,MT-15,Petrol,155,38,120,Light traffic,40,Urban,127
+25,30,Motorcycle,Suzuki,Gixxer SF,Petrol,155,35,117,Light traffic,60,Highway,123
+15,20,Motorcycle,Suzuki,Gixxer SF,Petrol,155,33,122,Moderate traffic,30,Urban,128
+40,50,Motorcycle,Suzuki,Gixxer SF,Petrol,155,38,112,Heavy traffic,100,Hill Road,133
+30,40,Motorcycle,Suzuki,Gixxer SF,Petrol,155,37,114,heavy traffic,70,Local Road,130
+50,60,Motorcycle,Suzuki,Gixxer SF,Petrol,155,40,110,Heavy traffic,150,Highway,138
+20,25,Motorcycle,Suzuki,Gixxer SF,Petrol,155,34,119,Light traffic,50,Hill Road,125
+35,45,Motorcycle,Suzuki,Gixxer SF,Petrol,155,39,115,Moderate traffic,80,Local Road,132
+45,55,Motorcycle,Suzuki,Gixxer SF,Petrol,155,41,110,Moderate traffic,90,Hill Road,135
+55,65,Motorcycle,Suzuki,Gixxer SF,Petrol,155,42,108,Heavy traffic,120,Highway,140
+28,35,Motorcycle,Suzuki,Gixxer SF,Petrol,155,36,116,Moderate traffic,65,Local Road,128
+18,22,Motorcycle,Suzuki,Gixxer SF,Petrol,155,31,130,Light traffic,35,Urban,127
+38,48,Motorcycle,Suzuki,Gixxer SF,Petrol,155,40,110,Heavy traffic,85,Hill Road,133
+22,28,Motorcycle,Suzuki,Gixxer SF,Petrol,155,33,122,Light traffic,55,Urban,130
+33,42,Motorcycle,Suzuki,Gixxer SF,Petrol,155,38,112,Moderate traffic,75,Local Road,130
+26,33,Motorcycle,Suzuki,Gixxer SF,Petrol,155,35,117,Moderate traffic,55,Hill Road,127
+37,47,Motorcycle,Suzuki,Gixxer SF,Petrol,155,39,115,Moderate traffic,80,Local Road,132
+48,58,Motorcycle,Suzuki,Gixxer SF,Petrol,155,42,110,Heavy traffic,95,Highway,138
+42,52,Motorcycle,Suzuki,Gixxer SF,Petrol,155,41,110,Heavy traffic,90,Hill Road,135
+31,38,Motorcycle,Suzuki,Gixxer SF,Petrol,155,37,114,Light traffic,70,Local Road,130
+24,30,Motorcycle,Suzuki,Gixxer SF,Petrol,155,33,122,Light traffic,40,Urban,127
+25,30,Bike,Bajaj,Pulsar NS200,Petrol,199,35,117,Light traffic,60,Highway,123
+15,20,Bike,Bajaj,Pulsar NS200,Petrol,199,33,122,Moderate traffic,30,Urban,128
+40,50,Bike,Bajaj,Pulsar NS200,Petrol,199,38,112,Heavy traffic,100,Hill Road,133
+30,40,Bike,Bajaj,Pulsar NS200,Petrol,199,37,114,Moderate traffic,70,Local Road,130
+50,60,Bike,Bajaj,Pulsar NS200,Petrol,199,40,110,Heavy traffic,150,Highway,138
+20,25,Bike,Bajaj,Pulsar NS200,Petrol,199,34,119,Light traffic,50,Hill Road,125
+35,45,Bike,Bajaj,Pulsar NS200,Petrol,199,39,115,Moderate traffic,80,Local Road,132
+45,55,Bike,Bajaj,Pulsar NS200,Petrol,199,41,110,Moderate traffic,90,Hill Road,135
+55,65,Bike,Bajaj,Pulsar NS200,Petrol,199,42,108,Heavy traffic,120,Highway,140
+28,35,Bike,Bajaj,Pulsar NS200,Petrol,199,36,116,Moderate traffic,65,Local Road,128
+18,22,Bike,Bajaj,Pulsar NS200,Petrol,199,31,130,Light traffic,35,Urban,127
+38,48,Bike,Bajaj,Pulsar NS200,Petrol,199,40,110,Heavy traffic,85,Hill Road,133
+22,28,Bike,Bajaj,Pulsar NS200,Petrol,199,33,122,Light traffic,55,Urban,130
+33,42,Bike,Bajaj,Pulsar NS200,Petrol,199,38,112,Moderate traffic,75,Local Road,130
+26,33,Bike,Bajaj,Pulsar NS200,Petrol,199,35,117,Moderate traffic,55,Hill Road,127
+37,47,Bike,Bajaj,Pulsar NS200,Petrol,199,39,115,Moderate traffic,80,Local Road,132
+48,58,Bike,Bajaj,Pulsar NS200,Petrol,199,42,110,Heavy traffic,95,Highway,138
+42,52,Bike,Bajaj,Pulsar NS200,Petrol,199,41,110,Heavy traffic,90,Hill Road,135
+31,38,Bike,Bajaj,Pulsar NS200,Petrol,199,37,114,Light traffic,70,Local Road,130
+24,30,Bike,Bajaj,Pulsar NS200,Petrol,199,33,122,Light traffic,40,Urban,127
+25,30,Bike,Honda,CB Hornet 160R,Petrol,162,40,115,Light Traffic,60,Highway,123
+15,20,Bike,Honda,CB Hornet 160R,Petrol,162,38,120,Moderate Traffic,30,Urban,128
+40,50,Bike,Honda,CB Hornet 160R,Petrol,162,42,110,Heavy Traffic,100,Hill Road,133
+30,40,Bike,Honda,CB Hornet 160R,Petrol,162,41,112,Moderate Traffic,70,Local Road,130
+50,60,Bike,Honda,CB Hornet 160R,Petrol,162,44,105,Heavy Traffic,150,Highway,138
+20,25,Bike,Honda,CB Hornet 160R,Petrol,162,39,118,Light Traffic,50,Hill Road,125
+35,45,Bike,Honda,CB Hornet 160R,Petrol,162,43,108,Moderate Traffic,80,Local Road,132
+45,55,Bike,Honda,CB Hornet 160R,Petrol,162,45,105,Moderate Traffic,90,Hill Road,135
+55,65,Bike,Honda,CB Hornet 160R,Petrol,162,46,102,Heavy Traffic,120,Highway,140
+28,35,Bike,Honda,CB Hornet 160R,Petrol,162,40,115,Moderate Traffic,65,Local Road,128
+18,22,Bike,Honda,CB Hornet 160R,Petrol,162,37,123,Light Traffic,35,Urban,127
+38,48,Bike,Honda,CB Hornet 160R,Petrol,162,40,110,Heavy Traffic,85,Hill Road,133
+22,28,Bike,Honda,CB Hornet 160R,Petrol,162,33,122,Light Traffic,55,Urban,130
+33,42,Bike,Honda,CB Hornet 160R,Petrol,162,38,112,Moderate Traffic,75,Local Road,130
+26,33,Bike,Honda,CB Hornet 160R,Petrol,162,35,117,Moderate Traffic,55,Hill Road,127
+37,47,Bike,Honda,CB Hornet 160R,Petrol,162,39,115,Moderate Traffic,80,Local Road,132
+48,58,Bike,Honda,CB Hornet 160R,Petrol,162,42,110,Heavy Traffic,95,Highway,138
+42,52,Bike,Honda,CB Hornet 160R,Petrol,162,41,110,Heavy Traffic,90,Hill Road,135
+31,38,Bike,Honda,CB Hornet 160R,Petrol,162,37,114,Light Traffic,70,Local Road,130
+24,30,Bike,Honda,CB Hornet 160R,Petrol,162,33,122,Light Traffic,40,Urban,127
+25,30,Bike,TVS,Apache RTR 160 4V,Petrol,159,45,105,Light Traffic,60,Highway,110
+15,20,Bike,TVS,Apache RTR 160 4V,Petrol,159,42,110,Moderate Traffic,30,Urban,115
+40,50,Bike,TVS,Apache RTR 160 4V,Petrol,159,48,100,Heavy Traffic,100,Hill Road,120
+30,40,Bike,TVS,Apache RTR 160 4V,Petrol,159,47,102,Moderate Traffic,70,Local Road,118
+50,60,Bike,TVS,Apache RTR 160 4V,Petrol,159,50,98,Heavy Traffic,150,Highway,125
+20,25,Bike,TVS,Apache RTR 160 4V,Petrol,159,44,107,Light Traffic,50,Hill Road,112
+35,45,Bike,TVS,Apache RTR 160 4V,Petrol,159,49,99,Moderate Traffic,80,Local Road,119
+45,55,Bike,TVS,Apache RTR 160 4V,Petrol,159,51,95,Moderate Traffic,90,Hill Road,123
+55,65,Bike,TVS,Apache RTR 160 4V,Petrol,159,53,92,Heavy Traffic,120,Highway,128
+28,35,Bike,TVS,Apache RTR 160 4V,Petrol,159,46,103,Moderate Traffic,65,Local Road,117
+18,22,Bike,TVS,Apache RTR 160 4V,Petrol,159,41,108,Light Traffic,35,Urban,113
+38,48,Bike,TVS,Apache RTR 160 4V,Petrol,159,48,100,Heavy Traffic,85,Hill Road,120
+22,28,Bike,TVS,Apache RTR 160 4V,Petrol,159,42,110,Light Traffic,55,Urban,115
+33,42,Bike,TVS,Apache RTR 160 4V,Petrol,159,47,102,Moderate Traffic,75,Local Road,118
+26,33,Bike,TVS,Apache RTR 160 4V,Petrol,159,45,105,Moderate Traffic,55,Hill Road,112
+37,47,Bike,TVS,Apache RTR 160 4V,Petrol,159,49,99,Moderate Traffic,80,Local Road,119
+48,58,Bike,TVS,Apache RTR 160 4V,Petrol,159,53,92,Heavy Traffic,95,Highway,125
+42,52,Bike,TVS,Apache RTR 160 4V,Petrol,159,51,95,Heavy Traffic,90,Hill Road,123
+31,38,Bike,TVS,Apache RTR 160 4V,Petrol,159,47,102,Light Traffic,70,Local Road,118
+24,30,Bike,TVS,Apache RTR 160 4V,Petrol,159,42,110,Light Traffic,40,Urban,113
+25,30,Bike,Yamaha,FZS-FI Version 3.0,Petrol,149,45,105,Light Traffic,60,Highway,110
+15,20,Bike,Yamaha,FZS-FI Version 3.0,Petrol,149,42,110,Moderate Traffic,30,Urban,115
+40,50,Bike,Yamaha,FZS-FI Version 3.0,Petrol,149,48,100,Heavy Traffic,100,Hill Road,120
+30,40,Bike,Yamaha,FZS-FI Version 3.0,Petrol,149,47,102,Moderate Traffic,70,Local Road,118
+50,60,Bike,Yamaha,FZS-FI Version 3.0,Petrol,149,50,98,Heavy Traffic,150,Highway,125
+20,25,Bike,Yamaha,FZS-FI Version 3.0,Petrol,149,44,107,Light Traffic,50,Hill Road,112
+35,45,Bike,Yamaha,FZS-FI Version 3.0,Petrol,149,49,99,Moderate Traffic,80,Local Road,119
+45,55,Bike,Yamaha,FZS-FI Version 3.0,Petrol,149,51,95,Moderate Traffic,90,Hill Road,123
+55,65,Bike,Yamaha,FZS-FI Version 3.0,Petrol,149,53,92,Heavy Traffic,120,Highway,128
+28,35,Bike,Yamaha,FZS-FI Version 3.0,Petrol,149,46,103,Moderate Traffic,65,Local Road,117
+18,22,Bike,Yamaha,FZS-FI Version 3.0,Petrol,149,41,108,Light Traffic,35,Urban,113
+38,48,Bike,Yamaha,FZS-FI Version 3.0,Petrol,149,48,100,Heavy Traffic,85,Hill Road,120
+22,28,Bike,Yamaha,FZS-FI Version 3.0,Petrol,149,42,110,Light Traffic,55,Urban,115
+33,42,Bike,Yamaha,FZS-FI Version 3.0,Petrol,149,47,102,Moderate Traffic,75,Local Road,118
+26,33,Bike,Yamaha,FZS-FI Version 3.0,Petrol,149,45,105,Moderate Traffic,55,Hill Road,112
+37,47,Bike,Yamaha,FZS-FI Version 3.0,Petrol,149,49,99,Moderate Traffic,80,Local Road,119
+48,58,Bike,Yamaha,FZS-FI Version 3.0,Petrol,149,53,92,Heavy Traffic,95,Highway,125
+42,52,Bike,Yamaha,FZS-FI Version 3.0,Petrol,149,51,95,Heavy Traffic,90,Hill Road,123
+31,38,Bike,Yamaha,FZS-FI Version 3.0,Petrol,149,47,102,Light Traffic,70,Local Road,118
+24,30,Bike,Yamaha,FZS-FI Version 3.0,Petrol,149,42,110,Light Traffic,40,Urban,113
+25,30,Bike,Suzuki,Gixxer SF,Petrol,155,40,115,Light Traffic,60,Highway,110
+15,20,Bike,Suzuki,Gixxer SF,Petrol,155,38,120,Moderate Traffic,30,Urban,115
+40,50,Bike,Suzuki,Gixxer SF,Petrol,155,42,110,Heavy Traffic,100,Hill Road,120
+30,40,Bike,Suzuki,Gixxer SF,Petrol,155,41,112,Moderate Traffic,70,Local Road,118
+50,60,Bike,Suzuki,Gixxer SF,Petrol,155,44,105,Heavy Traffic,150,Highway,125
+20,25,Bike,Suzuki,Gixxer SF,Petrol,155,39,118,Light Traffic,50,Hill Road,112
+35,45,Bike,Suzuki,Gixxer SF,Petrol,155,43,108,Moderate Traffic,80,Local Road,119
+45,55,Bike,Suzuki,Gixxer SF,Petrol,155,45,105,Moderate Traffic,90,Hill Road,123
+55,65,Bike,Suzuki,Gixxer SF,Petrol,155,46,102,Heavy Traffic,120,Highway,128
+28,35,Bike,Suzuki,Gixxer SF,Petrol,155,46,103,Moderate Traffic,65,Local Road,117
+18,22,Bike,Suzuki,Gixxer SF,Petrol,155,41,108,Light Traffic,35,Urban,113
+38,48,Bike,Suzuki,Gixxer SF,Petrol,155,48,100,Heavy Traffic,85,Hill Road,120
+22,28,Bike,Suzuki,Gixxer SF,Petrol,155,42,110,Light Traffic,55,Urban,115
+33,42,Bike,Suzuki,Gixxer SF,Petrol,155,47,102,Moderate Traffic,75,Local Road,118
+26,33,Bike,Suzuki,Gixxer SF,Petrol,155,45,105,Moderate Traffic,55,Hill Road,112
+37,47,Bike,Suzuki,Gixxer SF,Petrol,155,49,99,Moderate Traffic,80,Local Road,119
+48,58,Bike,Suzuki,Gixxer SF,Petrol,155,53,92,Heavy Traffic,95,Highway,125
+42,52,Bike,Suzuki,Gixxer SF,Petrol,155,51,95,Heavy Traffic,90,Hill Road,123
+31,38,Bike,Suzuki,Gixxer SF,Petrol,155,47,102,Light Traffic,70,Local Road,118
+24,30,Bike,Suzuki,Gixxer SF,Petrol,155,42,110,Light Traffic,40,Urban,113
+25,30,Bike,KTM,Duke 200,Petrol,200,35,117,Light Traffic,60,Highway,123
+15,20,Bike,KTM,Duke 200,Petrol,200,33,122,Moderate Traffic,30,Urban,128
+40,50,Bike,KTM,Duke 200,Petrol,200,38,112,Heavy Traffic,100,Hill Road,133
+30,40,Bike,KTM,Duke 200,Petrol,200,37,114,Moderate Traffic,70,Local Road,130
+50,60,Bike,KTM,Duke 200,Petrol,200,40,110,Heavy Traffic,150,Highway,138
+20,25,Bike,KTM,Duke 200,Petrol,200,34,119,Light Traffic,50,Hill Road,125
+35,45,Bike,KTM,Duke 200,Petrol,200,39,115,Moderate Traffic,80,Local Road,132
+45,55,Bike,KTM,Duke 200,Petrol,200,41,110,Moderate Traffic,90,Hill Road,135
+55,65,Bike,KTM,Duke 200,Petrol,200,42,108,Heavy Traffic,120,Highway,140
+28,35,Bike,KTM,Duke 200,Petrol,200,36,116,Moderate Traffic,65,Local Road,128
+18,22,Bike,KTM,Duke 200,Petrol,200,31,130,Light Traffic,35,Urban,127
+38,48,Bike,KTM,Duke 200,Petrol,200,40,110,Heavy Traffic,85,Hill Road,133
+22,28,Bike,KTM,Duke 200,Petrol,200,33,122,Light Traffic,55,Urban,130
+33,42,Bike,KTM,Duke 200,Petrol,200,38,112,Moderate Traffic,75,Local Road,130
+26,33,Bike,KTM,Duke 200,Petrol,200,35,117,Moderate Traffic,55,Hill Road,127
+37,47,Bike,KTM,Duke 200,Petrol,200,39,115,Moderate Traffic,80,Local Road,132
+48,58,Bike,KTM,Duke 200,Petrol,200,42,110,Heavy Traffic,95,Highway,138
+42,52,Bike,KTM,Duke 200,Petrol,200,41,110,Heavy Traffic,90,Hill Road,135
+31,38,Bike,KTM,Duke 200,Petrol,200,37,114,Light Traffic,70,Local Road,130
+24,30,Bike,KTM,Duke 200,Petrol,200,33,122,Light Traffic,40,Urban,127
+25,30,Bike,Royal Enfield,Classic 350,Petrol,346,30,125,Light Traffic,60,Highway,133
+15,20,Bike,Royal Enfield,Classic 350,Petrol,346,28,130,Moderate Traffic,30,Urban,138
+40,50,Bike,Royal Enfield,Classic 350,Petrol,346,32,120,Heavy Traffic,100,Hill Road,143
+30,40,Bike,Royal Enfield,Classic 350,Petrol,346,31,122,Moderate Traffic,70,Local Road,140
+50,60,Bike,Royal Enfield,Classic 350,Petrol,346,34,115,Heavy Traffic,150,Highway,148
+20,25,Bike,Royal Enfield,Classic 350,Petrol,346,29,127,Light Traffic,50,Hill Road,135
+35,45,Bike,Royal Enfield,Classic 350,Petrol,346,33,118,Moderate Traffic,80,Local Road,145
+45,55,Bike,Royal Enfield,Classic 350,Petrol,346,35,115,Moderate Traffic,90,Hill Road,150
+55,65,Bike,Royal Enfield,Classic 350,Petrol,346,36,112,Heavy Traffic,120,Highway,155
+28,35,Bike,Royal Enfield,Classic 350,Petrol,346,30,125,Moderate Traffic,65,Local Road,138
+18,22,Bike,Royal Enfield,Classic 350,Petrol,346,26,135,Light Traffic,35,Urban,137
+38,48,Bike,Royal Enfield,Classic 350,Petrol,346,32,120,Heavy Traffic,85,Hill Road,143
+22,28,Bike,Royal Enfield,Classic 350,Petrol,346,28,130,Light Traffic,55,Urban,138
+33,42,Bike,Royal Enfield,Classic 350,Petrol,346,31,122,Moderate Traffic,75,Local Road,140
+26,33,Bike,Royal Enfield,Classic 350,Petrol,346,27,128,Moderate Traffic,55,Hill Road,135
+37,47,Bike,Royal Enfield,Classic 350,Petrol,346,33,118,Moderate Traffic,80,Local Road,145
+48,58,Bike,Royal Enfield,Classic 350,Petrol,346,35,115,Heavy Traffic,95,Highway,148
+42,52,Bike,Royal Enfield,Classic 350,Petrol,346,34,115,Heavy Traffic,90,Hill Road,150
+31,38,Bike,Royal Enfield,Classic 350,Petrol,346,30,125,Light Traffic,70,Local Road,140
+24,30,Bike,Royal Enfield,Classic 350,Petrol,346,26,135,Light Traffic,40,Urban,137
+25,30,Bike,Honda,CB Unicorn 150,Petrol,149,55,95,Light Traffic,60,Highway,100
+15,20,Bike,Honda,CB Unicorn 150,Petrol,149,50,100,Moderate Traffic,30,Urban,105
+40,50,Bike,Honda,CB Unicorn 150,Petrol,149,60,90,Heavy Traffic,100,Hill Road,110
+30,40,Bike,Honda,CB Unicorn 150,Petrol,149,58,92,Moderate Traffic,70,Local Road,108
+50,60,Bike,Honda,CB Unicorn 150,Petrol,149,65,85,Heavy Traffic,150,Highway,115
+20,25,Bike,Honda,CB Unicorn 150,Petrol,149,52,98,Light Traffic,50,Hill Road,103
+35,45,Bike,Honda,CB Unicorn 150,Petrol,149,62,88,Moderate Traffic,80,Local Road,112
+45,55,Bike,Honda,CB Unicorn 150,Petrol,149,63,87,Moderate Traffic,90,Hill Road,117
+55,65,Bike,Honda,CB Unicorn 150,Petrol,149,67,83,Heavy Traffic,120,Highway,122
+28,35,Bike,Honda,CB Unicorn 150,Petrol,149,56,94,Moderate Traffic,65,Local Road,106
+18,22,Bike,Honda,CB Unicorn 150,Petrol,149,48,102,Light Traffic,35,Urban,107
+38,48,Bike,Honda,CB Unicorn 150,Petrol,149,61,89,Heavy Traffic,85,Hill Road,111
+22,28,Bike,Honda,CB Unicorn 150,Petrol,149,51,97,Light Traffic,55,Urban,104
+33,42,Bike,Honda,CB Unicorn 150,Petrol,149,59,91,Moderate Traffic,75,Local Road,109
+26,33,Bike,Honda,CB Unicorn 150,Petrol,149,54,96,Moderate Traffic,55,Hill Road,105
+37,47,Bike,Honda,CB Unicorn 150,Petrol,149,64,86,Moderate Traffic,80,Local Road,114
+48,58,Bike,Honda,CB Unicorn 150,Petrol,149,68,82,Heavy Traffic,95,Highway,119
+42,52,Bike,Honda,CB Unicorn 150,Petrol,149,66,84,Heavy Traffic,90,Hill Road,116
+31,38,Bike,Honda,CB Unicorn 150,Petrol,149,57,93,Light Traffic,70,Local Road,108
+24,30,Bike,Honda,CB Unicorn 150,Petrol,149,50,100,Light Traffic,40,Urban,107
+25,30,Bike,TVS,Apache RTR 160,Petrol,159,45,105,Light Traffic,60,Highway,110
+15,20,Bike,TVS,Apache RTR 160,Petrol,159,42,110,Moderate Traffic,30,Urban,115
+40,50,Bike,TVS,Apache RTR 160,Petrol,159,48,100,Heavy Traffic,100,Hill Road,120
+30,40,Bike,TVS,Apache RTR 160,Petrol,159,47,102,Moderate Traffic,70,Local Road,118
+50,60,Bike,TVS,Apache RTR 160,Petrol,159,50,98,Heavy Traffic,150,Highway,125
+20,25,Bike,TVS,Apache RTR 160,Petrol,159,44,107,Light Traffic,50,Hill Road,112
+35,45,Bike,TVS,Apache RTR 160,Petrol,159,49,99,Moderate Traffic,80,Local Road,119
+45,55,Bike,TVS,Apache RTR 160,Petrol,159,51,95,Moderate Traffic,90,Hill Road,123
+55,65,Bike,TVS,Apache RTR 160,Petrol,159,53,92,Heavy Traffic,120,Highway,128
+28,35,Bike,TVS,Apache RTR 160,Petrol,159,46,103,Moderate Traffic,65,Local Road,117
+18,22,Bike,TVS,Apache RTR 160,Petrol,159,41,108,Light Traffic,35,Urban,113
+38,48,Bike,TVS,Apache RTR 160,Petrol,159,48,100,Heavy Traffic,85,Hill Road,120
+22,28,Bike,TVS,Apache RTR 160,Petrol,159,42,110,Light Traffic,55,Urban,115
+33,42,Bike,TVS,Apache RTR 160,Petrol,159,47,102,Moderate Traffic,75,Local Road,118
+26,33,Bike,TVS,Apache RTR 160,Petrol,159,45,105,Moderate Traffic,55,Hill Road,112
+37,47,Bike,TVS,Apache RTR 160,Petrol,159,49,99,Moderate Traffic,80,Local Road,119
+48,58,Bike,TVS,Apache RTR 160,Petrol,159,53,92,Heavy Traffic,95,Highway,125
+42,52,Bike,TVS,Apache RTR 160,Petrol,159,51,95,Heavy Traffic,90,Hill Road,123
+31,38,Bike,TVS,Apache RTR 160,Petrol,159,47,102,Light Traffic,70,Local Road,118
+24,30,Bike,TVS,Apache RTR 160,Petrol,159,42,110,Light Traffic,40,Urban,115
+20,25,Scooty,Honda,Activa 6G,Petrol,109.51,60,88,Light Traffic,50,Urban,93
+15,20,Scooty,Honda,Activa 6G,Petrol,109.51,55,95,Moderate Traffic,30,Urban,98
+25,30,Scooty,Honda,Activa 6G,Petrol,109.51,65,80,Heavy Traffic,100,Urban,103
+10,15,Scooty,Honda,Activa 6G,Petrol,109.51,50,100,Light Traffic,20,Urban,88
+30,35,Scooty,Honda,Activa 6G,Petrol,109.51,70,75,Moderate Traffic,80,Urban,108
+12,18,Scooty,Honda,Activa 6G,Petrol,109.51,52,96,Moderate Traffic,25,Urban,90
+18,22,Scooty,Honda,Activa 6G,Petrol,109.51,57,91,Light Traffic,40,Urban,95
+35,40,Scooty,Honda,Activa 6G,Petrol,109.51,75,70,Heavy Traffic,120,Urban,113
+22,28,Scooty,Honda,Activa 6G,Petrol,109.51,60,88,Moderate Traffic,60,Urban,98
+28,33,Scooty,Honda,Activa 6G,Petrol,109.51,63,85,Light Traffic,70,Urban,103
+40,45,Scooty,Honda,Activa 6G,Petrol,109.51,80,65,Moderate Traffic,140,Urban,118
+16,21,Scooty,Honda,Activa 6G,Petrol,109.51,55,95,Heavy Traffic,35,Urban,98
+24,29,Scooty,Honda,Activa 6G,Petrol,109.51,62,87,Moderate Traffic,65,Urban,103
+38,43,Scooty,Honda,Activa 6G,Petrol,109.51,78,68,Light Traffic,100,Urban,113
+14,19,Scooty,Honda,Activa 6G,Petrol,109.51,53,94,Moderate Traffic,30,Urban,90
+29,34,Scooty,Honda,Activa 6G,Petrol,109.51,65,80,Light Traffic,75,Urban,103
+45,50,Scooty,Honda,Activa 6G,Petrol,109.51,82,63,Moderate Traffic,150,Urban,118
+17,23,Scooty,Honda,Activa 6G,Petrol,109.51,57,91,Heavy Traffic,40,Urban,95
+27,32,Scooty,Honda,Activa 6G,Petrol,109.51,64,83,Moderate Traffic,60,Urban,100
+36,41,Scooty,Honda,Activa 6G,Petrol,109.51,77,69,Light Traffic,90,Urban,113
+19,24,Scooty,Honda,Activa 6G,Petrol,109.51,58,90,Moderate Traffic,45,Urban,96
+33,38,Scooty,Honda,Activa 6G,Petrol,109.51,70,75,Heavy Traffic,80,Urban,108
+50,55,Scooty,Honda,Activa 6G,Petrol,109.51,85,60,Moderate Traffic,170,Urban,123
+21,26,Scooty,Honda,Activa 6G,Petrol,109.51,59,89,Light Traffic,50,Urban,94
+31,36,Scooty,Honda,Activa 6G,Petrol,109.51,72,74,Moderate Traffic,70,Urban,107
+42,47,Scooty,Honda,Activa 6G,Petrol,109.51,80,65,Heavy Traffic,110,Urban,118
+23,28,Scooty,Honda,Activa 6G,Petrol,109.51,61,86,Moderate Traffic,55,Urban,101
+39,44,Scooty,Honda,Activa 6G,Petrol,109.51,79,67,Light Traffic,95,Urban,112
+26,31,Scooty,Honda,Activa 6G,Petrol,109.51,65,80,Moderate Traffic,65,Urban,103
+47,52,Scooty,Honda,Activa 6G,Petrol,109.51,83,62,Heavy Traffic,130,Urban,118
+34,39,Scooty,Honda,Activa 6G,Petrol,109.51,75,70,Light Traffic,85,Urban,113
+18,23,Scooty,Honda,Activa 6G,Petrol,109.51,55,95,Moderate Traffic,40,Urban,98
+28,33,Scooty,Honda,Activa 6G,Petrol,109.51,68,80,Light Traffic,75,Urban,103
+41,46,Scooty,Honda,Activa 6G,Petrol,109.51,80,65,Heavy Traffic,105,Urban,118
+24,29,Scooty,Honda,Activa 6G,Petrol,109.51,62,87,Moderate Traffic,60,Urban,103
+37,42,Scooty,Honda,Activa 6G,Petrol,109.51,77,69,Light Traffic,90,Urban,113
+19,24,Scooty,Honda,Activa 6G,Petrol,109.51,56,94,Moderate Traffic,45,Urban,98
+29,34,Scooty,Honda,Activa 6G,Petrol,109.51,65,80,Light Traffic,75,Urban,103
+44,49,Scooty,Honda,Activa 6G,Petrol,109.51,82,63,Heavy Traffic,115,Urban,118
+30,35,Scooty,Honda,Activa 6G,Petrol,109.51,70,75,Moderate Traffic,80,Urban,108
+49,54,Scooty,Honda,Activa 6G,Petrol,109.51,84,61,Heavy Traffic,125,Urban,118
+32,37,Scooty,Honda,Activa 6G,Petrol,109.51,73,73,Light Traffic,90,Urban,113
+20,25,Scooter,Suzuki,Access 125,Petrol,124,55,95,Light Traffic,50,Urban,100
+15,20,Scooter,Suzuki,Access 125,Petrol,124,50,100,Moderate Traffic,30,Urban,105
+25,30,Scooter,Suzuki,Access 125,Petrol,124,60,90,Heavy Traffic,100,Urban,110
+10,15,Scooter,Suzuki,Access 125,Petrol,124,45,105,Light Traffic,20,Urban,95
+30,35,Scooter,Suzuki,Access 125,Petrol,124,65,85,Moderate Traffic,80,Urban,115
+12,18,Scooter,Suzuki,Access 125,Petrol,124,48,98,Moderate Traffic,25,Urban,100
+18,22,Scooter,Suzuki,Access 125,Petrol,124,52,96,Light Traffic,40,Urban,105
+35,40,Scooter,Suzuki,Access 125,Petrol,124,70,75,Heavy Traffic,120,Urban,120
+22,28,Scooter,Suzuki,Access 125,Petrol,124,57,91,Moderate Traffic,60,Urban,105
+28,33,Scooter,Suzuki,Access 125,Petrol,124,62,87,Light Traffic,70,Urban,110
+40,45,Scooter,Suzuki,Access 125,Petrol,124,75,70,Moderate Traffic,140,Urban,125
+16,21,Scooter,Suzuki,Access 125,Petrol,124,51,97,Heavy Traffic,35,Urban,100
+24,29,Scooter,Suzuki,Access 125,Petrol,124,58,90,Moderate Traffic,65,Urban,105
+38,43,Scooter,Suzuki,Access 125,Petrol,124,72,74,Light Traffic,100,Urban,120
+14,19,Scooter,Suzuki,Access 125,Petrol,124,47,99,Moderate Traffic,30,Urban,95
+29,34,Scooter,Suzuki,Access 125,Petrol,124,63,85,Light Traffic,75,Urban,110
+45,50,Scooter,Suzuki,Access 125,Petrol,124,78,68,Moderate Traffic,150,Urban,130
+17,23,Scooter,Suzuki,Access 125,Petrol,124,53,94,Heavy Traffic,40,Urban,100
+27,32,Scooter,Suzuki,Access 125,Petrol,124,60,88,Moderate Traffic,60,Urban,105
+36,41,Scooter,Suzuki,Access 125,Petrol,124,70,75,Light Traffic,90,Urban,115
+19,24,Scooter,Suzuki,Access 125,Petrol,124,54,93,Moderate Traffic,45,Urban,100
+33,38,Scooter,Suzuki,Access 125,Petrol,124,67,80,Heavy Traffic,80,Urban,115
+50,55,Scooter,Suzuki,Access 125,Petrol,124,80,65,Moderate Traffic,170,Urban,130
+21,26,Scooter,Suzuki,Access 125,Petrol,124,55,95,Light Traffic,50,Urban,100
+31,36,Scooter,Suzuki,Access 125,Petrol,124,68,80,Moderate Traffic,70,Urban,115
+42,47,Scooter,Suzuki,Access 125,Petrol,124,75,70,Heavy Traffic,110,Urban,125
+23,28,Scooter,Suzuki,Access 125,Petrol,124,58,90,Moderate Traffic,55,Urban,105
+39,44,Scooter,Suzuki,Access 125,Petrol,124,73,73,Light Traffic,95,Urban,120
+26,31,Scooter,Suzuki,Access 125,Petrol,124,60,88,Moderate Traffic,65,Urban,105
+47,52,Scooter,Suzuki,Access 125,Petrol,124,77,69,Heavy Traffic,130,Urban,125
+34,39,Scooter,Suzuki,Access 125,Petrol,124,70,75,Light Traffic,85,Urban,115
+18,23,Scooter,Suzuki,Access 125,Petrol,124,52,96,Moderate Traffic,40,Urban,105
+28,33,Scooter,Suzuki,Access 125,Petrol,124,62,87,Light Traffic,70,Urban,110
+41,46,Scooter,Suzuki,Access 125,Petrol,124,75,70,Heavy Traffic,105,Urban,125
+24,29,Scooter,Suzuki,Access 125,Petrol,124,58,90,Moderate Traffic,60,Urban,105
+37,42,Scooter,Suzuki,Access 125,Petrol,124,72,74,Light Traffic,90,Urban,120
+19,24,Scooter,Suzuki,Access 125,Petrol,124,54,93,Moderate Traffic,45,Urban,100
+29,34,Scooter,Suzuki,Access 125,Petrol,124,63,85,Light Traffic,75,Urban,110
+44,49,Scooter,Suzuki,Access 125,Petrol,124,78,68,Moderate Traffic,115,Urban,130
+30,35,Scooter,Suzuki,Access 125,Petrol,124,65,80,Moderate Traffic,80,Urban,115
+49,54,Scooter,Suzuki,Access 125,Petrol,124,80,65,Heavy Traffic,125,Urban,125
+32,37,Scooter,Suzuki,Access 125,Petrol,124,67,80,Light Traffic,90,Urban,115
+21,26,Scooter,Suzuki,Access 125,Petrol,124,55,95,Light Traffic,50,Urban,100
+31,36,Scooter,Suzuki,Access 125,Petrol,124,60,88,Moderate Traffic,70,Urban,105
+20,25,Bike,Yamaha,FZ-S V3.0 FI,Petrol,149,45,105,Light Traffic,50,Urban,110
+15,20,Bike,Yamaha,FZ-S V3.0 FI,Petrol,149,42,110,Moderate Traffic,30,Urban,115
+25,30,Bike,Yamaha,FZ-S V3.0 FI,Petrol,149,48,100,Heavy Traffic,100,Urban,120
+10,15,Bike,Yamaha,FZ-S V3.0 FI,Petrol,149,40,115,Light Traffic,20,Urban,105
+30,35,Bike,Yamaha,FZ-S V3.0 FI,Petrol,149,50,98,Moderate Traffic,80,Urban,125
+12,18,Bike,Yamaha,FZ-S V3.0 FI,Petrol,149,43,108,Moderate Traffic,25,Urban,113
+18,22,Bike,Yamaha,FZ-S V3.0 FI,Petrol,149,47,102,Light Traffic,40,Urban,118
+35,40,Bike,Yamaha,FZ-S V3.0 FI,Petrol,149,52,96,Heavy Traffic,120,Urban,123
+22,28,Bike,Yamaha,FZ-S V3.0 FI,Petrol,149,49,99,Moderate Traffic,60,Urban,122
+28,33,Bike,Yamaha,FZ-S V3.0 FI,Petrol,149,51,95,Light Traffic,70,Urban,128
+40,45,Bike,Yamaha,FZ-S V3.0 FI,Petrol,149,55,91,Moderate Traffic,140,Urban,133
+16,21,Bike,Yamaha,FZ-S V3.0 FI,Petrol,149,44,107,Heavy Traffic,35,Urban,116
+24,29,Bike,Yamaha,FZ-S V3.0 FI,Petrol,149,46,104,Moderate Traffic,65,Urban,121
+38,43,Bike,Yamaha,FZ-S V3.0 FI,Petrol,149,53,94,Light Traffic,100,Urban,130
+14,19,Bike,Yamaha,FZ-S V3.0 FI,Petrol,149,41,113,Moderate Traffic,30,Urban,108
+29,34,Bike,Yamaha,FZ-S V3.0 FI,Petrol,149,50,98,Light Traffic,75,Urban,125
+45,50,Bike,Yamaha,FZ-S V3.0 FI,Petrol,149,56,89,Moderate Traffic,150,Urban,135
+17,23,Bike,Yamaha,FZ-S V3.0 FI,Petrol,149,45,105,Heavy Traffic,40,Urban,110
+27,32,Bike,Yamaha,FZ-S V3.0 FI,Petrol,149,48,100,Moderate Traffic,60,Urban,120
+36,41,Bike,Yamaha,FZ-S V3.0 FI,Petrol,149,54,93,Light Traffic,90,Urban,128
+20,25,Motorcycle,Royal Enfield,Classic 350,Petrol,346,35,120,Light Traffic,50,Urban,125
+15,20,Motorcycle,Royal Enfield,Classic 350,Petrol,346,30,130,Moderate Traffic,30,Urban,135
+25,30,Motorcycle,Royal Enfield,Classic 350,Petrol,346,40,110,Heavy Traffic,100,Urban,115
+10,15,Motorcycle,Royal Enfield,Classic 350,Petrol,346,25,140,Light Traffic,20,Urban,145
+30,35,Motorcycle,Royal Enfield,Classic 350,Petrol,346,45,100,Moderate Traffic,80,Urban,105
+12,18,Motorcycle,Royal Enfield,Classic 350,Petrol,346,28,135,Moderate Traffic,25,Urban,140
+18,22,Motorcycle,Royal Enfield,Classic 350,Petrol,346,32,125,Light Traffic,40,Urban,130
+35,40,Motorcycle,Royal Enfield,Classic 350,Petrol,346,50,90,Heavy Traffic,120,Urban,95
+22,28,Motorcycle,Royal Enfield,Classic 350,Petrol,346,38,115,Moderate Traffic,60,Urban,120
+28,33,Motorcycle,Royal Enfield,Classic 350,Petrol,346,42,105,Light Traffic,70,Urban,110
+40,45,Motorcycle,Royal Enfield,Classic 350,Petrol,346,55,85,Moderate Traffic,140,Urban,90
+16,21,Motorcycle,Royal Enfield,Classic 350,Petrol,346,31,130,Heavy Traffic,35,Urban,135
+24,29,Motorcycle,Royal Enfield,Classic 350,Petrol,346,36,120,Moderate Traffic,65,Urban,125
+38,43,Motorcycle,Royal Enfield,Classic 350,Petrol,346,52,95,Light Traffic,100,Urban,100
+14,19,Motorcycle,Royal Enfield,Classic 350,Petrol,346,29,135,Moderate Traffic,30,Urban,140
+29,34,Motorcycle,Royal Enfield,Classic 350,Petrol,346,44,110,Light Traffic,75,Urban,115
+45,50,Motorcycle,Royal Enfield,Classic 350,Petrol,346,60,80,Moderate Traffic,150,Urban,85
+17,23,Motorcycle,Royal Enfield,Classic 350,Petrol,346,33,125,Heavy Traffic,40,Urban,130
+27,32,Motorcycle,Royal Enfield,Classic 350,Petrol,346,40,110,Moderate Traffic,60,Urban,115
+36,41,Motorcycle,Royal Enfield,Classic 350,Petrol,346,48,100,Light Traffic,90,Urban,105
+20,25,Motorcycle,Honda,CB Unicorn 160,Petrol,162.71,50,100,Light Traffic,50,Urban,105
+15,20,Motorcycle,Honda,CB Unicorn 160,Petrol,162.71,45,105,Moderate Traffic,30,Urban,110
+25,30,Motorcycle,Honda,CB Unicorn 160,Petrol,162.71,55,95,Heavy Traffic,100,Urban,115
+10,15,Motorcycle,Honda,CB Unicorn 160,Petrol,162.71,40,110,Light Traffic,20,Urban,100
+30,35,Motorcycle,Honda,CB Unicorn 160,Petrol,162.71,60,90,Moderate Traffic,80,Urban,120
+12,18,Motorcycle,Honda,CB Unicorn 160,Petrol,162.71,42,108,Moderate Traffic,25,Urban,113
+18,22,Motorcycle,Honda,CB Unicorn 160,Petrol,162.71,48,102,Light Traffic,40,Urban,108
+35,40,Motorcycle,Honda,CB Unicorn 160,Petrol,162.71,65,85,Heavy Traffic,120,Urban,125
+22,28,Motorcycle,Honda,CB Unicorn 160,Petrol,162.71,52,96,Moderate Traffic,60,Urban,110
+28,33,Motorcycle,Honda,CB Unicorn 160,Petrol,162.71,58,92,Light Traffic,70,Urban,107
+40,45,Motorcycle,Honda,CB Unicorn 160,Petrol,162.71,70,75,Moderate Traffic,140,Urban,105
+16,21,Motorcycle,Honda,CB Unicorn 160,Petrol,162.71,46,104,Heavy Traffic,35,Urban,110
+24,29,Motorcycle,Honda,CB Unicorn 160,Petrol,162.71,54,93,Moderate Traffic,65,Urban,118
+38,43,Motorcycle,Honda,CB Unicorn 160,Petrol,162.71,68,80,Light Traffic,100,Urban,120
+14,19,Motorcycle,Honda,CB Unicorn 160,Petrol,162.71,43,108,Moderate Traffic,30,Urban,110
+29,34,Motorcycle,Honda,CB Unicorn 160,Petrol,162.71,62,87,Light Traffic,75,Urban,105
+45,50,Motorcycle,Honda,CB Unicorn 160,Petrol,162.71,75,70,Moderate Traffic,150,Urban,100
+17,23,Motorcycle,Honda,CB Unicorn 160,Petrol,162.71,47,102,Heavy Traffic,40,Urban,108
+27,32,Motorcycle,Honda,CB Unicorn 160,Petrol,162.71,56,91,Moderate Traffic,60,Urban,115
+36,41,Motorcycle,Honda,CB Unicorn 160,Petrol,162.71,62,87,Light Traffic,90,Urban,105
+20,25,Motorcycle,TVS,Apache RTR 160,Petrol,159.7,40,115,Light Traffic,50,Urban,120
+15,20,Motorcycle,TVS,Apache RTR 160,Petrol,159.7,35,120,Moderate Traffic,30,Urban,125
+25,30,Motorcycle,TVS,Apache RTR 160,Petrol,159.7,45,110,Heavy Traffic,100,Urban,130
+10,15,Motorcycle,TVS,Apache RTR 160,Petrol,159.7,30,125,Moderate Traffic,20,Urban,115
+30,35,Motorcycle,TVS,Apache RTR 160,Petrol,159.7,50,100,Light Traffic,80,Urban,135
+12,18,Motorcycle,TVS,Apache RTR 160,Petrol,159.7,32,120,Moderate Traffic,25,Urban,120
+18,22,Motorcycle,TVS,Apache RTR 160,Petrol,159.7,38,115,Heavy Traffic,40,Urban,125
+35,40,Motorcycle,TVS,Apache RTR 160,Petrol,159.7,55,95,Light Traffic,120,Urban,140
+22,28,Motorcycle,TVS,Apache RTR 160,Petrol,159.7,42,105,Moderate Traffic,60,Urban,130
+28,33,Motorcycle,TVS,Apache RTR 160,Petrol,159.7,48,100,Heavy Traffic,70,Urban,135
+40,45,Motorcycle,TVS,Apache RTR 160,Petrol,159.7,60,80,Moderate Traffic,140,Urban,120
+16,21,Motorcycle,TVS,Apache RTR 160,Petrol,159.7,36,115,Light Traffic,35,Urban,125
+24,29,Motorcycle,TVS,Apache RTR 160,Petrol,159.7,44,105,Moderate Traffic,65,Urban,130
+38,43,Motorcycle,TVS,Apache RTR 160,Petrol,159.7,58,90,Heavy Traffic,100,Urban,135
+14,19,Motorcycle,TVS,Apache RTR 160,Petrol,159.7,34,120,Light Traffic,30,Urban,115
+29,34,Motorcycle,TVS,Apache RTR 160,Petrol,159.7,52,100,Moderate Traffic,75,Urban,130
+45,50,Motorcycle,TVS,Apache RTR 160,Petrol,159.7,65,85,Heavy Traffic,150,Urban,135
+17,23,Motorcycle,TVS,Apache RTR 160,Petrol,159.7,38,115,Moderate Traffic,40,Urban,125
+27,32,Motorcycle,TVS,Apache RTR 160,Petrol,159.7,46,105,Light Traffic,60,Urban,120
+36,41,Motorcycle,TVS,Apache RTR 160,Petrol,159.7,54,93,Moderate Traffic,90,Urban,125
+23,61,Motorcycle,TVS,Apache RTR 160,Petrol,159.7,61,94,Heavy Traffic,61,Urban,146

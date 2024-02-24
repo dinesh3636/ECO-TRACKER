@@ -1,3 +1,19 @@
-GET http://localhost:5001/carpooling
+POST http://localhost:5000/predict
 Content-Type: application/json
 
+{
+    "distance": 0,
+    "durationInMins": 0,
+    "Route Distance (km)": 38, 
+    "Route Duration (min)": 57,
+    "Transportation Mode": "Car",
+    "Make": "Maruti Suzuki",
+    "Model": "Vitara Brezza",
+    "Fuel Type": "Petrol",
+    "Engine Specs": 1.5,
+    "Fuel Efficiency (km/L)": 16.8,
+    "Vehicle CO2 Emissions (g/km)": 136,
+    "Traffic Information": "Heavy traffic",
+    "Elevation Data (m)": 110,
+    "Road Types": "Hill road"
+}
