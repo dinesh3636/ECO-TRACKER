@@ -211,7 +211,7 @@ app.get("/carpooling", (req, res) => {
         res.status(500).json({ error: err.message });
     })
 })
-
+/*
 app.post('/api/predict', (req, res) => {
     const { inputData } = req.body;
     axios.post('http://localhost:5000/predict', inputData)
@@ -222,7 +222,7 @@ app.post('/api/predict', (req, res) => {
         res.status(500).json({ error: 'Error making prediction request' });
       });
   });
-
+*/
 // app.post('/postcarpooling', async(req, res)=>{
 //     try{
 //     const {name, model, seats, pay, orgin, destination,seatsAvailable,depatureTime}= req.body;

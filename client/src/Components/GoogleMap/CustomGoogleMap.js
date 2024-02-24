@@ -3,6 +3,7 @@ import { useRef, useState } from "react";
 // this global google is important to make google global
 /* global google */ 
 import { useEffect } from "react";
+import { Toaster, toast } from "react-hot-toast"
 
 import axios from "axios";
 
@@ -46,9 +47,10 @@ function CustomGoogleMap() {
   const [traffic, setTraffic] = useState('')
   const [elevation, setElevation] = useState('')
   const [routeIndex, setRouteIndex] = useState(0) // initially select first route
-const [nnew , setNnew]= useState(0)
+  const [nnew , setNnew]= useState(0)
   const [newTraffic, setNewTraffic] = useState('');
-  
+  const [routeVehicleType, setRouteVehicleType] = useState("Car");
+
   const [durationInMins, setDurationInMins] = useState(0);
   const [trafficInMins, setTrafficInMins] = useState(0);
 
@@ -142,11 +144,383 @@ const [nnew , setNnew]= useState(0)
   'Amaze': ['Petrol', 'Diesel'],
   'WR-V': ['Petrol', 'Diesel'],
   'CR-V': ['Petrol', 'Diesel'],
-    // Add more fuel types for other models
+  'RX 100': ['Petrol'],
+  'FZ': ['Petrol'],
+  'MT': ['Petrol'],
+  'R15': ['Petrol'],
+  'YZF-R1': ['Petrol'],
+  'MT-15': ['Petrol'],
+  'FZS-FI Version 3.0': ['Petrol'],
+  'FZ-S V3.0 FI': ['Petrol'],
+  'Apache': ['Petrol'],
+  'XL': ['Petrol'],
+  'Jupiter': ['Petrol'],
+  'Star City': ['Petrol'],
+  'Scooty': ['Petrol'],
+  'Apache RTR': ['Petrol'],
+  'Apache RTR 160 4V': ['Petrol'],
+  'Platina': ['Petrol'],
+  'Avenger': ['Petrol'],
+  'Hornet': ['Petrol'],
+  'CT 100': ['Petrol'],
+  'Pulsar': ['Petrol'],
+  'Discover': ['Petrol'],
+  'Pulsar NS200': ['Petrol'],
+  'Dio': ['Petrol'],
+  'CB Hornet 160R': ['Petrol'],
+  'Activa 6G': ['Petrol'],
+  'Burgman': ['Petrol'],
+  'Access': ['Petrol'],
+  'Gixxer': ['Petrol'],
+  'Gixxer SF': ['Petrol'],
+  'Access 125': ['Petrol'],
+  'Activa': ['Petrol'],
+  'Grazia': ['Petrol'],
+  'CB Hornet 160R': ['Petrol'],
+  'Splendor': ['Petrol'],
+  'Classic': ['Petrol'],
+  'Classic 350': ['Petrol'],
+  'Ninja 300': ['Petrol'],
+  'Duke 390': ['Petrol'],
+  'Duke 200': ['Petrol']
   };
 
+  const modelData = {
+    'Vitara Brezza': {
+      'Petrol': { engineSpecs: 1.5, fuelEfficiency: 16.8, co2Emissions: 136},
+       'Diesel': { engineSpecs: 1.5, fuelEfficiency: 16.8, co2Emissions: 136 },
+    },
+  'Polo': {
+      'Petrol': { engineSpecs: 1, fuelEfficiency: 20.425, co2Emissions: 131.25},
+       'Diesel': { engineSpecs: 1.5, fuelEfficiency: 21.425, co2Emissions: 125.95 },
+    },
+'Vento': {
+      'Petrol': { engineSpecs: 1.6, fuelEfficiency: 18.725,co2Emissions: 141.35},
+       'Diesel': { engineSpecs: 1.5, fuelEfficiency: 21.425, co2Emissions: 125.95 },
+    },
+'Taigun':{
+      'Petrol': { engineSpecs: 1.5,fuelEfficiency: 16.975,co2Emissions: 150.6},
+       'Diesel': { engineSpecs: 1.5, fuelEfficiency: 19.875, co2Emissions: 134.8},
+    },
+'Beetle':{
+      'Petrol': { engineSpecs: 1.4,fuelEfficiency: 14.65,co2Emissions: 169.8},
+       'Diesel': { engineSpecs: 1.6, fuelEfficiency: 18.55, co2Emissions: 143.4},
+    },
+'Jetta':{
+      'Petrol': { engineSpecs: 1.4,fuelEfficiency: 14.75,co2Emissions: 167.10},
+       'Diesel': { engineSpecs: 1.5, fuelEfficiency: 19.875, co2Emissions: 134.8},
+    },
+'Gofl':{
+      'Petrol': { engineSpecs: 1.5,fuelEfficiency: 19.2,co2Emissions: 145.792},
+       'Diesel': { engineSpecs: 1.5, fuelEfficiency: 19.875, co2Emissions: 134.8},
+    },
+'Lavida':{
+      'Petrol': { engineSpecs: 1.6,fuelEfficiency: 16.9,co2Emissions: 150.6},
+       'Diesel': { engineSpecs: 1.6, fuelEfficiency: 18.575, co2Emissions: 142.3},
+    },
+'Tigor':{
+      'Petrol': { engineSpecs: 1.2,fuelEfficiency: 20,co2Emissions: 120},
+       'Diesel': { engineSpecs: 1.5, fuelEfficiency: 19.875, co2Emissions: 134.8},
+    },
+'Nano':{
+      'Petrol': { engineSpecs: 0.6,fuelEfficiency: 33.3,co2Emissions: 200},
+       'Diesel': { engineSpecs: 1.5, fuelEfficiency: 19.875, co2Emissions: 134.8},
+    },
+'Zest':{
+      'Petrol': { engineSpecs: 1.2,fuelEfficiency: 20,co2Emissions: 150},
+       'Diesel': { engineSpecs: 1.5, fuelEfficiency: 19.875, co2Emissions: 134.8},
+    },
+'Safari':{
+      'Petrol': { engineSpecs: 2.1,fuelEfficiency: 13.5,co2Emissions: 190},
+       'Diesel': { engineSpecs: 2.1, fuelEfficiency: 13.5, co2Emissions: 190},
+    },
+'Harrier':{
+      'Petrol': { engineSpecs: 1.72,fuelEfficiency: 15.5,co2Emissions: 120},
+       'Diesel': { engineSpecs: 1.72, fuelEfficiency: 15.5, co2Emissions: 120},
+    },
+'Indigo':{
+      'Petrol': { engineSpecs: 1.32,fuelEfficiency: 17.3,co2Emissions: 124},
+       'Diesel': { engineSpecs: 1.32, fuelEfficiency: 17.3, co2Emissions: 124},
+    },
+'Indica':{
+      'Petrol': { engineSpecs: 1.3,fuelEfficiency: 16.6,co2Emissions: 109.33},
+       'Diesel': { engineSpecs: 1.3, fuelEfficiency: 16.6, co2Emissions: 109.33},
+    },
+'Bolt':{
+      'Petrol': { engineSpecs: 1.33,fuelEfficiency: 20,co2Emissions: 95},
+       'Diesel': { engineSpecs: 1.33, fuelEfficiency: 20, co2Emissions: 95},
+    },
+'Vista':{
+      'Petrol': { engineSpecs: 1.3,fuelEfficiency: 18,co2Emissions: 107.5},
+       'Diesel': { engineSpecs: 1.3, fuelEfficiency: 18, co2Emissions: 107.5},
+    },
+'Thar':{
+      'Petrol': { engineSpecs: 1.5,fuelEfficiency: 12.5,co2Emissions: 187.5},
+       'Diesel': { engineSpecs: 1.5, fuelEfficiency: 19.875, co2Emissions: 134.8},
+    },
+'XUV300':{
+      'Petrol': { engineSpecs: 1.344,fuelEfficiency: 18.3,co2Emissions: 112.5},
+       'Diesel': { engineSpecs: 1.344, fuelEfficiency: 18.3, co2Emissions: 112.5},
+    },
+'Bolero':{
+      'Petrol': { engineSpecs: 1.5,fuelEfficiency: 16.975,co2Emissions: 150},
+       'Diesel': { engineSpecs: 1.5, fuelEfficiency: 16.975, co2Emissions: 150},
+    },
+'Scorpio':{
+      'Petrol': { engineSpecs: 1.5,fuelEfficiency: 16.975,co2Emissions: 150.6},
+       'Diesel': { engineSpecs: 1.5, fuelEfficiency: 19.875, co2Emissions: 134.8},
+    },
+'Marazzo':{
+      'Petrol': { engineSpecs: 1.5,fuelEfficiency: 18,co2Emissions: 140},
+       'Diesel': { engineSpecs: 1.5, fuelEfficiency: 18, co2Emissions: 140},
+    },
+'KUV100 NXT':{
+      'Petrol': { engineSpecs: 1.2,fuelEfficiency: 21.5,co2Emissions: 107.5},
+       'Diesel': { engineSpecs: 1.2, fuelEfficiency: 21.5, co2Emissions: 134.8},
+    },
+'XUV500':{
+      'Petrol': { engineSpecs: 2.1,fuelEfficiency: 13.96,co2Emissions: 178.08},
+       'Diesel': { engineSpecs: 2.1, fuelEfficiency: 13.96, co2Emissions: 173.08},
+    },
+'TUV300':{
+      'Petrol': { engineSpecs: 1.35,fuelEfficiency: 14.56,co2Emissions: 171.6},
+       'Diesel': { engineSpecs: 1.35, fuelEfficiency: 14.56, co2Emissions: 171.6},
+    },
+'City':{
+      'Petrol': { engineSpecs: 1.5,fuelEfficiency: 21.12,co2Emissions: 105},
+       'Diesel': { engineSpecs: 1.5, fuelEfficiency: 21.12, co2Emissions: 105},
+    },
+ 'Ignis': {
+    'Petrol': { engineSpecs: 1.247368421, fuelEfficiency: 21.2, co2Emissions: 124.05 },
+    'Diesel': { engineSpecs: 1.247368421, fuelEfficiency: 21.2, co2Emissions: 124.05 },
+  },
+  'Alto': {
+    'Petrol': { engineSpecs: 0.88, fuelEfficiency: 22.675, co2Emissions: 119.8 },
+    'Diesel': { engineSpecs: 0.88, fuelEfficiency: 21.2, co2Emissions: 124.05 },
+  },
+  'Celerio': {
+    'Petrol': { engineSpecs: 1, fuelEfficiency: 23.04, co2Emissions: 117.35 },
+    'Diesel': { engineSpecs: 1, fuelEfficiency: 24.82, co2Emissions: 111.3684211 },
+  },
+  'S-Presso': {
+    'Petrol': { engineSpecs: 1, fuelEfficiency: 22.095, co2Emissions: 122.95 },
+    'Diesel': { engineSpecs: 1.2, fuelEfficiency: 25.74210526, co2Emissions: 105.8421053 },
+  },
+  'Polo': {
+    'Petrol': { engineSpecs: 1, fuelEfficiency: 20.425, co2Emissions: 131.25 },
+    'Diesel': { engineSpecs: 1.5, fuelEfficiency: 21.425, co2Emissions: 125.95 },
+  },
+  'Grand i10': {
+    'Petrol': { engineSpecs: 1.2, fuelEfficiency: 21.40740741, co2Emissions: 99.3333333 },
+    'Diesel': { engineSpecs: 1.2, fuelEfficiency: 21.40740741, co2Emissions: 99.3333333 },
+  },
+  'Grand i10 Nios': {
+    'Petrol': { engineSpecs: 1.2, fuelEfficiency: 22.5, co2Emissions: 95 },
+    'Diesel': { engineSpecs: 1.2, fuelEfficiency: 22.5, co2Emissions: 95 },
+  },
+  'i20': {
+    'Petrol': { engineSpecs: 1.35, fuelEfficiency: 21, co2Emissions: 102.5 },
+    'Diesel': { engineSpecs: 1.35, fuelEfficiency: 21, co2Emissions: 102.5 },
+  },
+  'Aura': {
+    'Petrol': { engineSpecs: 1.2, fuelEfficiency: 22.5, co2Emissions: 117.35 },
+    'Diesel': { engineSpecs: 1.2, fuelEfficiency: 22.5, co2Emissions: 117.35 },
+  },
+  'Verna': {
+    'Petrol': { engineSpecs: 1.5, fuelEfficiency: 19.5, co2Emissions: 115 },
+    'Diesel': { engineSpecs: 1.5, fuelEfficiency: 19.5, co2Emissions: 115 },
+  },
+  'Venue': {
+    'Petrol': { engineSpecs: 1.3, fuelEfficiency: 20.44444, co2Emissions: 106.25 },
+    'Diesel': { engineSpecs: 1.3, fuelEfficiency: 20.44444, co2Emissions: 106.25 },
+  },
+  'Elantra': {
+    'Petrol': { engineSpecs: 1.75, fuelEfficiency: 18, co2Emissions: 125 },
+    'Diesel': { engineSpecs: 1.75, fuelEfficiency: 18, co2Emissions: 125 },
+  },
+  'Creta': {
+    'Petrol': { engineSpecs: 1.5, fuelEfficiency: 19.5, co2Emissions: 115 },
+    'Diesel': { engineSpecs: 1.5, fuelEfficiency: 19.5, co2Emissions: 115 },
+  },
+  'Alcazar': {
+    'Petrol': { engineSpecs: 1.5, fuelEfficiency: 18, co2Emissions: 120 },
+    'Diesel': { engineSpecs: 1.5, fuelEfficiency: 18, co2Emissions: 120 },
+  },
+  'Tucson': {
+    'Petrol': { engineSpecs: 1.8, fuelEfficiency: 16, co2Emissions: 140 },
+    'Diesel': { engineSpecs: 1.8, fuelEfficiency: 16, co2Emissions: 140 },
+  },
+  'Jazz': {
+    'Petrol': { engineSpecs: 1.342105263, fuelEfficiency: 21.31578947, co2Emissions: 108.1578947 },
+    'Diesel': { engineSpecs: 1.342105263, fuelEfficiency: 21.31578947, co2Emissions: 108.1578947 },
+  },
+  'Amaze': {
+    'Petrol': { engineSpecs: 1.35, fuelEfficiency: 21.5, co2Emissions: 110 },
+    'Diesel': { engineSpecs: 1.35, fuelEfficiency: 21.5, co2Emissions: 110 },
+  },
+  'City': {
+    'Petrol': { engineSpecs: 1.5, fuelEfficiency: 21, co2Emissions: 105 },
+    'Diesel': { engineSpecs: 1.5, fuelEfficiency: 21, co2Emissions: 105 },
+  },
+  'WR-V': {
+    'Petrol': { engineSpecs: 1.357894737, fuelEfficiency: 21.68421053, co2Emissions: 106.8421053 },
+    'Diesel': { engineSpecs: 1.357894737, fuelEfficiency: 21.68421053, co2Emissions: 106.8421053 },
+  },
+  'CR-V': {
+    'Petrol': { engineSpecs: 1.810526316, fuelEfficiency: 15.89473684, co2Emissions: 138.4210526 },
+    'Diesel': { engineSpecs: 1.5, fuelEfficiency: 21, co2Emissions: 105 },
+  },
+ 'Alturas G4': {
+    'Petrol': { engineSpecs: 2.2, fuelEfficiency: 12, co2Emissions: 210},
+    'Diesel': { engineSpecs: 2.2, fuelEfficiency: 12, co2Emissions: 210 },
+  },
+ 'e20Plus':{
+    'Petrol': { engineSpecs: 0, fuelEfficiency: 5, co2Emissions:0 },
+    'Diesel': { engineSpecs: 0, fuelEfficiency: 5, co2Emissions: 0},
+  },
+ 'Accord Hybrid': {
+    'Petrol': { engineSpecs: 2, fuelEfficiency: 21.46, co2Emissions: 87},
+    'Diesel': { engineSpecs: 2, fuelEfficiency: 21.46, co2Emissions: 87 },
+  },
+ 'Camry': {
+    'Petrol': { engineSpecs: 2.31, fuelEfficiency: 14.872, co2Emissions: 121.477},
+    'Diesel': { engineSpecs: 2.31, fuelEfficiency: 14.872, co2Emissions: 121.477 },
+  },
+'Platina': {
+  'Petrol': { engineSpecs: 125, fuelEfficiency: 61.3, co2Emissions: 78.4}
+    },
+'Dio':{
+  'Petrol': { engineSpecs: 109,fuelEfficiency: 55.8,co2Emissions: 74.125}
+    },
+'XL':{
+  'Petrol': { engineSpecs: 99,fuelEfficiency: 57.86,co2Emissions: 92.64}
+    },
+'Avenger':{
+  'Petrol': { engineSpecs: 160,fuelEfficiency: 33,co2Emissions: 189.8}
+    },
+'Hornet':{
+  'Petrol': { engineSpecs: 160,fuelEfficiency: 33,co2Emissions: 129.8}
+    },
+'CT 100':{
+  'Petrol': { engineSpecs: 1.5,fuelEfficiency: 21.12,co2Emissions: 105}
+    },
+'Burgman':{
+  'Petrol': { engineSpecs: 125,fuelEfficiency: 30.16,co2Emissions: 156.64}
+    },
+'Activa':{
+  'Petrol': { engineSpecs: 110,fuelEfficiency: 40.96,co2Emissions: 90.176}
+    },
+'splendor':{
+  'Petrol': { engineSpecs: 97,fuelEfficiency: 70,co2Emissions: 140}
+    },
+'Jupiter':{
+  'Petrol': { engineSpecs: 110,fuelEfficiency: 40.96,co2Emissions: 89}
+    },
+'CT 100':{
+  'Petrol': { engineSpecs: 1.5,fuelEfficiency: 21.12,co2Emissions: 105}
+    },
+'Access'	:{
+'petrol':{engineSpecs: 125,fuelEfficiency: 50 ,co2Emissions: 100}
+},
+'FZ':{
+  'Petrol': { engineSpecs: 149,fuelEfficiency: 45,co2Emissions: 120}
+    },
+'Pulsar':{
+  'Petrol': { engineSpecs: 150,fuelEfficiency: 45,co2Emissions: 85}
+    },
+'Classic':{
+  'Petrol': { engineSpecs: 500,fuelEfficiency: 25,co2Emissions: 120}
+    },
+'MT':{
+  'Petrol': { engineSpecs: 321,fuelEfficiency: 22.6,co2Emissions: 112.93}
+    },
+'Grazia':{
+  'Petrol': { engineSpecs: 125,fuelEfficiency: 35,co2Emissions: 117.7}
+    },
+'Star City':{
+  'Petrol': { engineSpecs: 110,fuelEfficiency: 11.217,co2Emissions: 192.60}
+    },
+'R15':{
+  'Petrol': { engineSpecs: 155,fuelEfficiency: 41.7,co2Emissions: 166.68}
+    },
+'Scooty':{
+  'Petrol': { engineSpecs: 110,fuelEfficiency:41.6 ,co2Emissions: 166.67}
+    },
+'Ninja 300':{
+  'Petrol': { engineSpecs: 301.57,fuelEfficiency: 27.19,co2Emissions: 122.77}
+    },
+'Discover':{
+  'Petrol': { engineSpecs: 138.5,fuelEfficiency: 52.55,co2Emissions: 97.75}
+    },
+'Gixxer':{
+  'Petrol': { engineSpecs: 158,fuelEfficiency: 50,co2Emissions: 101.25}
+    },
+'Apache RTR':{
+  'Petrol': { engineSpecs: 188,fuelEfficiency: 39.85,co2Emissions: 120.6}
+    },
+'YZF-R1':{
+  'Petrol': { engineSpecs: 998,fuelEfficiency: 21.95,co2Emissions: 149.55}
+    },
+'Duke 390':{
+  'Petrol': { engineSpecs: 373,fuelEfficiency: 30.9,co2Emissions: 427.7}
+    },
+'CB Hornet 160R':{
+  'Petrol': { engineSpecs: 162,fuelEfficiency: 48.8,co2Emissions: 104.2}
+    },
+'MT-15':{
+  'Petrol': { engineSpecs: 155,fuelEfficiency: 41.25,co2Emissions: 112.3}
+    },
+'Gixxer SF':{
+  'Petrol': { engineSpecs: 155,fuelEfficiency: 37,co2Emissions: 115.2}
+    },
+'Pulsar NS200':{
+  'Petrol': { engineSpecs: 199,fuelEfficiency: 37.2,co2Emissions: 115.25}
+    },
+'CB Hornet 160R':{
+  'Petrol': { engineSpecs: 162,fuelEfficiency: 39.65,co2Emissions: 113.25}
+    },
+'Apache RTR 160': {
+'Petrol': { engineSpecs: 159.7, fuelEfficiency: 45.85714286, co2Emissions: 105.0952381 }
+},
+'CB Unicorn 160': {
+'Petrol': { engineSpecs: 162.71, fuelEfficiency: 54.9, co2Emissions: 94 }
+},
+'Classic 350': {
+'Petrol': { engineSpecs: 346, fuelEfficiency: 39.65, co2Emissions: 113 }
+},
+'FZ-S V3.0 FI': {
+'Petrol': { engineSpecs: 149, fuelEfficiency: 47.95, co2Emissions: 101.1 }
+},
+'Access 125': {
+'Petrol': { engineSpecs: 124, fuelEfficiency: 62.93181818, co2Emissions: 84.34090909 }
+},
+'Activa 6G': {
+'Petrol': { engineSpecs: 109.51, fuelEfficiency: 67.5952381, co2Emissions: 79.11904762 }
+},
+'Apache RTR 160': {
+'Petrol': { engineSpecs: 159, fuelEfficiency: 47, co2Emissions: 101.7 }
+},
+'CB Unicorn 150': {
+'Petrol': { engineSpecs: 149, fuelEfficiency: 58.3, co2Emissions: 91.6 }
+},
+'Duke 200': {
+'Petrol': { engineSpecs: 200, fuelEfficiency: 37.2, co2Emissions: 115.25 }
+},
+'Gixxer SF': {
+'Petrol': { engineSpecs: 155, fuelEfficiency: 44.45, co2Emissions: 106.05 }
+},
+'FZS-FI Version 3.0': {
+'Petrol': { engineSpecs: 149, fuelEfficiency: 47, co2Emissions: 101.7 }
+},
+'Apache RTR 160 4V': {
+'Petrol': { engineSpecs: 159, fuelEfficiency: 47, co2Emissions: 101.7 }
+  },
+'RX 100': {
+  'Petrol': { engineSpecs: 100, fuelEfficiency: 44.25, co2Emissions: 88.73}
+  }
 
-
+  };
+/*
 const modelData={
     'Vitara Brezza': {
       'Petrol': { engineSpecs: 1.5, fuelEfficiency: 16.8, co2Emissions: 136},
@@ -429,7 +803,7 @@ const modelData={
     'Diesel': { engineSpecs: 159, fuelEfficiency: 47, co2Emissions: 101.7 },
   }
 };
-
+  */
   useEffect(() => {
     // Update models when the selectedBrand or selectedType changes
     if (selectedBrand && selectedType === 'Car') {
@@ -526,10 +900,10 @@ const modelData={
 
   async function calculateRoute(routeType) {
     if (originRef.current.value === '' || destiantionRef.current.value === '') {
-      return
+      return toast.error("Enter Origin and Destination !");
     }
 
-    
+    setRouteVehicleType(routeType);
     // eslint-disable-next-line no-undef
     const directionsService = new google.maps.DirectionsService()
     const departureTime = new Date();
@@ -690,7 +1064,11 @@ const modelData={
   }
 
   const selectRoute = (index) => {
-    if (!directionsResponse) return ;
+    if (!directionsResponse) return toast.error("Give Origin and Destination !");
+
+    // if ((routeVehicleType == "Car" || routeVehicleType == "Bike" ) && !selectedType) return toast.error("Select Vehicle Type !");;
+
+    if (routeVehicleType== "Car" && !selectedType) return toast.error("Select Vehicle Type !");
 
     setDistance(directionsResponse.routes[index].legs[0].distance.text);
     setDuration(directionsResponse.routes[index].legs[0].duration.text);
@@ -698,6 +1076,20 @@ const modelData={
     setDurationInMins(convertToMinutes(duration));
     setRouteIndex(index);
 
+    if (routeVehicleType == "Walking") {
+      setPredictedEmissions(0);
+      return;
+    }
+    if (routeVehicleType == "Bus") {
+      let busEmissionFactor = 15.161; // in gram
+      let BusMileage = 5.57; 
+      let fuelConsumed = parseFloat(distance)/BusMileage;
+      let totalEmissions = busEmissionFactor*fuelConsumed;
+      let emissionRate = totalEmissions/(parseFloat(distance)) 
+      setPredictedEmissions(emissionRate); 
+      return;
+    }
+      
     // MACHINE LEARNING REQUEST
 
     let updatedDistance = distance.replace(' km', ''); 
@@ -715,7 +1107,7 @@ const modelData={
       k: elevation ? parseFloat(elevation) : 110,
       l: roadType ? roadType : "Hill road"
     }
-
+    // FeatureObj Structure
     // const featuresObj = {
     //   a: 38,
     //   b: 57,
@@ -734,7 +1126,9 @@ const modelData={
     axios.post(process.env.REACT_APP_FLASK_SERVER_DOMAIN + "/predict", featuresObj )
     .then(response => {
       console.log("Predictions:", parseFloat(response.data));
-      setPredictedEmissions(parseFloat(response.data));
+      if (routeVehicleType == "Car") setPredictedEmissions(parseFloat(response.data)/4);
+      else if (routeVehicleType == "Bike") setPredictedEmissions(parseFloat(response.data)/2);
+      else setPredictedEmissions(parseFloat(response.data));
     })
     .catch(error => {
       console.error("Error:", error);
@@ -744,6 +1138,7 @@ const modelData={
 
  
   return (<>
+  <Toaster />
 <div style={{display:'flex'}}>
     
     <Flex
@@ -907,16 +1302,16 @@ p={4}
     </div>
         <HStack spacing={2} mt={4} justifyContent='space-between'>
           <ButtonGroup>
-            <Button colorScheme='pink' type='submit' onClick={() => calculateRoute("DRIVING")}>
+            <Button colorScheme='pink' type='submit' onClick={() =>{ calculateRoute("DRIVING"); setRouteVehicleType("Car"); }}>
               Car
             </Button>
-            <Button colorScheme='pink' type='submit' onClick={() =>{ calculateRoute("DRIVING")}}>
+            <Button colorScheme='pink' type='submit' onClick={() =>{ calculateRoute("DRIVING"); setRouteVehicleType("Bike");}}>
               Bike
             </Button>
-            <Button colorScheme='pink' type='submit' onClick={() => calculateRoute("TRANSIT")}>
+            <Button colorScheme='pink' type='submit' onClick={() =>{ calculateRoute("TRANSIT"); setRouteVehicleType("Bus");}}>
               Bus
             </Button>
-            <Button colorScheme='pink' type='submit' onClick={() => calculateRoute("WALKING")}>
+            <Button colorScheme='pink' type='submit' onClick={() =>{ calculateRoute("WALKING"); setRouteVehicleType("Walking");}}>
               Walking 
             </Button>
             <IconButton
@@ -933,7 +1328,7 @@ p={4}
             <RouteButtons />
             {
               predictedEmissions ?
-             <Text>Estimated CO2 Emissions: {predictedEmissions} </Text>
+             <Text>Estimated CO2 Emissions(per person): {predictedEmissions} </Text>
              : ""
             }
           </ButtonGroup>

@@ -71,9 +71,6 @@ def predict():
     elevation_data = float(data['k'])
     road_types = data['l']
 
-    # road_types_available = ["Hill road", "Local road", "Highway"]
-    # road_types= random.choice(road_types_available)
-    # the following code should NOT be changed
     form_data = {
         'Route Distance (km)': [route_distance],
         'Route Duration (min)': [route_duration],

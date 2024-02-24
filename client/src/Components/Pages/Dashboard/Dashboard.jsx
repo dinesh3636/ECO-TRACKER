@@ -16,7 +16,7 @@ const Dashboard = () => {
           {/* <PESTLE /> */}
           </div>
           <div className={styles.topicsComponent}>
-          <Topic />
+          <Topic /> 
           </div>
            <div className={styles.relevanceComponent}>
           <Source />
