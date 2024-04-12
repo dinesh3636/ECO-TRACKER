@@ -520,6 +520,7 @@ function CustomGoogleMap() {
   }
 
   };
+
 /*
 const modelData={
     'Vitara Brezza': {
@@ -804,7 +805,8 @@ const modelData={
   }
 };
   */
-  useEffect(() => {
+  
+useEffect(() => {
     // Update models when the selectedBrand or selectedType changes
     if (selectedBrand && selectedType === 'Car') {
       setModels(carModels[selectedBrand] || []);
@@ -936,7 +938,7 @@ const modelData={
           console.log('Elevation Data:', elevationResults);
           // setElevation(elevationResults);
           let sumOfElevations = 0;
-          
+
           for (let i = 0; i < elevationResults.length-1; i++) {
             const elivationDiff= elevationResults[i+1].elevation-elevationResults[i].elevation;
             if(elivationDiff > 0){
@@ -1303,7 +1305,7 @@ p={4}
         <HStack spacing={2} mt={4} justifyContent='space-between'>
           <ButtonGroup>
             <Button colorScheme='pink' type='submit' onClick={() =>{ calculateRoute("DRIVING"); setRouteVehicleType("Car"); }}>
-              Car
+            Car
             </Button>
             <Button colorScheme='pink' type='submit' onClick={() =>{ calculateRoute("DRIVING"); setRouteVehicleType("Bike");}}>
               Bike
@@ -1314,11 +1316,6 @@ p={4}
             <Button colorScheme='pink' type='submit' onClick={() =>{ calculateRoute("WALKING"); setRouteVehicleType("Walking");}}>
               Walking 
             </Button>
-            <IconButton
-              aria-label='center back'
-              icon={<FaTimes />}
-              onClick={clearRoute}
-            />
             {/* <Button onClick={fetchElevationData}>Fetch Elevation Data</Button> */}
           </ButtonGroup>
         </HStack>
